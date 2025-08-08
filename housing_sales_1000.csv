@@ -1,0 +1,1001 @@
+SaleID,DateSold,Address,City,State,Zip,Beds,Baths,SqFt,LotAcres,YearBuilt,SalePrice,PropertyType,Latitude,Longitude,AgentName,ListingOffice,DaysOnMarket
+HS0522,2023-11-21,8101 Cedar Ln,Riverside,CA,54035,3,2.8,3664,0.38,2024,518008,Single Family,33.895633,-117.480567,Jordan Lee,Lakeside Properties,163
+HS0738,2020-04-25,4928 Ridge Blvd,Madison,WI,82286,3,1.8,2910,0.95,1917,315478,Single Family,43.087647,-89.353308,Taylor Brooks,Lakeside Properties,188
+HS0741,2023-10-02,4798 Cedar Blvd,Springfield,IL,17864,3,2.4,1228,0.44,2006,154868,Single Family,39.810934,-89.668611,Sam Carter,Summit Brokers,183
+HS0661,2020-10-23,562 Elm Rd,Columbus,OH,89355,3,2.3,1449,0.32,2021,165738,Condo,39.956959,-82.923294,Alex Morgan,Prime Realty,198
+HS0412,2023-04-02,9847 Highland Blvd,Albany,NY,69682,3,2.1,3686,2.35,1947,402739,Single Family,42.661192,-73.728537,Jamie Rivera,Lakeside Properties,141
+HS0679,2022-09-26,2122 Chestnut Way,Seattle,WA,92716,1,1.9,2063,1.79,2003,343961,Single Family,47.657956,-122.309822,Taylor Brooks,Urban Homes,188
+HS0627,2021-10-21,3831 Cedar Ave,Albany,NY,19351,4,2.7,2056,0.21,1942,250661,Single Family,42.736829,-73.664005,Casey Nguyen,Hearthstone Realty,49
+HS0514,2020-09-17,586 Cedar St,Madison,WI,18942,3,1.8,1027,1.57,1941,119632,Condo,43.177402,-89.451938,Casey Nguyen,Summit Brokers,160
+HS0860,2023-11-20,5615 Highland Ave,Columbus,OH,15929,2,2.4,1455,1.7,1994,129371,Condo,39.96947,-83.067901,Casey Nguyen,Lakeside Properties,180
+HS0137,2020-10-16,2408 Cedar St,Burlington,VT,48038,2,2.5,685,0.39,2015,73245,Mobile Home,44.510638,-73.265141,Morgan Patel,Summit Brokers,185
+HS0812,2022-05-23,6989 Sunset Way,Austin,TX,13627,2,1.6,2954,0.96,2016,632403,Single Family,30.174871,-97.764533,Jordan Lee,Summit Brokers,132
+HS0077,2020-07-14,8238 Spruce Ln,Springfield,IL,89569,3,1.9,744,1.08,1992,79964,Condo,39.741175,-89.695327,Jamie Rivera,Prime Realty,80
+HS0637,2024-03-10,7402 Pine Ct,Madison,WI,89278,1,1.5,5798,0.6,1958,926156,Multi-Family,43.077088,-89.444162,Logan Brown,Prime Realty,189
+HS0974,2021-05-04,4541 Birch Ln,Phoenix,AZ,56575,2,1.5,920,0.19,2011,127760,Single Family,33.435122,-112.005495,Riley Smith,Prime Realty,115
+HS0939,2020-01-08,8347 Pine Ct,Madison,WI,12992,2,1.6,1035,0.36,1987,166570,Condo,43.001332,-89.430168,Morgan Patel,Prime Realty,191
+HS0900,2020-09-19,7813 View Way,Springfield,IL,74264,3,1.4,1980,1.44,1903,248145,Single Family,39.762506,-89.639986,Taylor Brooks,Urban Homes,22
+HS0281,2024-05-22,8671 Willow Terrace,Albany,NY,63707,3,2.0,3640,0.51,1988,333338,Multi-Family,42.706824,-73.785077,Morgan Patel,Urban Homes,1
+HS0884,2022-06-29,6705 View Way,Madison,WI,78603,3,2.1,3547,4.8,1952,519105,Single Family,43.064294,-89.397051,Morgan Patel,Urban Homes,10
+HS0762,2025-06-20,3681 Willow Ct,Springfield,IL,81576,2,1.2,1416,1.54,1924,187873,Single Family,39.747631,-89.601709,Alex Morgan,Hearthstone Realty,209
+HS0320,2021-09-05,9760 Spruce Blvd,Burlington,VT,70909,1,0.7,3504,0.44,1984,436209,Single Family,44.489028,-73.202421,Logan Brown,Urban Homes,194
+HS0550,2020-01-22,3579 Highland St,Portland,OR,78945,2,0.9,3520,0.35,1963,628937,Single Family,45.499928,-122.736953,Morgan Patel,Prime Realty,73
+HS0175,2019-07-18,2873 Elm Way,Columbus,OH,34123,3,3.1,1099,1.36,1909,97117,Townhouse,39.971078,-82.976339,Alex Morgan,Lakeside Properties,36
+HS0372,2024-09-03,1228 River Blvd,Madison,WI,68901,3,1.4,2130,0.39,1999,245009,Single Family,43.068928,-89.473682,Riley Smith,Urban Homes,5
+HS0528,2020-07-12,4123 Spruce Way,Springfield,IL,73620,2,3.2,2817,0.25,1934,368799,Single Family,39.806979,-89.575644,Alex Morgan,Hearthstone Realty,203
+HS0211,2023-10-19,893 Oak Ave,Columbus,OH,92074,3,2.5,3473,0.48,1900,483251,Single Family,39.884485,-82.953178,Jordan Lee,Urban Homes,167
+HS0236,2021-02-05,929 Walnut Ct,Austin,TX,61773,1,1.4,3412,0.64,1927,701965,Single Family,30.27162,-97.669223,Casey Nguyen,Hearthstone Realty,115
+HS0102,2020-12-11,8793 River Ln,Riverside,CA,55793,2,1.9,2453,0.76,1925,340424,Single Family,33.941753,-117.36139,Logan Brown,Urban Homes,195
+HS0987,2022-10-13,7525 View Rd,Burlington,VT,81549,1,1.0,2787,0.51,1943,472334,Single Family,44.491235,-73.239636,Taylor Brooks,Hearthstone Realty,88
+HS0903,2019-01-14,1475 Walnut Way,Albany,NY,15833,3,1.4,2017,1.29,1981,193111,Single Family,42.616107,-73.65748,Casey Nguyen,Hearthstone Realty,144
+HS0948,2024-09-14,6395 Chestnut Ln,Albany,NY,13670,3,4.1,2030,1.82,1946,319085,Single Family,42.655066,-73.720078,Dana Kim,Lakeside Properties,123
+HS0347,2022-07-16,7936 Meadow St,Phoenix,AZ,75860,3,2.7,897,0.21,1958,134945,Condo,33.412896,-112.103885,Alex Morgan,Prime Realty,173
+HS0140,2023-05-02,6706 Lake St,Columbus,OH,62505,4,3.5,1222,1.66,1909,159438,Condo,40.030308,-82.966365,Dana Kim,Lakeside Properties,196
+HS0622,2022-08-11,7811 View Ave,Riverside,CA,31945,4,4.2,3057,0.46,1922,389825,Single Family,33.854526,-117.358645,Morgan Patel,Summit Brokers,178
+HS0500,2020-08-11,9008 Hill Terrace,Madison,WI,99780,2,1.6,875,2.06,2005,98699,Condo,43.141627,-89.36644,Alex Morgan,Urban Homes,133
+HS0371,2024-04-02,8051 Ridge Rd,Springfield,IL,81137,2,1.2,3599,1.08,1993,299891,Single Family,39.85738,-89.680768,Casey Nguyen,Summit Brokers,142
+HS0199,2022-07-07,3163 Lake Terrace,Seattle,WA,35830,3,3.3,3240,0.3,1981,843731,Single Family,47.579505,-122.402457,Logan Brown,Lakeside Properties,157
+HS0688,2020-10-22,2022 Walnut Blvd,Burlington,VT,10697,3,2.3,3146,0.11,1926,479443,Single Family,44.53867,-73.164807,Jamie Rivera,Summit Brokers,66
+HS0585,2022-03-07,5068 Spruce Way,Columbus,OH,13667,4,2.9,3645,4.5,1939,429065,Multi-Family,39.973614,-83.08008,Jordan Lee,Urban Homes,210
+HS0902,2021-03-01,2872 Highland Terrace,Columbus,OH,77677,3,2.4,1404,0.35,1908,202072,Condo,39.935267,-82.95614,Dana Kim,Urban Homes,187
+HS0060,2022-03-28,2541 Chestnut Blvd,Burlington,VT,19359,3,3.0,1327,1.2,2017,161948,Townhouse,44.58539,-73.252515,Sam Carter,Prime Realty,120
+HS0329,2024-08-27,7529 View Ave,Columbus,OH,40122,0,0.5,2100,0.32,2010,198364,Single Family,39.950298,-83.13074,Riley Smith,Urban Homes,156
+HS0097,2022-06-17,4575 Willow Ave,Phoenix,AZ,55242,2,2.1,670,14.06,1967,68453,Condo,33.537508,-112.044486,Alex Morgan,Urban Homes,102
+HS0313,2022-11-09,2119 Oak St,Madison,WI,85067,1,1.4,3236,0.49,1995,364799,Single Family,43.116746,-89.432695,Jordan Lee,Lakeside Properties,166
+HS0975,2024-10-16,6640 Willow Ln,Austin,TX,59873,3,2.8,3470,2.2,1974,556503,Single Family,30.27685,-97.69487,Jamie Rivera,Urban Homes,194
+HS0300,2021-07-07,3442 Meadow St,Albany,NY,57013,5,2.3,2338,2.11,2010,235485,Townhouse,42.756304,-73.802169,Dana Kim,Lakeside Properties,61
+HS0278,2019-07-19,3560 Maple Blvd,Madison,WI,26143,3,2.5,2140,0.2,1968,264685,Single Family,43.181647,-89.409994,Logan Brown,Prime Realty,170
+HS0925,2019-05-30,4904 Lake Ct,Madison,WI,12296,2,1.5,1027,5.89,1945,142904,Condo,43.067146,-89.396513,Dana Kim,Lakeside Properties,64
+HS0602,2019-01-30,5067 Birch Ln,Riverside,CA,74724,4,3.0,482,0.81,1926,62644,Condo,33.969276,-117.313519,Jordan Lee,Lakeside Properties,29
+HS0440,2019-11-24,4511 Sunset Terrace,Seattle,WA,14385,4,3.6,1068,0.69,1961,204428,Single Family,47.684344,-122.3458,Taylor Brooks,Summit Brokers,193
+HS0838,2023-01-02,7943 Cedar Ave,Phoenix,AZ,20011,2,0.9,1802,0.76,2004,224260,Condo,33.451494,-112.120378,Jordan Lee,Lakeside Properties,183
+HS0571,2020-02-11,2836 Cedar Ln,Riverside,CA,57400,3,3.0,1352,0.65,1963,218265,Townhouse,33.995576,-117.338639,Taylor Brooks,Hearthstone Realty,86
+HS0880,2019-04-06,2587 Cedar Ct,Seattle,WA,35465,2,2.2,3255,0.86,1995,672782,Single Family,47.559202,-122.308267,Casey Nguyen,Hearthstone Realty,118
+HS0262,2021-04-02,1175 Spruce Ct,Madison,WI,27779,4,1.7,3192,0.54,2006,496783,Single Family,43.023135,-89.426439,Alex Morgan,Urban Homes,9
+HS0579,2025-07-10,882 Cedar Way,Riverside,CA,49054,3,1.6,761,5.73,2003,127678,Mobile Home,33.978811,-117.42044,Logan Brown,Summit Brokers,153
+HS0024,2021-04-13,2300 Chestnut Ave,Riverside,CA,24029,3,2.6,3361,3.7,1943,419300,Single Family,33.966294,-117.357109,Casey Nguyen,Summit Brokers,126
+HS0031,2024-09-25,9612 Chestnut St,Madison,WI,24208,5,3.4,4134,2.1,2025,683683,Single Family,43.050477,-89.362348,Jamie Rivera,Lakeside Properties,148
+HS0618,2019-03-30,3341 Spruce Blvd,Burlington,VT,38697,3,2.5,1881,2.16,1925,197116,Single Family,44.445489,-73.193944,Taylor Brooks,Hearthstone Realty,26
+HS0011,2023-01-26,2604 Lake Blvd,Burlington,VT,80697,3,3.0,3191,1.35,1914,350503,Single Family,44.524548,-73.17232,Casey Nguyen,Urban Homes,15
+HS0222,2024-10-19,5167 Walnut Ave,Springfield,IL,11660,2,1.8,995,0.78,1966,120811,Mobile Home,39.804494,-89.54185,Casey Nguyen,Urban Homes,96
+HS0821,2023-05-19,7609 Chestnut St,Austin,TX,30750,1,1.3,1900,2.26,1967,301204,Multi-Family,30.190848,-97.768273,Dana Kim,Prime Realty,45
+HS0297,2024-08-25,3391 Willow Rd,Burlington,VT,99995,2,1.9,1283,1.26,1922,187808,Mobile Home,44.398917,-73.286414,Dana Kim,Hearthstone Realty,182
+HS0055,2022-10-27,9166 Spruce Blvd,Springfield,IL,93606,3,2.2,3430,1.23,1956,402954,Single Family,39.839418,-89.673969,Taylor Brooks,Prime Realty,65
+HS0543,2023-09-30,1504 Maple Way,Austin,TX,27459,2,2.1,1708,1.66,1990,283850,Condo,30.197508,-97.771406,Logan Brown,Hearthstone Realty,19
+HS0210,2020-06-18,6616 Willow Ct,Seattle,WA,37767,5,3.6,3638,0.71,1973,659036,Single Family,47.57553,-122.347223,Logan Brown,Lakeside Properties,202
+HS0605,2019-06-28,5392 Sunset Ct,Springfield,IL,45918,1,1.4,1315,0.19,1997,157338,Single Family,39.774544,-89.610748,Jordan Lee,Prime Realty,72
+HS0693,2019-11-14,3256 Lake Blvd,Albany,NY,65009,2,2.1,505,0.53,1931,46660,Mobile Home,42.657387,-73.785866,Casey Nguyen,Prime Realty,137
+HS0663,2023-06-19,6843 Pine Ave,Albany,NY,93385,2,0.5,4013,1.81,1926,522773,Single Family,42.705451,-73.74626,Casey Nguyen,Prime Realty,44
+HS0867,2019-11-01,1523 Elm Rd,Albany,NY,97649,3,2.9,1761,0.2,1928,214292,Townhouse,42.627094,-73.719724,Morgan Patel,Urban Homes,130
+HS0071,2019-11-25,2461 Sunset Blvd,Springfield,IL,19807,3,2.4,1172,0.93,1983,98653,Condo,39.726637,-89.625716,Morgan Patel,Summit Brokers,98
+HS0544,2019-07-06,9225 Oak St,Riverside,CA,53628,1,1.8,1217,0.59,1976,181231,Mobile Home,33.994075,-117.398604,Alex Morgan,Hearthstone Realty,130
+HS0108,2020-06-12,2563 Hill Ave,Portland,OR,86380,2,2.4,1233,0.32,1950,165893,Condo,45.478874,-122.650531,Logan Brown,Prime Realty,80
+HS0494,2023-03-20,1510 Elm Ln,Portland,OR,49745,4,2.4,2610,0.47,1975,384488,Multi-Family,45.553866,-122.649219,Jamie Rivera,Prime Realty,105
+HS0591,2021-01-18,494 River Terrace,Phoenix,AZ,60070,2,2.9,2390,1.07,1918,405190,Single Family,33.416438,-112.118544,Casey Nguyen,Prime Realty,40
+HS0742,2020-05-27,9472 River Rd,Albany,NY,39794,1,1.2,2896,1.34,2025,334647,Single Family,42.619329,-73.720105,Jordan Lee,Lakeside Properties,159
+HS0293,2022-10-16,1852 Chestnut Ln,Phoenix,AZ,34581,2,1.4,1465,0.65,1924,219199,Townhouse,33.377767,-112.013334,Jamie Rivera,Lakeside Properties,12
+HS0290,2022-06-01,2044 Forest St,Columbus,OH,23453,3,3.1,2876,1.53,1911,328610,Single Family,39.901518,-82.952842,Dana Kim,Summit Brokers,53
+HS0653,2019-10-14,3744 View Ct,Burlington,VT,78350,3,2.4,2359,2.55,1962,322852,Single Family,44.520562,-73.224872,Jordan Lee,Prime Realty,163
+HS0040,2019-09-13,2571 Birch Ct,Madison,WI,30028,2,1.5,1527,0.89,1953,252429,Single Family,43.098349,-89.357912,Jordan Lee,Lakeside Properties,100
+HS0590,2019-04-06,4118 Highland Way,Burlington,VT,21094,3,2.6,2718,3.68,2010,470300,Single Family,44.505208,-73.232721,Morgan Patel,Lakeside Properties,47
+HS0308,2020-03-01,2842 Meadow St,Riverside,CA,92173,3,2.0,4235,1.5,1954,567533,Multi-Family,33.921964,-117.35308,Jordan Lee,Summit Brokers,180
+HS0680,2024-04-23,961 Walnut Way,Burlington,VT,61355,3,2.1,2255,8.15,1954,233164,Single Family,44.442276,-73.200936,Morgan Patel,Lakeside Properties,101
+HS0067,2024-09-12,8265 Spruce Rd,Madison,WI,64459,3,2.6,3089,3.17,1924,491518,Single Family,43.022081,-89.414655,Taylor Brooks,Prime Realty,71
+HS0276,2019-07-07,4176 Birch Terrace,Springfield,IL,50906,4,3.1,1509,2.72,1908,153303,Single Family,39.748996,-89.741632,Casey Nguyen,Hearthstone Realty,117
+HS0068,2024-06-28,5668 River Rd,Phoenix,AZ,10336,1,1.9,1406,3.93,1984,164361,Condo,33.501321,-112.161937,Taylor Brooks,Lakeside Properties,138
+HS0319,2024-04-17,611 Highland Ct,Seattle,WA,87337,0,0.6,1700,1.02,1969,399574,Single Family,47.563278,-122.275821,Taylor Brooks,Hearthstone Realty,101
+HS0549,2020-11-20,8049 Ridge Way,Seattle,WA,24744,5,3.7,1596,0.44,1923,269600,Multi-Family,47.674605,-122.390537,Dana Kim,Hearthstone Realty,145
+HS0999,2025-04-15,8055 Birch Way,Riverside,CA,39017,1,1.3,1565,0.26,1962,266433,Townhouse,33.889955,-117.374267,Logan Brown,Summit Brokers,97
+HS0715,2020-06-17,3128 Chestnut Way,Phoenix,AZ,57655,2,2.0,2306,1.11,1970,261478,Single Family,33.431466,-112.082607,Morgan Patel,Hearthstone Realty,190
+HS0754,2020-01-18,1825 Spruce Ct,Madison,WI,30736,5,4.0,1840,0.31,1985,191695,Multi-Family,43.102493,-89.370213,Morgan Patel,Lakeside Properties,120
+HS0328,2024-09-23,7823 Forest Blvd,Portland,OR,38752,2,1.7,1066,0.85,1923,184508,Townhouse,45.542141,-122.700661,Casey Nguyen,Urban Homes,186
+HS0383,2024-06-22,1605 Highland Ct,Albany,NY,84588,3,2.4,1288,0.54,1922,168955,Townhouse,42.56671,-73.741957,Logan Brown,Prime Realty,153
+HS0452,2022-08-17,4250 Spruce Way,Madison,WI,96570,2,1.8,2139,0.32,1988,265729,Townhouse,43.046333,-89.383277,Casey Nguyen,Urban Homes,200
+HS0523,2020-01-12,8879 Willow Rd,Riverside,CA,44754,1,1.4,807,2.61,2022,127382,Condo,34.052942,-117.435165,Logan Brown,Prime Realty,152
+HS0219,2019-09-05,6086 Meadow Blvd,Phoenix,AZ,71736,2,2.1,1344,5.6,1905,139709,Single Family,33.460248,-112.096741,Riley Smith,Summit Brokers,74
+HS0788,2023-04-04,4354 Oak Ave,Springfield,IL,16291,3,3.5,554,1.47,2003,60575,Condo,39.773181,-89.690741,Casey Nguyen,Urban Homes,36
+HS0437,2022-03-27,9031 Willow Blvd,Phoenix,AZ,72242,2,1.5,2105,0.98,1919,260953,Townhouse,33.389107,-112.190098,Taylor Brooks,Urban Homes,3
+HS0765,2025-02-09,1725 Pine Ave,Portland,OR,21749,4,2.6,2141,1.29,1979,319011,Townhouse,45.454449,-122.759361,Jamie Rivera,Lakeside Properties,129
+HS0089,2024-12-13,2530 Pine Blvd,Portland,OR,46046,3,2.4,4038,1.12,1976,580148,Single Family,45.489176,-122.690953,Casey Nguyen,Lakeside Properties,130
+HS0064,2019-01-05,701 Ridge Ave,Seattle,WA,51224,2,1.9,4433,3.45,2005,820532,Multi-Family,47.606462,-122.329751,Dana Kim,Lakeside Properties,106
+HS0827,2023-07-30,1509 Highland St,Burlington,VT,92459,3,3.2,4371,0.59,1946,629352,Multi-Family,44.441553,-73.142467,Logan Brown,Summit Brokers,19
+HS0717,2021-04-07,3260 Ridge Ave,Burlington,VT,19814,3,2.0,3120,1.73,1997,464817,Single Family,44.46605,-73.242639,Dana Kim,Urban Homes,12
+HS0352,2021-03-25,4356 Lake Terrace,Columbus,OH,83446,2,2.3,3128,1.5,1944,410851,Single Family,39.995211,-82.939175,Logan Brown,Summit Brokers,167
+HS0937,2020-12-28,1830 Hill Ct,Columbus,OH,39504,2,2.3,3084,2.12,2011,289950,Single Family,40.008136,-83.059957,Riley Smith,Hearthstone Realty,1
+HS0257,2023-09-15,9215 Park Terrace,Phoenix,AZ,46202,4,2.8,1204,1.62,1966,134171,Condo,33.421075,-112.099786,Jamie Rivera,Lakeside Properties,39
+HS0636,2024-02-23,5175 Sunset Way,Burlington,VT,30811,5,3.3,3140,0.74,1987,499074,Single Family,44.559834,-73.307682,Casey Nguyen,Urban Homes,2
+HS0645,2020-01-31,1597 Maple Ct,Burlington,VT,13662,1,1.6,976,0.96,2022,135417,Single Family,44.488711,-73.187928,Taylor Brooks,Urban Homes,12
+HS0555,2022-10-31,7031 Pine Ct,Portland,OR,58265,2,1.5,3756,0.94,1965,662294,Single Family,45.534071,-122.800542,Sam Carter,Urban Homes,166
+HS0960,2021-07-25,2687 View Blvd,Madison,WI,52687,3,3.6,2012,1.04,1934,240151,Townhouse,43.127595,-89.429759,Casey Nguyen,Lakeside Properties,78
+HS0169,2019-11-20,7686 Oak Ct,Madison,WI,64592,1,2.0,3308,3.4,1942,518629,Single Family,43.091233,-89.336263,Sam Carter,Hearthstone Realty,24
+HS0918,2019-11-13,3018 Birch Terrace,Portland,OR,57484,2,1.7,775,0.55,2017,161769,Townhouse,45.472243,-122.709886,Jordan Lee,Urban Homes,128
+HS0529,2023-07-26,9122 Walnut St,Albany,NY,73680,4,3.0,1081,0.44,1908,159858,Single Family,42.617264,-73.711268,Morgan Patel,Prime Realty,102
+HS0824,2020-12-13,3896 Cedar Ave,Madison,WI,75461,4,2.2,1473,2.06,1913,197360,Townhouse,43.013114,-89.366254,Riley Smith,Lakeside Properties,17
+HS0986,2021-02-08,2442 Oak Ln,Springfield,IL,31218,2,2.3,2807,1.55,1944,252510,Single Family,39.735243,-89.706801,Logan Brown,Lakeside Properties,116
+HS0817,2023-12-04,1011 Cedar Rd,Phoenix,AZ,63026,1,1.3,3072,0.08,1978,499716,Single Family,33.470587,-112.097664,Logan Brown,Prime Realty,111
+HS0087,2021-06-26,8719 Cedar Ave,Phoenix,AZ,72422,2,2.7,2977,2.16,1964,406215,Single Family,33.359888,-112.125631,Logan Brown,Prime Realty,187
+HS0433,2019-09-09,2986 Spruce Ct,Austin,TX,19123,2,1.0,3917,0.63,1982,655260,Single Family,30.216453,-97.781159,Jamie Rivera,Urban Homes,210
+HS0185,2020-02-28,5996 Chestnut Ave,Austin,TX,27367,2,2.9,662,2.17,1952,116568,Condo,30.260487,-97.751061,Alex Morgan,Prime Realty,91
+HS0979,2024-10-25,738 Oak Ln,Austin,TX,96632,4,3.3,2068,4.08,1922,332660,Single Family,30.268563,-97.795911,Taylor Brooks,Urban Homes,94
+HS0535,2020-02-16,4589 Pine Way,Springfield,IL,71746,2,2.7,3823,6.93,2004,306727,Multi-Family,39.85172,-89.622389,Taylor Brooks,Hearthstone Realty,130
+HS0295,2023-09-11,8428 Walnut Blvd,Austin,TX,26827,5,4.6,1199,0.63,1949,219833,Single Family,30.267475,-97.766885,Logan Brown,Urban Homes,71
+HS0893,2025-06-15,4687 Walnut Rd,Burlington,VT,83880,4,2.9,2022,0.97,1942,210859,Townhouse,44.37493,-73.184658,Logan Brown,Summit Brokers,71
+HS0426,2019-07-26,2906 Pine Rd,Burlington,VT,90381,2,2.9,2710,2.35,2015,437644,Single Family,44.478076,-73.184193,Jamie Rivera,Lakeside Properties,14
+HS0714,2024-04-17,4146 Hill St,Phoenix,AZ,33822,4,2.6,1022,0.74,1936,166060,Single Family,33.410932,-112.085077,Casey Nguyen,Summit Brokers,26
+HS0261,2024-10-16,5357 Chestnut Ct,Austin,TX,89295,2,2.2,1923,1.36,1997,396123,Townhouse,30.252017,-97.840864,Morgan Patel,Prime Realty,132
+HS0238,2024-08-19,8714 Birch St,Burlington,VT,60134,3,1.9,2617,6.39,1972,419231,Single Family,44.464576,-73.260072,Morgan Patel,Lakeside Properties,70
+HS0560,2024-06-16,6570 Cedar St,Springfield,IL,32509,4,4.4,1196,0.23,1977,138633,Mobile Home,39.733031,-89.599743,Casey Nguyen,Summit Brokers,209
+HS0584,2020-09-19,9259 Lake Ave,Madison,WI,88852,1,2.3,2538,0.64,1966,324816,Single Family,43.078272,-89.299096,Jamie Rivera,Hearthstone Realty,79
+HS0446,2020-04-20,6377 Birch Way,Phoenix,AZ,93568,2,2.3,1822,3.42,1933,204601,Single Family,33.344049,-112.103231,Alex Morgan,Urban Homes,119
+HS0868,2025-04-05,4623 Ridge Ave,Columbus,OH,51262,2,3.2,1229,1.6,2007,137627,Single Family,39.912562,-82.978469,Alex Morgan,Prime Realty,63
+HS0801,2022-06-01,840 Maple Rd,Riverside,CA,39922,5,3.3,1068,0.39,1912,131540,Townhouse,33.920784,-117.365681,Morgan Patel,Lakeside Properties,126
+HS0600,2023-12-29,2943 Sunset Way,Springfield,IL,61483,2,2.8,2929,0.33,2004,341365,Multi-Family,39.763425,-89.657665,Jamie Rivera,Hearthstone Realty,209
+HS0850,2022-08-27,9939 Birch Terrace,Springfield,IL,24308,4,2.5,1146,0.17,1926,101186,Single Family,39.787053,-89.667357,Logan Brown,Hearthstone Realty,175
+HS0266,2023-03-23,9949 Maple Ln,Madison,WI,43081,4,3.5,1493,0.26,1954,198436,Condo,43.023083,-89.435087,Morgan Patel,Lakeside Properties,65
+HS0996,2023-04-12,8967 View Way,Riverside,CA,30142,2,2.5,5660,3.08,1905,709745,Multi-Family,34.022813,-117.306833,Casey Nguyen,Prime Realty,161
+HS0530,2020-05-15,3967 Cedar Ave,Madison,WI,78414,5,3.8,2414,0.08,1930,394417,Multi-Family,43.061976,-89.298857,Morgan Patel,Hearthstone Realty,150
+HS0056,2025-04-24,1969 Pine Ct,Austin,TX,74454,5,3.1,1396,0.81,2003,266199,Single Family,30.310083,-97.751097,Casey Nguyen,Prime Realty,64
+HS0121,2024-10-12,1133 Ridge St,Madison,WI,48462,4,2.3,1873,2.53,1939,228487,Single Family,43.007133,-89.412512,Riley Smith,Summit Brokers,122
+HS0216,2021-10-11,3659 Pine Ave,Austin,TX,28351,2,1.9,1404,5.54,1917,244525,Single Family,30.340759,-97.753566,Casey Nguyen,Prime Realty,64
+HS0026,2023-10-27,9289 Maple Ave,Phoenix,AZ,19862,1,1.7,901,0.49,1918,101774,Condo,33.541689,-112.050308,Taylor Brooks,Prime Realty,79
+HS0073,2021-09-27,7369 Walnut Rd,Riverside,CA,13794,2,1.1,1083,0.83,1918,157544,Single Family,33.948203,-117.394093,Dana Kim,Lakeside Properties,145
+HS0045,2019-03-25,953 Lake Ln,Seattle,WA,95215,3,2.7,3925,2.48,1925,634788,Multi-Family,47.596077,-122.329055,Logan Brown,Urban Homes,62
+HS0248,2020-03-04,9570 Birch Blvd,Austin,TX,69151,3,2.8,1313,0.96,2021,222724,Single Family,30.23047,-97.783613,Jamie Rivera,Hearthstone Realty,44
+HS0722,2019-07-31,847 Meadow Ln,Burlington,VT,48252,2,1.5,5663,2.16,1934,822751,Multi-Family,44.442541,-73.248748,Jordan Lee,Urban Homes,137
+HS0282,2021-11-14,1558 Cedar Way,Springfield,IL,29548,3,1.4,1587,1.12,2015,158173,Condo,39.79236,-89.687698,Jordan Lee,Lakeside Properties,76
+HS0894,2024-05-01,7856 Willow Blvd,Portland,OR,10350,2,2.6,2061,1.35,1921,340944,Single Family,45.509451,-122.726807,Alex Morgan,Hearthstone Realty,20
+HS0915,2025-03-24,5036 Spruce Ave,Madison,WI,34195,2,1.0,1626,0.7,1919,212905,Condo,42.97966,-89.380426,Morgan Patel,Prime Realty,123
+HS0811,2023-01-04,7655 Meadow Blvd,Portland,OR,59278,4,2.5,644,0.25,1964,133519,Condo,45.517821,-122.706088,Sam Carter,Hearthstone Realty,110
+HS0245,2024-07-25,6515 Highland St,Portland,OR,33865,1,1.2,721,0.99,2019,151152,Condo,45.510182,-122.731551,Taylor Brooks,Hearthstone Realty,191
+HS0823,2019-10-04,9537 River Rd,Madison,WI,26963,4,2.5,1264,3.22,1951,135175,Condo,43.054961,-89.444639,Alex Morgan,Prime Realty,188
+HS0322,2024-02-06,3896 Pine Rd,Austin,TX,58422,2,2.9,1582,2.52,2017,239244,Single Family,30.31547,-97.681293,Alex Morgan,Prime Realty,167
+HS0644,2021-04-06,8666 Cedar Ct,Springfield,IL,50412,2,1.6,2235,5.24,1998,172594,Townhouse,39.835218,-89.586505,Jordan Lee,Hearthstone Realty,62
+HS0159,2024-09-01,9861 Pine Way,Burlington,VT,79228,2,2.2,2348,8.87,2015,251168,Townhouse,44.424321,-73.238565,Jordan Lee,Summit Brokers,138
+HS0978,2020-06-08,7822 Maple Rd,Phoenix,AZ,94850,1,1.4,2466,0.39,1901,381324,Single Family,33.418155,-112.049111,Dana Kim,Urban Homes,36
+HS0430,2022-05-22,4724 Lake Blvd,Madison,WI,76577,3,3.0,1142,0.53,2001,112100,Condo,43.085758,-89.360183,Dana Kim,Lakeside Properties,103
+HS0942,2024-04-09,5527 Walnut Ln,Portland,OR,70583,3,4.0,1162,0.76,1966,251996,Single Family,45.489212,-122.669171,Riley Smith,Prime Realty,201
+HS0463,2020-12-11,6686 Hill Ave,Columbus,OH,99664,3,3.0,1208,0.2,1975,117240,Townhouse,39.967342,-83.049233,Morgan Patel,Prime Realty,31
+HS0310,2019-01-25,6778 Park Way,Albany,NY,92603,2,2.5,1049,2.13,1968,150638,Condo,42.670172,-73.702692,Logan Brown,Prime Realty,194
+HS0698,2024-11-02,6952 Ridge Blvd,Burlington,VT,67535,2,1.2,2896,2.87,1954,299234,Single Family,44.416174,-73.19781,Jordan Lee,Hearthstone Realty,163
+HS0061,2021-10-22,6694 Chestnut Way,Albany,NY,67377,2,1.9,972,0.26,1977,127450,Townhouse,42.556965,-73.738076,Alex Morgan,Prime Realty,59
+HS0885,2024-08-09,9362 View Ct,Columbus,OH,10730,4,2.0,1257,0.74,1969,147948,Townhouse,39.94747,-82.955141,Morgan Patel,Urban Homes,83
+HS0596,2020-11-16,8906 Sunset Way,Burlington,VT,15477,2,1.3,821,1.63,2024,140980,Single Family,44.534995,-73.188055,Alex Morgan,Prime Realty,124
+HS0768,2023-10-28,354 Maple Blvd,Springfield,IL,59074,2,2.2,2718,0.44,1973,363097,Single Family,39.755787,-89.583836,Jordan Lee,Summit Brokers,101
+HS0650,2021-09-24,8472 Birch St,Phoenix,AZ,40488,2,1.7,1414,0.38,1996,179200,Townhouse,33.447936,-112.058651,Logan Brown,Prime Realty,16
+HS0651,2023-12-23,6236 Forest Rd,Madison,WI,36478,2,1.9,1724,2.65,1992,287610,Single Family,43.024492,-89.352084,Morgan Patel,Urban Homes,72
+HS0866,2020-05-06,4717 Highland Ct,Burlington,VT,68304,4,2.9,544,12.19,2017,95316,Condo,44.423118,-73.229784,Sam Carter,Lakeside Properties,127
+HS0669,2024-12-13,1037 Lake Terrace,Portland,OR,23130,3,2.0,1082,1.98,1915,138107,Single Family,45.498147,-122.614745,Casey Nguyen,Urban Homes,95
+HS0299,2021-10-23,514 Park Blvd,Riverside,CA,16955,2,1.4,523,0.42,1987,57616,Mobile Home,33.890227,-117.439452,Taylor Brooks,Prime Realty,177
+HS0690,2019-07-03,9554 Forest Terrace,Madison,WI,78506,4,1.9,986,0.11,1984,142274,Condo,43.045446,-89.366407,Jordan Lee,Prime Realty,49
+HS0315,2021-08-18,1298 Spruce Ave,Seattle,WA,42858,5,2.5,1444,3.33,1985,242246,Single Family,47.606598,-122.281915,Jamie Rivera,Hearthstone Realty,159
+HS0311,2023-11-28,845 Pine Terrace,Portland,OR,75907,1,1.0,1351,0.98,2018,220084,Single Family,45.495548,-122.702422,Riley Smith,Lakeside Properties,170
+HS0362,2020-07-13,7017 Birch Rd,Riverside,CA,47313,3,2.5,2897,1.95,1923,343330,Multi-Family,33.988077,-117.353745,Casey Nguyen,Prime Realty,164
+HS0480,2021-05-09,2367 Hill Ln,Burlington,VT,80730,4,1.8,1415,0.33,2022,169500,Condo,44.473071,-73.151151,Jordan Lee,Hearthstone Realty,91
+HS0111,2023-08-10,2247 View Ct,Portland,OR,30218,2,1.3,686,0.44,1905,123515,Condo,45.542918,-122.745651,Morgan Patel,Urban Homes,114
+HS0990,2024-12-13,3292 Elm Ln,Seattle,WA,12191,3,3.1,1703,0.9,1972,426731,Townhouse,47.586806,-122.266796,Dana Kim,Prime Realty,205
+HS0487,2022-07-22,774 Hill Blvd,Riverside,CA,67788,1,1.4,1022,1.03,1985,132726,Condo,33.958141,-117.421392,Morgan Patel,Urban Homes,96
+HS0364,2024-08-03,234 Birch Ave,Austin,TX,29750,5,3.5,1091,0.52,2002,241497,Single Family,30.291801,-97.769402,Morgan Patel,Lakeside Properties,179
+HS0255,2020-08-26,4996 Pine Ct,Austin,TX,14551,3,1.4,1265,1.22,1979,243666,Condo,30.326607,-97.716263,Jamie Rivera,Lakeside Properties,45
+HS0260,2020-02-07,907 Forest Rd,Burlington,VT,58816,0,1.7,1729,13.32,2009,290650,Townhouse,44.485619,-73.229758,Jordan Lee,Urban Homes,77
+HS0803,2023-10-31,8608 Maple Blvd,Albany,NY,63781,4,2.8,2095,1.15,1973,312224,Single Family,42.654631,-73.684571,Morgan Patel,Urban Homes,191
+HS0678,2019-05-21,3686 Forest Way,Albany,NY,29323,2,0.8,1141,1.05,2005,140270,Townhouse,42.672811,-73.720406,Logan Brown,Hearthstone Realty,80
+HS0495,2019-06-22,6891 Walnut Way,Albany,NY,84437,3,2.3,1332,3.26,1962,188712,Single Family,42.722671,-73.813284,Casey Nguyen,Summit Brokers,78
+HS0671,2023-04-26,6656 View Ave,Austin,TX,55656,2,3.0,3650,0.49,1993,625468,Multi-Family,30.281882,-97.746461,Casey Nguyen,Summit Brokers,50
+HS0378,2020-11-14,9249 Meadow Ct,Madison,WI,23829,3,2.4,3109,2.28,1913,395704,Single Family,43.160579,-89.332127,Taylor Brooks,Summit Brokers,103
+HS0527,2021-09-03,1155 Willow Ct,Columbus,OH,44987,3,2.6,1408,0.45,1951,157810,Condo,39.922663,-83.020815,Jamie Rivera,Urban Homes,50
+HS0846,2023-12-07,302 Cedar Rd,Portland,OR,84506,4,1.9,2229,1.37,1902,315660,Single Family,45.531818,-122.670445,Alex Morgan,Lakeside Properties,10
+HS0138,2024-09-01,3210 Walnut Way,Columbus,OH,77466,1,1.5,2930,3.28,1950,365628,Single Family,39.936728,-82.946592,Sam Carter,Urban Homes,56
+HS0356,2021-12-11,1665 Pine Way,Riverside,CA,81884,2,2.5,1387,0.78,1913,254654,Mobile Home,33.923424,-117.325082,Logan Brown,Urban Homes,22
+HS0366,2023-05-13,6404 Ridge Ln,Burlington,VT,14392,4,3.6,1027,1.85,1960,152037,Mobile Home,44.536497,-73.199037,Casey Nguyen,Hearthstone Realty,41
+HS0943,2022-04-14,4360 Meadow Ave,Phoenix,AZ,89557,2,1.7,814,1.17,1907,109744,Townhouse,33.413267,-112.169267,Riley Smith,Prime Realty,94
+HS0750,2020-01-21,1328 Elm Way,Portland,OR,22767,2,1.6,3901,1.92,1963,494567,Multi-Family,45.576465,-122.695972,Sam Carter,Hearthstone Realty,44
+HS0949,2020-11-23,2891 Lake Blvd,Portland,OR,86957,3,2.0,3162,0.96,1962,615768,Multi-Family,45.448837,-122.729677,Dana Kim,Lakeside Properties,45
+HS0830,2024-10-21,4218 Park Terrace,Albany,NY,18906,2,1.5,1727,0.38,2009,166424,Condo,42.638979,-73.694514,Logan Brown,Summit Brokers,80
+HS0657,2025-04-21,5018 View Blvd,Riverside,CA,82463,5,3.4,1745,1.54,1948,309981,Single Family,33.937277,-117.394962,Logan Brown,Lakeside Properties,19
+HS0200,2019-12-14,9717 Cedar Terrace,Phoenix,AZ,56135,2,2.7,1198,1.15,1938,177235,Condo,33.458002,-112.089456,Taylor Brooks,Hearthstone Realty,31
+HS0214,2022-07-07,2075 Sunset Blvd,Columbus,OH,72613,2,1.7,1791,1.48,1913,179718,Townhouse,39.960435,-82.969835,Morgan Patel,Hearthstone Realty,36
+HS0409,2024-05-02,4246 Maple Way,Springfield,IL,75225,3,3.0,3181,1.36,1975,360171,Single Family,39.77708,-89.710956,Sam Carter,Lakeside Properties,114
+HS0333,2021-12-06,217 Park Ln,Seattle,WA,51405,4,3.4,898,1.97,1932,179106,Condo,47.586409,-122.341081,Dana Kim,Lakeside Properties,145
+HS0209,2020-01-17,1337 Pine Ct,Austin,TX,77582,3,1.9,1783,1.52,1900,379958,Single Family,30.232767,-97.746233,Sam Carter,Hearthstone Realty,17
+HS0614,2021-03-31,9708 Elm St,Seattle,WA,41114,3,2.3,3501,0.46,1925,778658,Single Family,47.576351,-122.451615,Jordan Lee,Prime Realty,88
+HS0079,2020-07-30,4565 Walnut Rd,Seattle,WA,73156,3,2.0,2244,1.0,1909,496381,Single Family,47.584175,-122.252998,Jordan Lee,Lakeside Properties,206
+HS0030,2022-09-18,6628 Hill Rd,Burlington,VT,19099,3,2.9,1053,0.42,1968,108078,Mobile Home,44.422355,-73.187976,Alex Morgan,Prime Realty,67
+HS0536,2020-07-11,5864 Sunset Terrace,Riverside,CA,69409,3,2.9,892,0.32,1956,125409,Single Family,33.933915,-117.416881,Alex Morgan,Lakeside Properties,52
+HS0696,2024-12-17,1723 Oak Blvd,Portland,OR,51680,4,3.1,632,1.47,2000,85123,Condo,45.521259,-122.610809,Dana Kim,Summit Brokers,104
+HS0558,2019-12-08,5923 Chestnut Ave,Albany,NY,75987,2,3.3,1885,3.79,1905,251260,Townhouse,42.656163,-73.820875,Riley Smith,Hearthstone Realty,81
+HS0837,2021-09-27,4194 Oak Ave,Springfield,IL,17425,4,3.2,1518,1.43,1977,188795,Single Family,39.740245,-89.730338,Casey Nguyen,Urban Homes,156
+HS0597,2024-12-27,9895 Chestnut Ct,Albany,NY,56061,1,0.8,3852,0.33,1920,445089,Single Family,42.66748,-73.810419,Logan Brown,Prime Realty,77
+HS0166,2022-08-06,3939 Meadow Ln,Austin,TX,17398,3,3.2,929,0.18,1973,161479,Condo,30.202466,-97.685059,Jordan Lee,Hearthstone Realty,37
+HS0919,2022-06-28,824 Willow Rd,Burlington,VT,67068,2,2.2,1126,0.41,1936,124924,Single Family,44.407902,-73.15071,Riley Smith,Lakeside Properties,9
+HS0496,2020-05-23,9263 Ridge Ln,Austin,TX,13517,2,2.5,1719,6.23,1960,281186,Townhouse,30.381283,-97.773982,Casey Nguyen,Lakeside Properties,46
+HS0825,2020-12-13,4203 Cedar St,Springfield,IL,19552,4,3.7,1426,0.34,2018,140125,Townhouse,39.812191,-89.754082,Morgan Patel,Prime Realty,179
+HS0066,2020-04-09,2089 Maple Ln,Austin,TX,30758,3,1.6,1944,3.59,2007,392871,Single Family,30.344758,-97.737316,Sam Carter,Prime Realty,166
+HS0142,2024-10-12,8293 Oak St,Phoenix,AZ,15100,3,2.6,1611,1.05,1919,194030,Single Family,33.480674,-111.965837,Taylor Brooks,Hearthstone Realty,157
+HS0926,2021-09-26,1477 Meadow Ave,Madison,WI,26522,2,2.5,1782,0.15,1958,181123,Single Family,43.105395,-89.456152,Dana Kim,Summit Brokers,118
+HS0828,2025-04-07,3136 River Way,Columbus,OH,34921,2,2.8,2137,0.84,2015,260118,Single Family,39.996016,-82.98486,Taylor Brooks,Prime Realty,113
+HS0656,2024-05-28,6288 Walnut Way,Phoenix,AZ,67852,2,2.3,2048,0.06,2004,255435,Townhouse,33.435583,-112.100902,Alex Morgan,Lakeside Properties,110
+HS0332,2019-01-30,7917 Birch Ave,Albany,NY,47128,2,2.1,3313,4.71,1990,386385,Single Family,42.660838,-73.753656,Logan Brown,Summit Brokers,31
+HS0665,2021-02-24,8334 Cedar Way,Madison,WI,84329,2,1.5,2138,0.29,1997,354045,Single Family,42.978723,-89.431021,Casey Nguyen,Lakeside Properties,113
+HS0250,2022-02-27,1759 Hill Ln,Springfield,IL,34901,3,2.0,2661,1.09,1984,278655,Single Family,39.803528,-89.604903,Casey Nguyen,Urban Homes,25
+HS0908,2025-03-09,8913 Highland Ln,Madison,WI,66866,1,3.4,1065,0.77,1964,160552,Condo,43.087862,-89.413112,Casey Nguyen,Prime Realty,132
+HS0709,2022-11-02,1867 Maple Blvd,Riverside,CA,30387,3,1.5,2249,0.14,1986,373245,Single Family,33.959909,-117.401936,Riley Smith,Summit Brokers,189
+HS0306,2022-08-07,244 Cedar Terrace,Seattle,WA,68414,3,2.8,1752,1.09,1905,291160,Single Family,47.596455,-122.275411,Riley Smith,Prime Realty,99
+HS0735,2023-08-23,4662 Elm Ave,Phoenix,AZ,52343,2,2.3,1322,1.73,1961,213723,Single Family,33.425238,-112.035538,Logan Brown,Hearthstone Realty,36
+HS0976,2024-09-14,2071 Forest Terrace,Burlington,VT,51534,2,2.5,2255,0.53,1932,396433,Single Family,44.49046,-73.230279,Jamie Rivera,Lakeside Properties,5
+HS0050,2021-01-14,7485 Birch Way,Albany,NY,84691,3,2.8,4056,0.82,1941,488923,Single Family,42.693871,-73.715525,Sam Carter,Urban Homes,91
+HS0897,2024-03-24,8129 Chestnut Ave,Austin,TX,83125,2,2.3,1639,0.36,2009,353423,Multi-Family,30.251195,-97.863353,Morgan Patel,Lakeside Properties,55
+HS0003,2019-06-27,2647 Willow Terrace,Albany,NY,23396,2,2.5,805,0.22,2003,89502,Condo,42.617433,-73.863181,Sam Carter,Summit Brokers,32
+HS0545,2024-08-25,6341 Spruce Ct,Portland,OR,97983,1,1.0,2813,0.27,1921,612388,Single Family,45.530236,-122.692415,Sam Carter,Hearthstone Realty,120
+HS0351,2021-11-07,8072 Spruce Rd,Columbus,OH,83680,3,2.2,3844,0.36,1927,383702,Single Family,39.961757,-82.963318,Sam Carter,Prime Realty,116
+HS0905,2021-02-21,2874 Maple Ln,Springfield,IL,93616,2,1.2,5725,1.44,1939,750375,Multi-Family,39.672475,-89.636424,Taylor Brooks,Hearthstone Realty,14
+HS0537,2020-06-16,5240 Highland Ave,Albany,NY,24526,2,1.7,1974,0.87,1997,249120,Townhouse,42.533778,-73.773135,Logan Brown,Lakeside Properties,203
+HS0345,2019-06-23,5933 Elm Ave,Portland,OR,25712,2,2.0,2127,0.61,1969,289041,Townhouse,45.4672,-122.753317,Sam Carter,Hearthstone Realty,159
+HS0995,2024-04-13,4613 Hill St,Madison,WI,93460,5,3.5,1511,0.71,1976,193917,Townhouse,42.986456,-89.306144,Jordan Lee,Lakeside Properties,77
+HS0482,2022-03-27,4888 Ridge Terrace,Seattle,WA,98251,2,2.6,1435,1.79,1922,286575,Single Family,47.570855,-122.289322,Jamie Rivera,Prime Realty,43
+HS0576,2023-07-15,6718 Ridge Ln,Madison,WI,81358,3,2.0,1603,0.43,2013,188313,Condo,43.046872,-89.33359,Jordan Lee,Hearthstone Realty,22
+HS0034,2025-07-03,2951 View Rd,Phoenix,AZ,63225,3,3.1,3124,2.87,2000,384238,Single Family,33.474152,-112.048311,Logan Brown,Hearthstone Realty,120
+HS0032,2021-03-18,4273 Oak Ct,Burlington,VT,10221,2,1.7,3683,2.35,1994,526279,Multi-Family,44.484559,-73.192834,Morgan Patel,Lakeside Properties,18
+HS0232,2020-05-06,7735 Hill Ct,Austin,TX,25825,2,2.4,3864,0.69,2009,662774,Single Family,30.353548,-97.763082,Jamie Rivera,Urban Homes,207
+HS0964,2022-03-10,4193 Chestnut Ct,Austin,TX,17774,1,1.9,1252,1.57,2018,170907,Single Family,30.259273,-97.789001,Jamie Rivera,Lakeside Properties,35
+HS0193,2021-11-25,5916 Walnut St,Burlington,VT,83822,2,2.6,3161,3.02,1912,349311,Single Family,44.491034,-73.238807,Jordan Lee,Summit Brokers,192
+HS0334,2024-06-04,4614 Park Ln,Columbus,OH,64162,2,1.9,3631,0.19,1971,425200,Single Family,39.962244,-82.987265,Casey Nguyen,Hearthstone Realty,148
+HS0004,2021-07-22,1391 Meadow Rd,Phoenix,AZ,92397,3,2.5,1528,0.24,1905,159388,Condo,33.39085,-112.055215,Casey Nguyen,Prime Realty,60
+HS0205,2019-12-23,7331 Meadow Ln,Springfield,IL,65725,2,1.4,1635,3.72,1944,185932,Single Family,39.770443,-89.640221,Sam Carter,Prime Realty,199
+HS0515,2025-01-23,1353 River Way,Riverside,CA,71082,4,2.8,2133,0.79,1943,243497,Single Family,34.081034,-117.42831,Dana Kim,Prime Realty,196
+HS0800,2019-01-05,441 Walnut Rd,Columbus,OH,20089,2,3.0,829,0.55,1974,87683,Mobile Home,39.89217,-83.020608,Sam Carter,Urban Homes,121
+HS0307,2021-02-27,8951 Spruce St,Albany,NY,77746,4,2.9,2566,2.73,2014,343995,Single Family,42.750453,-73.768271,Morgan Patel,Summit Brokers,22
+HS0110,2024-11-26,3245 Birch Blvd,Austin,TX,30308,2,1.4,1176,1.85,1994,264306,Single Family,30.283507,-97.805656,Alex Morgan,Hearthstone Realty,197
+HS0431,2023-11-01,6873 Birch Ln,Portland,OR,81820,5,4.2,1357,0.89,2004,211939,Single Family,45.522253,-122.659577,Riley Smith,Summit Brokers,202
+HS0078,2020-06-25,646 Highland Terrace,Austin,TX,27224,2,1.6,1139,0.34,1925,255324,Single Family,30.351557,-97.699018,Dana Kim,Hearthstone Realty,136
+HS0085,2019-01-12,9350 Willow Ave,Madison,WI,82641,3,2.2,1912,0.74,1918,223286,Single Family,43.016143,-89.387813,Casey Nguyen,Urban Homes,34
+HS0287,2021-10-15,9547 Highland Ln,Seattle,WA,97797,5,4.2,1025,3.18,1955,227539,Condo,47.616536,-122.294153,Sam Carter,Hearthstone Realty,170
+HS0083,2023-12-27,6897 Cedar Way,Madison,WI,90694,5,3.6,2450,1.31,1956,265344,Single Family,43.099516,-89.390825,Jordan Lee,Hearthstone Realty,26
+HS0992,2022-05-13,3412 Chestnut St,Phoenix,AZ,62543,3,2.2,2468,0.75,1917,267240,Single Family,33.482946,-112.09624,Alex Morgan,Prime Realty,65
+HS0790,2022-12-16,7930 Forest Rd,Portland,OR,52193,4,3.2,2514,0.76,1910,522843,Single Family,45.444271,-122.731077,Dana Kim,Urban Homes,169
+HS0895,2023-05-30,2344 River Way,Springfield,IL,65758,2,2.1,3384,0.71,1971,291643,Single Family,39.799788,-89.63411,Riley Smith,Lakeside Properties,181
+HS0399,2021-12-29,7358 Chestnut Blvd,Albany,NY,34632,4,3.0,1267,0.47,1978,170011,Mobile Home,42.59778,-73.714288,Logan Brown,Summit Brokers,157
+HS0324,2020-07-23,3751 River Ct,Phoenix,AZ,56255,2,2.0,2366,1.82,2012,320361,Single Family,33.420873,-112.135036,Sam Carter,Urban Homes,59
+HS0520,2019-03-22,4156 Birch Rd,Burlington,VT,87664,3,1.9,1396,3.42,1921,182503,Single Family,44.461681,-73.132571,Dana Kim,Hearthstone Realty,10
+HS0917,2024-06-23,5315 Elm Ct,Madison,WI,52875,2,1.5,2005,0.77,1944,288296,Single Family,43.011168,-89.353171,Logan Brown,Prime Realty,57
+HS0923,2023-11-17,2563 Maple Terrace,Riverside,CA,87352,4,3.7,690,4.82,1958,117560,Condo,33.828408,-117.38055,Alex Morgan,Lakeside Properties,73
+HS0006,2019-05-12,2777 Ridge Ct,Burlington,VT,45382,3,3.0,1524,0.29,1929,213538,Townhouse,44.409491,-73.202257,Morgan Patel,Lakeside Properties,69
+HS0732,2019-12-14,3778 Cedar Rd,Riverside,CA,56833,2,2.0,1659,1.28,2017,176122,Multi-Family,34.000865,-117.369855,Alex Morgan,Summit Brokers,39
+HS0466,2019-12-27,8670 Ridge Ct,Albany,NY,41359,1,0.8,1009,11.15,1978,159695,Condo,42.72842,-73.726094,Casey Nguyen,Hearthstone Realty,108
+HS0098,2019-02-01,997 Maple Ln,Portland,OR,49507,4,2.5,1907,1.6,1915,346289,Single Family,45.584759,-122.700561,Sam Carter,Lakeside Properties,45
+HS0267,2022-03-03,7746 Spruce Ct,Burlington,VT,86609,1,2.1,621,0.27,1976,103497,Condo,44.512081,-73.178727,Casey Nguyen,Prime Realty,124
+HS0358,2025-04-29,8956 Chestnut Way,Austin,TX,27709,3,2.9,659,0.22,1981,136026,Condo,30.248001,-97.73059,Riley Smith,Summit Brokers,164
+HS0869,2024-07-27,9706 Park Ln,Madison,WI,98257,4,3.9,1597,0.48,1993,176905,Townhouse,43.125839,-89.403001,Casey Nguyen,Urban Homes,51
+HS0799,2020-08-03,7911 Spruce Ln,Portland,OR,32312,3,2.6,2284,0.37,1958,418138,Single Family,45.537352,-122.675621,Alex Morgan,Lakeside Properties,110
+HS0381,2022-02-04,5045 Maple Rd,Madison,WI,39083,3,3.5,1362,2.71,1988,224058,Townhouse,43.093494,-89.378573,Dana Kim,Summit Brokers,143
+HS0632,2023-04-11,2379 Elm Terrace,Springfield,IL,84473,1,1.8,1423,1.22,1950,119623,Condo,39.85481,-89.627668,Jordan Lee,Lakeside Properties,17
+HS0382,2021-10-20,9465 Elm Ave,Portland,OR,14946,4,3.0,2590,2.1,1974,472755,Single Family,45.548558,-122.630635,Jordan Lee,Hearthstone Realty,208
+HS0491,2019-12-24,9658 River Ln,Burlington,VT,46428,2,2.4,478,0.09,2022,68852,Condo,44.506322,-73.176384,Dana Kim,Lakeside Properties,50
+HS0119,2019-10-04,9014 River St,Seattle,WA,61177,3,2.9,1473,0.22,1945,310480,Townhouse,47.521722,-122.282744,Morgan Patel,Urban Homes,188
+HS0901,2021-03-06,2056 Oak Way,Phoenix,AZ,93555,1,0.8,1433,0.97,2009,161619,Single Family,33.334925,-112.084466,Logan Brown,Prime Realty,86
+HS0251,2024-05-21,6537 Highland Way,Springfield,IL,30131,2,3.1,1199,0.36,1984,96383,Single Family,39.851561,-89.647249,Jordan Lee,Prime Realty,7
+HS0524,2023-11-09,4578 Pine Way,Columbus,OH,65981,1,1.7,1601,1.14,1938,187855,Single Family,40.033746,-82.90844,Dana Kim,Hearthstone Realty,52
+HS0010,2020-03-11,1927 Spruce Ct,Columbus,OH,30730,1,1.7,2709,2.65,2016,245214,Single Family,39.905883,-83.05861,Casey Nguyen,Summit Brokers,156
+HS0197,2023-11-06,2723 Hill Ct,Seattle,WA,70562,5,3.9,2112,7.0,1984,437588,Single Family,47.611022,-122.366144,Riley Smith,Prime Realty,189
+HS0604,2025-04-13,2187 Chestnut Ln,Riverside,CA,78561,2,1.6,2489,3.29,1932,408305,Single Family,34.000801,-117.38405,Sam Carter,Prime Realty,110
+HS0082,2023-02-28,842 Oak Rd,Madison,WI,74569,4,3.0,1394,0.44,1958,232423,Single Family,43.061153,-89.446578,Dana Kim,Lakeside Properties,151
+HS0784,2019-03-15,2053 Cedar Way,Phoenix,AZ,32431,3,1.2,1024,7.71,1936,155366,Condo,33.445505,-112.110756,Logan Brown,Prime Realty,119
+HS0588,2022-06-19,850 Ridge Rd,Seattle,WA,94661,2,0.9,1663,0.29,2001,428871,Condo,47.502421,-122.336403,Dana Kim,Prime Realty,165
+HS0798,2020-01-22,4495 Forest Ln,Burlington,VT,32417,4,3.1,1967,1.08,1900,335775,Single Family,44.424401,-73.209796,Taylor Brooks,Summit Brokers,180
+HS0240,2022-07-26,4466 Meadow St,Burlington,VT,38758,1,1.6,3158,0.17,1975,542908,Single Family,44.452598,-73.291835,Morgan Patel,Summit Brokers,8
+HS0291,2023-01-28,5684 Lake St,Austin,TX,39218,2,1.8,981,4.19,1991,213171,Condo,30.176235,-97.777759,Sam Carter,Prime Realty,25
+HS0212,2019-08-01,2704 Chestnut Ave,Albany,NY,95798,3,1.0,2456,2.55,1921,372928,Multi-Family,42.584256,-73.767438,Riley Smith,Hearthstone Realty,186
+HS0718,2023-11-22,3240 Sunset Rd,Madison,WI,83445,3,2.5,1665,1.17,2016,211636,Condo,43.094189,-89.33569,Jamie Rivera,Lakeside Properties,108
+HS0360,2023-10-30,2333 Lake Rd,Seattle,WA,71498,2,2.1,3528,1.65,1998,892114,Single Family,47.648147,-122.362963,Casey Nguyen,Summit Brokers,60
+HS0450,2021-03-01,1213 Maple Ct,Springfield,IL,22805,3,3.0,638,1.24,1932,67419,Condo,39.677494,-89.563865,Alex Morgan,Prime Realty,159
+HS0228,2019-02-09,9794 Forest Ln,Columbus,OH,81638,4,3.2,2068,5.49,1944,246798,Single Family,39.989475,-83.086838,Morgan Patel,Prime Realty,195
+HS0951,2024-09-09,9429 Maple Ln,Austin,TX,36546,2,2.4,2370,3.6,1942,330272,Single Family,30.269952,-97.76692,Jamie Rivera,Hearthstone Realty,142
+HS0947,2020-09-24,6042 Spruce Rd,Portland,OR,30749,3,3.0,3182,1.48,1937,626378,Single Family,45.554895,-122.66702,Taylor Brooks,Urban Homes,156
+HS0797,2023-07-16,684 Highland Rd,Springfield,IL,41295,5,4.0,2030,0.55,1989,218825,Multi-Family,39.817006,-89.590563,Riley Smith,Lakeside Properties,26
+HS0502,2023-01-25,1967 Sunset Way,Seattle,WA,20013,4,2.7,1177,0.13,1939,191851,Single Family,47.552657,-122.236529,Taylor Brooks,Lakeside Properties,153
+HS0465,2024-05-03,204 Maple Blvd,Riverside,CA,21683,3,2.4,1452,2.36,1998,154574,Townhouse,33.976636,-117.370882,Taylor Brooks,Urban Homes,37
+HS0363,2020-02-23,7518 Chestnut Way,Austin,TX,34613,2,2.0,2089,1.58,2024,429187,Single Family,30.27686,-97.677118,Casey Nguyen,Hearthstone Realty,33
+HS0469,2020-10-09,7221 Chestnut Terrace,Burlington,VT,90847,2,1.2,4575,1.92,1922,585399,Multi-Family,44.497378,-73.190431,Alex Morgan,Lakeside Properties,132
+HS0936,2023-09-09,1912 Highland Rd,Burlington,VT,33412,2,3.2,1577,1.48,1927,246074,Single Family,44.436044,-73.210054,Logan Brown,Hearthstone Realty,82
+HS0429,2020-04-07,4327 Lake Ct,Portland,OR,34032,4,3.2,2105,2.22,1960,432738,Single Family,45.496777,-122.664406,Morgan Patel,Lakeside Properties,119
+HS0008,2020-03-25,7119 Highland Ct,Portland,OR,57447,2,1.7,1869,2.88,2010,328189,Townhouse,45.521304,-122.694254,Taylor Brooks,Urban Homes,203
+HS0156,2025-07-13,5401 Birch St,Austin,TX,44181,2,1.4,724,0.75,1938,147622,Mobile Home,30.238641,-97.714471,Logan Brown,Prime Realty,67
+HS0542,2021-10-14,3202 Sunset Blvd,Albany,NY,63546,0,1.7,536,4.0,2016,66834,Condo,42.634534,-73.759409,Morgan Patel,Summit Brokers,176
+HS0441,2019-11-16,7717 River Ave,Albany,NY,78597,1,1.7,1516,0.29,2022,189030,Townhouse,42.590937,-73.723164,Dana Kim,Summit Brokers,80
+HS0483,2025-01-26,1935 Elm Way,Albany,NY,29726,5,3.5,1933,0.71,1987,267261,Single Family,42.674775,-73.813793,Taylor Brooks,Lakeside Properties,89
+HS0423,2024-03-27,7626 Park Ave,Springfield,IL,10538,3,2.5,4495,0.52,1942,520637,Multi-Family,39.809615,-89.658119,Alex Morgan,Prime Realty,134
+HS0779,2021-03-29,7201 Ridge Ct,Austin,TX,88162,3,1.9,1633,0.38,1954,338573,Condo,30.360096,-97.69456,Logan Brown,Hearthstone Realty,96
+HS0950,2020-05-04,6323 Maple Ave,Austin,TX,54874,4,3.3,2228,0.22,1999,451737,Single Family,30.352566,-97.781641,Jordan Lee,Hearthstone Realty,128
+HS0335,2022-10-18,6622 Elm Ave,Columbus,OH,40116,5,3.4,2565,0.52,2000,254165,Single Family,39.978141,-83.048509,Dana Kim,Summit Brokers,179
+HS0577,2024-11-05,8905 Hill Ct,Springfield,IL,26515,1,1.5,3759,0.77,1939,368615,Single Family,39.713287,-89.712765,Morgan Patel,Urban Homes,6
+HS0935,2020-05-20,4751 Meadow Way,Springfield,IL,40765,2,2.2,1638,0.3,2008,212282,Condo,39.832372,-89.589482,Jamie Rivera,Lakeside Properties,56
+HS0568,2021-12-04,8163 Cedar Ct,Portland,OR,74713,2,2.2,435,1.24,1945,89250,Mobile Home,45.525503,-122.64746,Morgan Patel,Urban Homes,45
+HS0595,2020-08-06,4135 Meadow Blvd,Riverside,CA,49926,2,2.3,2925,0.87,2000,485756,Single Family,34.019039,-117.424476,Morgan Patel,Summit Brokers,44
+HS0531,2019-08-18,3965 Sunset Ln,Phoenix,AZ,28910,4,2.6,1207,2.33,2010,161802,Single Family,33.385166,-111.997535,Sam Carter,Summit Brokers,96
+HS0582,2023-10-01,6150 River Ct,Riverside,CA,87101,0,0.6,925,1.68,1981,102632,Condo,33.969384,-117.387797,Sam Carter,Lakeside Properties,188
+HS0708,2023-06-26,2046 Sunset Way,Albany,NY,82105,5,3.9,1035,0.53,2012,149660,Townhouse,42.641657,-73.717888,Dana Kim,Lakeside Properties,34
+HS0449,2021-01-06,4283 Highland Ct,Riverside,CA,70438,3,3.2,1735,0.69,1986,187402,Single Family,33.923332,-117.4517,Morgan Patel,Summit Brokers,3
+HS0454,2021-11-26,8161 Cedar Blvd,Madison,WI,80861,0,1.1,4448,3.65,1991,502084,Multi-Family,43.063365,-89.404409,Jamie Rivera,Prime Realty,19
+HS0229,2019-06-29,5138 Cedar Ln,Phoenix,AZ,79443,3,2.7,1072,2.46,1911,121030,Condo,33.435877,-112.074981,Jordan Lee,Summit Brokers,106
+HS0353,2024-03-14,2959 Spruce Terrace,Seattle,WA,52610,2,2.1,2879,2.86,1936,583245,Single Family,47.640712,-122.460018,Taylor Brooks,Urban Homes,164
+HS0729,2023-12-25,321 Maple Ave,Portland,OR,81089,5,2.8,2478,2.61,1972,334647,Single Family,45.442199,-122.63842,Taylor Brooks,Hearthstone Realty,85
+HS0213,2023-12-28,7132 Pine Ave,Burlington,VT,10142,2,2.7,2028,0.73,1987,322369,Single Family,44.474405,-73.220816,Alex Morgan,Prime Realty,179
+HS0080,2021-12-09,6092 Pine Ct,Seattle,WA,11824,1,1.0,1162,0.25,1986,254888,Condo,47.536272,-122.303952,Logan Brown,Lakeside Properties,164
+HS0149,2019-11-20,4815 Cedar Ct,Albany,NY,61712,5,4.0,2178,0.81,1991,230380,Single Family,42.65631,-73.76767,Morgan Patel,Lakeside Properties,168
+HS0303,2020-09-26,4672 Meadow Rd,Phoenix,AZ,27048,3,2.3,1820,1.32,2019,221399,Single Family,33.442169,-112.13263,Alex Morgan,Urban Homes,83
+HS0629,2024-04-03,2545 Park Ln,Seattle,WA,39743,2,1.6,1436,8.57,1996,345926,Townhouse,47.558021,-122.389843,Sam Carter,Hearthstone Realty,203
+HS0778,2022-06-30,3263 Chestnut Blvd,Phoenix,AZ,35936,2,1.1,1806,0.25,1975,292473,Townhouse,33.46788,-112.185021,Taylor Brooks,Urban Homes,185
+HS0507,2024-08-27,9572 Maple Ln,Riverside,CA,35106,3,3.2,2203,0.29,1927,292435,Single Family,33.915291,-117.381843,Sam Carter,Hearthstone Realty,179
+HS0343,2019-11-08,8562 Meadow St,Columbus,OH,44517,2,2.8,997,3.24,1943,122648,Townhouse,39.960882,-82.920687,Dana Kim,Urban Homes,122
+HS0486,2020-12-19,2530 Lake Rd,Springfield,IL,69759,2,2.3,1929,0.7,2024,194772,Single Family,39.686232,-89.584185,Taylor Brooks,Urban Homes,61
+HS0712,2019-07-28,2267 Park St,Riverside,CA,45895,2,1.5,1243,1.25,1911,220803,Condo,33.992893,-117.424732,Riley Smith,Lakeside Properties,135
+HS0134,2023-09-03,5631 Highland St,Portland,OR,13718,2,2.9,1390,0.57,1973,193494,Single Family,45.477489,-122.643353,Logan Brown,Prime Realty,128
+HS0704,2021-02-01,1042 Lake St,Austin,TX,90678,5,2.8,2577,2.88,2013,425247,Single Family,30.258304,-97.788741,Riley Smith,Hearthstone Realty,3
+HS0312,2023-03-09,7865 Walnut Ln,Springfield,IL,27875,1,0.5,2202,1.24,1986,232610,Single Family,39.814662,-89.603221,Alex Morgan,Summit Brokers,143
+HS0723,2022-04-22,122 Lake Terrace,Riverside,CA,52540,3,2.3,1182,3.32,2014,205983,Single Family,33.923424,-117.298788,Morgan Patel,Prime Realty,161
+HS0630,2025-06-23,5229 Willow Ct,Riverside,CA,64747,4,3.0,2136,0.5,1917,328817,Single Family,33.872506,-117.381218,Taylor Brooks,Hearthstone Realty,189
+HS0001,2023-09-25,509 Chestnut Ln,Riverside,CA,39256,2,1.3,3623,1.38,1911,399255,Multi-Family,33.967252,-117.345674,Alex Morgan,Prime Realty,24
+HS0317,2024-05-19,5231 Birch Ln,Springfield,IL,93995,4,3.1,1730,3.93,2012,147101,Townhouse,39.74476,-89.605604,Sam Carter,Lakeside Properties,92
+HS0707,2019-05-10,195 Lake Ln,Phoenix,AZ,24505,4,3.7,2089,1.29,1942,236410,Single Family,33.502924,-112.014006,Taylor Brooks,Urban Homes,123
+HS0548,2024-07-20,3866 Walnut St,Springfield,IL,71636,1,1.0,526,1.53,2018,57017,Mobile Home,39.806837,-89.774764,Alex Morgan,Lakeside Properties,92
+HS0873,2022-04-06,1960 Lake Ct,Columbus,OH,26784,3,2.7,1502,0.28,1903,183957,Condo,39.919223,-82.937952,Casey Nguyen,Summit Brokers,56
+HS0533,2020-05-14,670 Oak Ln,Portland,OR,43158,4,3.2,3135,3.35,2003,625933,Single Family,45.568559,-122.664353,Dana Kim,Urban Homes,114
+HS0478,2025-01-30,7707 Maple Ave,Columbus,OH,60446,3,2.6,1064,2.0,1989,119729,Townhouse,39.971316,-82.917207,Logan Brown,Urban Homes,202
+HS0405,2025-02-16,993 River Blvd,Portland,OR,70762,2,3.1,2141,0.75,2020,409231,Townhouse,45.494652,-122.569493,Taylor Brooks,Lakeside Properties,106
+HS0173,2025-06-30,5226 Sunset St,Columbus,OH,83731,1,0.9,1409,1.9,1974,210293,Condo,39.975028,-83.031336,Riley Smith,Hearthstone Realty,40
+HS0126,2023-12-24,6101 Lake Ct,Burlington,VT,84349,1,1.6,3925,0.62,1947,610700,Multi-Family,44.466556,-73.234087,Jamie Rivera,Summit Brokers,36
+HS0395,2019-05-01,5922 Spruce Ln,Columbus,OH,75700,2,2.1,4036,1.56,2013,457449,Multi-Family,40.028285,-83.115333,Dana Kim,Hearthstone Realty,58
+HS0421,2020-01-15,7504 Spruce Ln,Columbus,OH,78825,3,3.6,1135,0.61,2016,114897,Townhouse,39.996382,-82.990842,Sam Carter,Summit Brokers,7
+HS0553,2020-09-23,4033 Park Ave,Madison,WI,12688,2,1.8,1782,0.54,1996,247964,Single Family,42.98073,-89.395222,Jamie Rivera,Hearthstone Realty,126
+HS0904,2019-12-20,2028 Hill Way,Columbus,OH,84471,5,3.6,1628,0.2,1923,214807,Multi-Family,39.996079,-83.040605,Taylor Brooks,Hearthstone Realty,152
+HS0091,2019-12-16,5220 Sunset Terrace,Riverside,CA,97177,2,1.6,1886,0.11,2006,310832,Single Family,33.874287,-117.395397,Jamie Rivera,Lakeside Properties,25
+HS0940,2021-03-29,6478 Meadow Ln,Portland,OR,31152,2,2.7,2374,0.43,2017,393609,Multi-Family,45.515081,-122.620291,Morgan Patel,Urban Homes,76
+HS0182,2023-06-13,2392 Pine Terrace,Phoenix,AZ,17038,2,1.2,1406,0.19,1998,198443,Single Family,33.517614,-112.045805,Morgan Patel,Prime Realty,163
+HS0275,2022-08-12,6709 Sunset Way,Phoenix,AZ,60242,1,1.7,823,3.2,1901,88798,Single Family,33.461658,-112.041903,Dana Kim,Urban Homes,5
+HS0896,2022-02-11,5916 Spruce Terrace,Austin,TX,79558,4,3.3,605,0.77,2021,114995,Mobile Home,30.245506,-97.656992,Taylor Brooks,Lakeside Properties,144
+HS0070,2023-12-09,6346 Park Blvd,Austin,TX,74923,3,1.5,3738,0.95,2011,871654,Multi-Family,30.163828,-97.747556,Jamie Rivera,Summit Brokers,117
+HS0292,2020-11-03,135 Hill Terrace,Burlington,VT,93055,3,3.3,2372,0.19,2014,362544,Single Family,44.421352,-73.232641,Sam Carter,Urban Homes,184
+HS0132,2021-07-12,7188 River St,Madison,WI,26274,4,3.0,3310,1.96,1990,357567,Single Family,43.081423,-89.376577,Morgan Patel,Summit Brokers,73
+HS0301,2021-04-11,4812 Oak Ct,Seattle,WA,60797,2,2.2,2808,2.46,1932,632081,Single Family,47.583804,-122.395892,Logan Brown,Lakeside Properties,58
+HS0425,2022-01-15,4583 Cedar St,Madison,WI,91650,3,1.8,3613,1.45,1940,465254,Single Family,43.12073,-89.377515,Taylor Brooks,Hearthstone Realty,147
+HS0327,2022-03-07,2506 Oak Blvd,Portland,OR,43850,3,3.1,1037,0.25,2012,198643,Condo,45.514715,-122.682411,Jamie Rivera,Urban Homes,115
+HS0145,2021-09-19,9660 Forest Blvd,Springfield,IL,78712,2,1.7,4166,1.14,1987,553548,Single Family,39.800055,-89.67639,Alex Morgan,Summit Brokers,180
+HS0424,2023-12-12,468 Highland Rd,Albany,NY,93735,2,3.2,1985,1.0,1940,269100,Single Family,42.615476,-73.780465,Jamie Rivera,Hearthstone Realty,39
+HS0581,2020-06-16,6019 Ridge Ave,Burlington,VT,29209,3,2.5,3219,1.02,2013,408437,Single Family,44.405445,-73.232532,Sam Carter,Urban Homes,115
+HS0136,2024-03-25,2453 Hill Terrace,Columbus,OH,55268,1,1.7,2816,1.4,1930,343821,Single Family,39.952353,-83.038715,Jamie Rivera,Hearthstone Realty,116
+HS0451,2025-05-07,1031 View Ln,Riverside,CA,88562,4,2.1,1216,0.74,1984,198193,Single Family,33.965759,-117.440875,Taylor Brooks,Prime Realty,179
+HS0165,2019-07-19,356 Birch Ln,Phoenix,AZ,18819,2,2.2,1159,0.75,2011,138489,Condo,33.440563,-112.02088,Jordan Lee,Prime Realty,103
+HS0029,2021-07-21,6367 Oak Way,Riverside,CA,39154,5,4.0,2030,0.79,2011,342154,Townhouse,34.090021,-117.391512,Jordan Lee,Prime Realty,169
+HS0774,2020-10-21,6878 Pine Way,Springfield,IL,92009,3,2.1,849,0.26,1957,74736,Condo,39.79371,-89.587443,Taylor Brooks,Hearthstone Realty,3
+HS0194,2020-09-09,9242 Highland Ln,Seattle,WA,68429,3,2.3,795,0.82,1964,204005,Condo,47.577116,-122.382838,Morgan Patel,Prime Realty,124
+HS0389,2021-08-14,9830 Maple Rd,Columbus,OH,32184,3,1.2,2312,1.7,2018,323889,Single Family,39.927796,-82.948523,Jordan Lee,Hearthstone Realty,40
+HS0853,2019-11-13,5736 Willow Ct,Portland,OR,86373,3,2.4,1309,0.62,1910,248892,Mobile Home,45.434579,-122.620709,Jordan Lee,Summit Brokers,129
+HS0170,2025-08-03,3220 Oak Rd,Seattle,WA,59436,4,2.8,3234,0.82,1997,518010,Single Family,47.642581,-122.329503,Dana Kim,Urban Homes,123
+HS0706,2020-10-24,6232 Spruce Terrace,Phoenix,AZ,66143,3,3.2,1155,3.14,1956,139659,Condo,33.445745,-112.101549,Taylor Brooks,Hearthstone Realty,192
+HS0141,2020-08-13,4682 View Ave,Seattle,WA,26864,2,1.8,1036,0.43,1946,178315,Condo,47.627113,-122.312079,Jordan Lee,Summit Brokers,131
+HS0174,2024-06-24,5504 Birch Ct,Burlington,VT,84683,2,1.9,2148,1.24,1997,352618,Single Family,44.483421,-73.193852,Sam Carter,Lakeside Properties,44
+HS0007,2025-04-18,3556 Highland Terrace,Riverside,CA,37869,5,3.6,3587,2.42,1995,403927,Single Family,33.902846,-117.475365,Dana Kim,Hearthstone Realty,192
+HS0746,2021-03-09,848 Oak Terrace,Austin,TX,22217,3,1.8,819,0.04,1964,178754,Mobile Home,30.182666,-97.792025,Morgan Patel,Lakeside Properties,186
+HS0479,2020-12-18,5600 Oak Terrace,Riverside,CA,16758,3,3.5,1597,0.6,1946,187164,Single Family,33.960894,-117.333459,Dana Kim,Prime Realty,144
+HS0074,2021-11-06,2885 Walnut Ave,Madison,WI,89887,4,2.6,2957,1.24,1959,479929,Single Family,43.067484,-89.412248,Sam Carter,Hearthstone Realty,171
+HS0911,2023-11-17,5118 Walnut Way,Columbus,OH,81667,3,2.4,1528,0.43,1973,229756,Single Family,40.05291,-82.96888,Riley Smith,Lakeside Properties,63
+HS0814,2019-09-07,4526 Cedar Terrace,Springfield,IL,87901,3,3.9,1336,2.29,2010,164714,Condo,39.730407,-89.646983,Jamie Rivera,Summit Brokers,173
+HS0239,2020-10-15,527 Hill Ln,Madison,WI,13840,4,3.7,2024,0.14,1929,221187,Townhouse,43.002559,-89.459924,Jamie Rivera,Urban Homes,169
+HS0146,2024-04-15,3225 Maple Way,Riverside,CA,51116,1,2.4,2937,0.94,1999,413868,Single Family,33.880899,-117.50614,Alex Morgan,Urban Homes,133
+HS0793,2024-03-03,6656 Willow Ave,Burlington,VT,46416,5,3.0,725,2.43,1918,112622,Condo,44.553085,-73.207831,Jamie Rivera,Prime Realty,62
+HS0235,2020-01-12,1476 Highland Rd,Columbus,OH,19828,3,3.5,1159,2.6,1916,120401,Single Family,39.960848,-82.93318,Morgan Patel,Prime Realty,11
+HS0221,2020-04-20,6501 Highland Ave,Columbus,OH,50654,2,2.2,3110,0.49,1955,322118,Single Family,39.991557,-82.933242,Sam Carter,Summit Brokers,156
+HS0924,2022-04-28,2091 Forest Way,Springfield,IL,58117,3,2.4,1090,2.89,1943,92391,Single Family,39.772893,-89.795076,Alex Morgan,Summit Brokers,69
+HS0501,2025-04-07,6211 Forest Ct,Albany,NY,54605,2,2.6,1360,1.38,1924,192325,Single Family,42.638292,-73.861943,Logan Brown,Summit Brokers,137
+HS0133,2025-07-06,4205 Willow Rd,Riverside,CA,26406,3,1.6,3185,1.08,1921,391954,Single Family,33.981069,-117.427344,Taylor Brooks,Urban Homes,169
+HS0991,2021-07-15,6041 Meadow Ln,Seattle,WA,79582,2,2.7,1489,0.71,1981,318668,Single Family,47.579321,-122.275948,Taylor Brooks,Summit Brokers,157
+HS0775,2024-11-07,9394 View St,Madison,WI,25362,3,1.9,2482,1.95,1920,393337,Single Family,43.097072,-89.404688,Casey Nguyen,Prime Realty,50
+HS0186,2025-04-10,1624 View Terrace,Seattle,WA,60493,3,2.6,1076,0.26,2015,178521,Single Family,47.52655,-122.310076,Jordan Lee,Summit Brokers,134
+HS0042,2023-07-15,3713 Forest Ln,Portland,OR,45774,2,3.3,1014,2.81,2002,150059,Condo,45.568446,-122.710383,Taylor Brooks,Lakeside Properties,33
+HS0697,2021-12-31,9804 Elm Rd,Austin,TX,11244,3,2.9,3554,2.66,1972,497795,Single Family,30.299086,-97.720605,Alex Morgan,Hearthstone Realty,182
+HS0109,2021-01-08,6271 Hill Blvd,Seattle,WA,97833,3,2.3,2894,0.8,1939,685314,Single Family,47.617933,-122.319462,Jordan Lee,Hearthstone Realty,197
+HS0589,2024-12-18,1495 Willow St,Seattle,WA,84743,1,0.9,2970,0.35,2019,512401,Single Family,47.58696,-122.317668,Taylor Brooks,Prime Realty,71
+HS0057,2025-05-18,9243 Sunset Ln,Riverside,CA,78494,1,1.3,1039,1.0,1939,114351,Mobile Home,34.016857,-117.357657,Logan Brown,Prime Realty,157
+HS0406,2020-11-02,7487 Maple Blvd,Columbus,OH,69464,0,1.4,3547,1.95,1941,321737,Single Family,39.984064,-82.926009,Jamie Rivera,Prime Realty,30
+HS0443,2019-04-22,5081 Highland Rd,Portland,OR,18050,2,2.3,3352,0.65,1937,709212,Single Family,45.508475,-122.652746,Casey Nguyen,Lakeside Properties,22
+HS0758,2024-11-19,1469 Elm Ave,Madison,WI,45901,5,4.2,2226,10.42,1953,223778,Single Family,43.116637,-89.353759,Jordan Lee,Hearthstone Realty,48
+HS0998,2021-10-26,7008 Oak Ave,Phoenix,AZ,46726,3,2.4,2200,3.0,1985,384101,Single Family,33.493727,-112.070387,Morgan Patel,Prime Realty,4
+HS0025,2020-10-23,932 Pine Ct,Albany,NY,46265,2,2.8,608,0.42,1933,92341,Condo,42.683482,-73.695346,Sam Carter,Summit Brokers,181
+HS0468,2019-06-26,4628 Oak Ln,Burlington,VT,24769,4,1.9,1314,0.42,2018,137692,Single Family,44.45522,-73.117716,Alex Morgan,Hearthstone Realty,73
+HS0540,2019-02-27,915 Park Ct,Madison,WI,88694,1,1.2,2484,0.8,1915,261167,Multi-Family,43.075713,-89.45423,Dana Kim,Lakeside Properties,198
+HS0532,2023-02-15,5285 Meadow Ct,Riverside,CA,72240,1,2.0,1915,1.23,1991,235034,Single Family,33.922932,-117.400061,Casey Nguyen,Prime Realty,166
+HS0619,2020-12-02,2348 Park Ave,Springfield,IL,54352,2,3.5,1999,3.5,1984,172666,Townhouse,39.854601,-89.72491,Dana Kim,Summit Brokers,112
+HS0695,2025-06-01,3740 Park Ave,Phoenix,AZ,26187,3,1.9,1604,1.88,1944,176975,Single Family,33.467554,-112.114238,Casey Nguyen,Summit Brokers,70
+HS0927,2022-10-15,1353 Hill Terrace,Springfield,IL,15018,3,2.6,1135,0.35,1910,114298,Mobile Home,39.831483,-89.730852,Casey Nguyen,Lakeside Properties,103
+HS0339,2025-03-01,5885 Park Ct,Phoenix,AZ,86818,3,2.2,1650,1.25,1911,266980,Single Family,33.557782,-112.168724,Casey Nguyen,Summit Brokers,150
+HS0052,2025-03-17,7442 Maple Ave,Austin,TX,48566,0,1.2,1124,0.88,1960,216035,Condo,30.226289,-97.638481,Dana Kim,Hearthstone Realty,109
+HS0508,2022-07-11,3133 Ridge Ave,Portland,OR,33704,2,2.5,2111,2.06,1914,263458,Single Family,45.459286,-122.607228,Jamie Rivera,Lakeside Properties,29
+HS0517,2024-04-08,2303 Spruce Ct,Phoenix,AZ,73891,1,2.7,1028,0.98,1973,127541,Condo,33.490216,-112.062059,Sam Carter,Summit Brokers,41
+HS0921,2019-08-12,2209 Highland Ct,Columbus,OH,99954,2,2.6,3451,1.32,1998,434077,Single Family,39.891655,-83.022917,Casey Nguyen,Lakeside Properties,67
+HS0782,2021-05-19,5488 Willow Way,Springfield,IL,84379,2,0.9,2103,0.72,1977,239669,Single Family,39.834124,-89.625711,Dana Kim,Urban Homes,27
+HS0265,2019-02-06,2769 Highland Ln,Springfield,IL,39012,3,3.2,1599,0.33,1902,138910,Single Family,39.761597,-89.623887,Sam Carter,Urban Homes,166
+HS0818,2024-05-21,454 Walnut Blvd,Madison,WI,96175,3,3.6,1912,1.66,1960,202604,Single Family,43.088492,-89.297789,Casey Nguyen,Hearthstone Realty,171
+HS0711,2021-02-11,4417 Birch Ct,Riverside,CA,36006,2,2.9,2580,0.24,1923,440617,Single Family,33.988262,-117.457033,Logan Brown,Urban Homes,59
+HS0683,2022-10-18,6269 Sunset Blvd,Madison,WI,17383,3,2.3,1298,0.54,1965,212735,Single Family,43.12921,-89.382711,Logan Brown,Lakeside Properties,39
+HS0833,2022-12-05,1420 Meadow Way,Portland,OR,26969,2,1.0,2154,0.5,1928,330171,Single Family,45.566374,-122.68417,Riley Smith,Lakeside Properties,78
+HS0519,2023-01-03,839 Elm Terrace,Portland,OR,55727,3,1.3,3997,2.25,1944,506657,Single Family,45.486391,-122.682778,Riley Smith,Hearthstone Realty,15
+HS0448,2022-01-21,6358 Hill St,Austin,TX,22761,4,1.7,1329,0.12,1983,199313,Condo,30.129825,-97.768087,Morgan Patel,Hearthstone Realty,69
+HS0019,2022-07-08,9205 Forest Blvd,Phoenix,AZ,34890,1,1.8,2000,0.77,1995,223508,Single Family,33.465391,-112.074369,Alex Morgan,Prime Realty,150
+HS0716,2020-05-07,9748 River Terrace,Columbus,OH,41228,1,1.6,3387,0.37,1916,401660,Multi-Family,39.951787,-82.939144,Alex Morgan,Summit Brokers,168
+HS0484,2025-06-28,7372 Maple Rd,Phoenix,AZ,34780,2,2.3,530,0.15,1952,59843,Condo,33.433357,-112.134474,Morgan Patel,Hearthstone Realty,125
+HS0569,2022-10-25,623 Pine Terrace,Seattle,WA,66442,2,2.2,1534,1.15,1933,294224,Single Family,47.717234,-122.331659,Morgan Patel,Prime Realty,198
+HS0434,2021-03-12,9615 Maple Blvd,Madison,WI,96623,1,1.0,1078,0.27,1957,108344,Condo,43.102851,-89.429071,Jordan Lee,Hearthstone Realty,77
+HS0368,2025-07-08,5416 Maple Blvd,Phoenix,AZ,46188,2,1.6,2889,4.64,1905,462390,Single Family,33.42161,-112.159368,Sam Carter,Summit Brokers,40
+HS0084,2019-03-29,9020 Lake St,Columbus,OH,62184,3,1.5,2350,1.72,1927,231523,Single Family,39.923037,-83.089044,Alex Morgan,Hearthstone Realty,63
+HS0062,2022-02-13,9719 Maple Rd,Portland,OR,85529,4,2.5,1555,1.64,2017,313782,Condo,45.439088,-122.583427,Taylor Brooks,Summit Brokers,112
+HS0639,2019-10-01,9416 Cedar Ct,Madison,WI,15723,4,2.5,2126,0.3,1985,321244,Single Family,43.105568,-89.36064,Jordan Lee,Lakeside Properties,106
+HS0273,2021-01-08,6868 Oak Blvd,Albany,NY,28004,2,2.6,1495,0.42,2010,228672,Single Family,42.674016,-73.711243,Jamie Rivera,Lakeside Properties,86
+HS0286,2021-12-07,5975 View St,Phoenix,AZ,99714,2,1.9,1650,0.37,1908,175177,Single Family,33.437157,-112.1065,Morgan Patel,Prime Realty,181
+HS0361,2023-05-16,9081 Lake Ln,Springfield,IL,63967,2,1.2,1175,0.29,1982,148210,Condo,39.83461,-89.603222,Riley Smith,Urban Homes,68
+HS0355,2019-11-24,6050 Highland Way,Austin,TX,64262,3,2.3,1539,3.11,1932,257305,Single Family,30.31038,-97.714118,Jordan Lee,Urban Homes,102
+HS0457,2019-11-26,5563 Spruce Ct,Columbus,OH,17234,5,2.8,2376,0.28,1943,273461,Multi-Family,39.920191,-83.061369,Sam Carter,Hearthstone Realty,166
+HS0279,2021-04-21,423 Oak Ave,Riverside,CA,64627,5,4.4,2861,1.84,1919,445803,Single Family,33.948023,-117.405418,Alex Morgan,Hearthstone Realty,108
+HS0013,2021-07-09,7032 Willow Ln,Portland,OR,50857,2,2.5,2406,1.02,1931,392687,Single Family,45.465637,-122.637814,Jamie Rivera,Hearthstone Realty,6
+HS0183,2023-04-06,7481 Forest Ln,Albany,NY,56636,4,2.8,1786,1.48,1984,170245,Condo,42.643155,-73.728546,Jamie Rivera,Summit Brokers,76
+HS0369,2022-12-27,1566 Birch Blvd,Columbus,OH,75525,3,2.2,1201,0.85,1907,177267,Condo,40.030563,-82.941469,Taylor Brooks,Summit Brokers,203
+HS0882,2023-06-16,382 Forest Ct,Phoenix,AZ,58855,2,2.1,1417,1.35,1903,166300,Condo,33.552636,-112.124396,Jordan Lee,Lakeside Properties,95
+HS0616,2022-09-19,160 Birch Ln,Burlington,VT,71149,2,2.3,1478,0.43,2004,219971,Townhouse,44.446868,-73.242669,Riley Smith,Urban Homes,103
+HS0224,2021-07-24,1008 Forest Blvd,Columbus,OH,58193,2,1.4,780,0.14,1914,98372,Condo,39.950137,-83.012641,Dana Kim,Prime Realty,12
+HS0573,2024-10-15,2583 River Ct,Burlington,VT,39908,2,2.2,3094,0.72,2021,356129,Multi-Family,44.480455,-73.121773,Morgan Patel,Prime Realty,114
+HS0971,2020-09-08,451 Park Rd,Phoenix,AZ,10832,1,0.6,4280,2.78,1954,494104,Single Family,33.385212,-112.142528,Casey Nguyen,Urban Homes,150
+HS0654,2024-03-28,3445 Elm Ave,Madison,WI,32764,4,3.7,4061,0.21,1992,671154,Single Family,42.922718,-89.372641,Casey Nguyen,Urban Homes,185
+HS0546,2022-02-24,1568 Hill Ct,Madison,WI,28585,4,2.7,1993,0.25,2024,331698,Single Family,43.098112,-89.42788,Morgan Patel,Lakeside Properties,73
+HS0583,2024-02-09,2768 Elm Blvd,Phoenix,AZ,73539,2,2.0,2744,0.35,1927,354351,Single Family,33.521179,-112.033627,Sam Carter,Prime Realty,192
+HS0634,2024-11-17,8105 Maple Blvd,Portland,OR,36083,2,2.1,1326,1.35,1984,202838,Single Family,45.5337,-122.710236,Jamie Rivera,Lakeside Properties,15
+HS0177,2023-10-30,9138 Sunset St,Seattle,WA,12192,5,4.1,3567,0.78,2004,780888,Single Family,47.63442,-122.314322,Taylor Brooks,Prime Realty,25
+HS0666,2021-08-19,1889 Walnut Ave,Portland,OR,48420,3,1.8,1431,2.53,1974,185507,Single Family,45.498493,-122.701187,Sam Carter,Lakeside Properties,173
+HS0674,2020-01-06,3710 Chestnut Way,Albany,NY,97897,3,2.5,1159,0.9,1962,160668,Condo,42.614474,-73.704385,Morgan Patel,Urban Homes,148
+HS0586,2022-10-15,134 Cedar Terrace,Austin,TX,18855,5,2.9,790,3.68,2015,138305,Condo,30.300435,-97.770746,Riley Smith,Lakeside Properties,185
+HS0874,2019-08-12,1096 Meadow Terrace,Phoenix,AZ,44289,3,2.1,2440,0.06,1933,249338,Single Family,33.507707,-111.996984,Casey Nguyen,Lakeside Properties,187
+HS0394,2023-05-31,3358 River Way,Madison,WI,83490,2,1.9,1044,0.73,1962,145907,Single Family,43.004219,-89.429439,Taylor Brooks,Prime Realty,89
+HS0164,2021-02-11,4988 Ridge Ct,Springfield,IL,79721,3,3.4,2804,3.98,1935,236596,Single Family,39.806402,-89.637066,Jamie Rivera,Prime Realty,208
+HS0249,2020-11-06,2736 Pine Ave,Phoenix,AZ,54295,4,3.6,2986,14.34,1983,495158,Single Family,33.433623,-112.066384,Logan Brown,Lakeside Properties,41
+HS0635,2019-10-09,8595 Maple Blvd,Columbus,OH,52830,2,2.3,2236,0.27,1961,240450,Single Family,39.902537,-83.00404,Riley Smith,Urban Homes,34
+HS0886,2024-10-30,8013 River Ave,Austin,TX,23768,3,2.5,1318,0.4,1920,279495,Townhouse,30.267568,-97.817027,Jamie Rivera,Urban Homes,51
+HS0670,2022-08-26,7885 River Ct,Austin,TX,96537,2,2.7,1782,0.22,1905,262069,Single Family,30.217967,-97.782726,Sam Carter,Urban Homes,156
+HS0376,2019-08-27,8151 Pine Way,Burlington,VT,93744,3,3.1,2069,3.22,2001,210963,Townhouse,44.399345,-73.186387,Logan Brown,Hearthstone Realty,136
+HS0413,2019-08-27,4897 Forest Blvd,Riverside,CA,25993,2,1.5,2282,0.54,1926,280508,Single Family,33.877004,-117.365306,Jamie Rivera,Summit Brokers,187
+HS0075,2021-10-21,7722 Spruce Blvd,Springfield,IL,19681,4,2.6,1369,1.79,1954,134352,Condo,39.900407,-89.665636,Sam Carter,Hearthstone Realty,51
+HS0114,2021-06-28,2142 Spruce Ave,Seattle,WA,31012,2,2.1,2508,0.83,2016,537112,Single Family,47.579212,-122.371015,Sam Carter,Hearthstone Realty,7
+HS0599,2019-01-09,4573 Birch Terrace,Austin,TX,54778,3,1.9,3002,4.08,1917,465226,Multi-Family,30.337711,-97.750354,Logan Brown,Lakeside Properties,2
+HS0962,2023-04-16,2392 Ridge Rd,Columbus,OH,12553,4,3.0,1848,0.69,1954,185930,Single Family,40.05581,-83.042986,Morgan Patel,Summit Brokers,144
+HS0391,2019-03-17,3524 Meadow Ln,Columbus,OH,36712,3,1.7,1235,1.01,1918,160878,Condo,39.969941,-82.990567,Riley Smith,Summit Brokers,170
+HS0105,2024-05-02,9833 River Ct,Riverside,CA,70648,2,3.5,934,0.33,1941,155998,Condo,34.022729,-117.529168,Dana Kim,Urban Homes,16
+HS0115,2022-10-05,972 Park Terrace,Phoenix,AZ,40903,0,0.5,2658,1.74,1912,398825,Single Family,33.424943,-112.047653,Taylor Brooks,Urban Homes,10
+HS0418,2023-08-23,2324 Forest Blvd,Springfield,IL,92208,4,2.4,2393,0.78,2004,233462,Single Family,39.798393,-89.578532,Alex Morgan,Summit Brokers,77
+HS0526,2020-09-08,4489 Meadow Ct,Austin,TX,84202,1,2.8,4156,3.29,1930,800278,Single Family,30.322495,-97.771297,Casey Nguyen,Lakeside Properties,106
+HS0458,2024-06-15,2993 Meadow St,Burlington,VT,60353,4,3.4,705,0.83,1945,75986,Condo,44.492103,-73.269485,Jamie Rivera,Lakeside Properties,189
+HS0410,2019-07-20,9950 View St,Riverside,CA,42075,3,2.0,2115,0.52,1926,263797,Townhouse,33.934775,-117.466478,Taylor Brooks,Urban Homes,15
+HS0093,2022-02-15,5861 Cedar Ln,Albany,NY,30280,1,1.8,3057,3.48,1997,465710,Single Family,42.62823,-73.736009,Logan Brown,Urban Homes,207
+HS0931,2022-09-08,5418 Birch Ave,Springfield,IL,90135,2,1.3,1088,0.65,1981,120590,Condo,39.816853,-89.676484,Dana Kim,Lakeside Properties,122
+HS0090,2022-10-20,7148 Cedar Ave,Portland,OR,95814,4,3.2,2941,7.97,1952,608510,Multi-Family,45.565161,-122.695404,Sam Carter,Lakeside Properties,107
+HS0337,2024-10-23,6664 View Rd,Phoenix,AZ,88311,2,2.4,1096,0.79,1925,149418,Single Family,33.464903,-112.043004,Casey Nguyen,Urban Homes,9
+HS0989,2019-12-06,7594 Cedar Ave,Burlington,VT,82150,4,4.2,1981,0.46,2025,301085,Single Family,44.468295,-73.134813,Dana Kim,Urban Homes,102
+HS0922,2023-10-03,9989 Ridge Terrace,Riverside,CA,72068,2,0.6,2424,0.7,2025,326680,Townhouse,33.883346,-117.472214,Dana Kim,Lakeside Properties,173
+HS0934,2025-05-02,4881 Hill Way,Albany,NY,98408,3,3.1,3427,1.0,1945,325471,Single Family,42.686893,-73.863887,Riley Smith,Lakeside Properties,196
+HS0606,2021-07-13,8823 Ridge Terrace,Phoenix,AZ,10676,2,2.0,1657,1.71,1994,211076,Townhouse,33.455552,-112.031519,Riley Smith,Prime Realty,64
+HS0594,2022-01-07,5315 Ridge Ct,Springfield,IL,18579,1,0.7,3285,0.17,1902,304130,Multi-Family,39.762559,-89.656286,Dana Kim,Summit Brokers,173
+HS0612,2019-06-30,8437 Chestnut Terrace,Madison,WI,65182,2,1.8,2441,0.71,2002,241236,Single Family,43.121115,-89.378076,Alex Morgan,Urban Homes,80
+HS0095,2023-09-16,9378 Park Ave,Madison,WI,28595,2,2.8,3178,0.64,1948,357544,Single Family,43.121293,-89.352522,Sam Carter,Hearthstone Realty,41
+HS0012,2025-03-01,9395 Pine Ave,Burlington,VT,73699,3,2.5,1252,4.78,1960,166668,Single Family,44.480252,-73.22705,Taylor Brooks,Hearthstone Realty,136
+HS0397,2024-11-15,5495 Ridge Blvd,Albany,NY,37100,3,2.7,3588,0.4,1939,409982,Multi-Family,42.674274,-73.796503,Taylor Brooks,Lakeside Properties,198
+HS0534,2023-12-03,228 Park Rd,Phoenix,AZ,49438,3,2.8,2455,3.84,1920,425256,Multi-Family,33.562022,-112.029548,Morgan Patel,Lakeside Properties,203
+HS0044,2021-10-30,5463 Willow Way,Phoenix,AZ,52840,2,3.0,1291,0.24,1953,134554,Mobile Home,33.520464,-112.145793,Jamie Rivera,Lakeside Properties,5
+HS0043,2024-03-06,8851 Maple Ct,Portland,OR,87580,0,0.9,2855,6.5,2010,487677,Single Family,45.440353,-122.680256,Taylor Brooks,Prime Realty,67
+HS0330,2025-01-17,3006 Forest St,Riverside,CA,79655,2,3.4,1084,2.19,2015,154314,Condo,33.954423,-117.368844,Alex Morgan,Lakeside Properties,134
+HS0168,2021-09-14,6344 River Terrace,Columbus,OH,64568,4,2.1,1660,0.65,1960,219450,Townhouse,39.943767,-83.016263,Jordan Lee,Hearthstone Realty,182
+HS0498,2020-07-08,2059 Lake St,Austin,TX,44018,3,1.9,1811,0.51,1988,289588,Single Family,30.31222,-97.720539,Morgan Patel,Urban Homes,14
+HS0877,2023-08-21,8873 Willow Blvd,Columbus,OH,80215,2,2.3,2427,0.72,1942,322979,Multi-Family,39.952751,-82.960368,Jordan Lee,Summit Brokers,188
+HS0598,2022-07-27,6576 Cedar Blvd,Riverside,CA,82938,4,2.4,1898,0.73,2002,236127,Single Family,34.002244,-117.464787,Morgan Patel,Hearthstone Realty,193
+HS0757,2023-09-29,1122 Lake Ct,Phoenix,AZ,72050,1,1.7,387,1.48,1987,53996,Mobile Home,33.565301,-112.085798,Casey Nguyen,Hearthstone Realty,163
+HS0101,2020-11-19,4086 Sunset Ct,Riverside,CA,78676,3,2.4,1208,1.87,1999,198124,Single Family,33.878162,-117.409237,Jamie Rivera,Summit Brokers,163
+HS0427,2021-03-22,7087 Park Blvd,Riverside,CA,88134,2,1.3,3589,0.73,2004,457738,Single Family,33.960856,-117.357936,Dana Kim,Prime Realty,194
+HS0179,2020-12-02,5014 Pine St,Burlington,VT,22255,4,3.1,2181,0.36,1901,273363,Single Family,44.411999,-73.294287,Jamie Rivera,Lakeside Properties,112
+HS0445,2020-08-17,6158 Walnut Rd,Austin,TX,40958,4,3.3,2707,0.38,1910,423362,Single Family,30.249168,-97.716154,Logan Brown,Urban Homes,127
+HS0417,2022-09-15,200 Cedar Terrace,Columbus,OH,54742,4,2.7,2231,1.91,1924,202481,Townhouse,40.01927,-83.039363,Morgan Patel,Lakeside Properties,122
+HS0871,2024-06-09,3945 Lake Way,Portland,OR,79528,4,4.2,5392,1.26,1985,739043,Multi-Family,45.483666,-122.670353,Sam Carter,Lakeside Properties,154
+HS0883,2024-06-29,9326 Cedar Rd,Austin,TX,53572,3,2.3,1567,1.72,1926,292475,Condo,30.170711,-97.76296,Logan Brown,Urban Homes,22
+HS0681,2019-08-10,8748 Spruce Rd,Riverside,CA,35571,2,2.2,992,0.16,1974,159095,Townhouse,33.928281,-117.374275,Casey Nguyen,Lakeside Properties,168
+HS0178,2023-07-22,2539 Birch Ln,Seattle,WA,91235,2,2.7,3585,0.29,2022,865473,Single Family,47.591322,-122.263315,Sam Carter,Summit Brokers,63
+HS0396,2021-09-11,5699 Park Blvd,Madison,WI,21507,3,2.0,1084,1.71,1953,136216,Condo,43.089491,-89.354986,Logan Brown,Urban Homes,110
+HS0912,2024-09-07,6214 View Terrace,Albany,NY,73249,2,1.6,1089,0.19,2015,101156,Townhouse,42.660629,-73.688093,Jamie Rivera,Lakeside Properties,110
+HS0794,2025-03-04,7650 Walnut Rd,Springfield,IL,13746,3,1.9,2566,1.15,2018,275334,Single Family,39.829515,-89.533866,Jamie Rivera,Hearthstone Realty,111
+HS0961,2019-01-24,2475 Spruce Terrace,Columbus,OH,56390,4,1.3,1889,3.19,1953,270830,Single Family,39.854244,-83.006097,Riley Smith,Prime Realty,105
+HS0685,2024-09-18,4609 Ridge Terrace,Phoenix,AZ,11520,4,3.5,767,1.67,2016,133884,Condo,33.514919,-112.007947,Jordan Lee,Prime Realty,151
+HS0384,2020-05-08,712 Highland Ct,Albany,NY,20286,2,2.2,1315,2.06,2011,160794,Single Family,42.58567,-73.721554,Jordan Lee,Summit Brokers,3
+HS0957,2024-09-18,5689 Chestnut Rd,Burlington,VT,92040,2,1.4,3040,1.57,2024,335892,Single Family,44.399161,-73.234759,Sam Carter,Lakeside Properties,42
+HS0752,2020-06-12,2401 Cedar Way,Austin,TX,15189,4,3.8,2778,0.42,2017,627038,Multi-Family,30.259285,-97.752293,Sam Carter,Hearthstone Realty,132
+HS0258,2022-11-09,9383 Highland Ave,Madison,WI,23845,4,2.4,4533,1.53,2012,635986,Multi-Family,43.074311,-89.330589,Riley Smith,Hearthstone Realty,99
+HS0539,2019-12-31,6282 Highland Ln,Phoenix,AZ,12717,4,3.3,1256,1.07,2016,135910,Condo,33.553584,-112.04418,Sam Carter,Urban Homes,68
+HS0336,2023-02-27,2733 Park St,Springfield,IL,21939,3,1.8,1755,1.28,1928,199071,Single Family,39.860727,-89.700855,Jamie Rivera,Summit Brokers,10
+HS0016,2021-10-15,6835 Ridge St,Phoenix,AZ,98259,2,2.2,1470,1.3,1913,204936,Townhouse,33.377631,-112.095032,Jordan Lee,Urban Homes,138
+HS0325,2021-08-01,8530 Chestnut Ln,Riverside,CA,29692,2,2.7,1953,0.73,1984,239027,Townhouse,33.93477,-117.29101,Riley Smith,Hearthstone Realty,185
+HS0759,2020-10-20,1614 Sunset Terrace,Springfield,IL,48915,1,1.3,1526,1.31,1988,139081,Single Family,39.713443,-89.685627,Riley Smith,Hearthstone Realty,178
+HS0223,2019-11-12,4503 Cedar St,Madison,WI,53910,1,2.4,894,6.05,1973,138075,Condo,43.030413,-89.38324,Sam Carter,Lakeside Properties,131
+HS0180,2022-02-22,9370 Cedar St,Columbus,OH,40115,3,1.9,1667,0.12,1909,184348,Single Family,40.043301,-82.948309,Dana Kim,Summit Brokers,169
+HS0984,2022-09-08,1653 Park Rd,Riverside,CA,90611,4,2.3,1661,1.06,1938,275047,Townhouse,33.999294,-117.345254,Sam Carter,Summit Brokers,134
+HS0023,2024-12-06,5818 Pine Ln,Madison,WI,58434,4,2.8,591,0.41,1978,96083,Condo,43.055263,-89.373394,Alex Morgan,Summit Brokers,77
+HS0357,2019-05-24,5168 Birch Ln,Phoenix,AZ,47247,3,2.1,1236,1.26,1903,190868,Townhouse,33.472415,-112.102469,Morgan Patel,Hearthstone Realty,122
+HS0667,2023-03-19,255 Oak Rd,Riverside,CA,10947,2,1.9,3213,0.14,1900,388216,Single Family,33.887254,-117.502384,Logan Brown,Summit Brokers,195
+HS0862,2024-09-12,4676 Cedar Ln,Portland,OR,48974,1,1.4,4287,0.87,1974,767644,Multi-Family,45.53698,-122.662062,Riley Smith,Hearthstone Realty,83
+HS0341,2023-03-25,4921 Hill Ave,Seattle,WA,77277,5,3.5,1864,1.39,1956,380147,Single Family,47.570368,-122.324247,Logan Brown,Lakeside Properties,198
+HS0432,2024-03-11,9021 Birch Blvd,Columbus,OH,96849,4,2.9,1070,0.47,1976,107063,Single Family,39.952361,-83.076231,Morgan Patel,Summit Brokers,25
+HS0552,2023-04-12,7523 Hill Blvd,Springfield,IL,37704,3,3.0,1592,0.34,1970,195280,Townhouse,39.816053,-89.576773,Jamie Rivera,Lakeside Properties,66
+HS0834,2024-05-28,451 Oak St,Burlington,VT,35712,3,2.0,1534,0.61,1970,187700,Townhouse,44.458541,-73.17356,Alex Morgan,Lakeside Properties,197
+HS0204,2022-01-02,8908 Spruce Blvd,Burlington,VT,69942,4,3.2,3749,1.38,1914,464252,Single Family,44.467152,-73.249887,Dana Kim,Hearthstone Realty,139
+HS0631,2022-08-28,8288 Lake Terrace,Springfield,IL,39555,2,2.1,987,3.14,1938,81462,Condo,39.850202,-89.731744,Logan Brown,Prime Realty,146
+HS0094,2022-10-23,9290 View St,Phoenix,AZ,89822,2,2.5,1095,0.42,2017,157552,Townhouse,33.472349,-112.057317,Morgan Patel,Prime Realty,47
+HS0559,2020-03-11,7554 Ridge Rd,Portland,OR,54739,2,1.6,1367,0.21,1933,172375,Mobile Home,45.571946,-122.615872,Riley Smith,Summit Brokers,5
+HS0069,2023-08-10,5754 Hill Ct,Austin,TX,69682,2,2.5,1375,0.87,1929,256038,Condo,30.242864,-97.676378,Alex Morgan,Hearthstone Realty,191
+HS0623,2021-04-11,8206 Forest Rd,Austin,TX,86177,4,3.0,2494,2.27,2014,520505,Single Family,30.265713,-97.770406,Sam Carter,Urban Homes,102
+HS0285,2025-05-19,7009 Walnut Ave,Austin,TX,27368,4,3.1,1826,0.54,1961,266487,Multi-Family,30.225585,-97.853558,Sam Carter,Urban Homes,157
+HS0845,2023-01-21,4698 Chestnut Ave,Springfield,IL,42759,0,1.7,2998,0.23,1935,387318,Single Family,39.750247,-89.640263,Casey Nguyen,Hearthstone Realty,201
+HS0435,2022-04-19,5089 Sunset Terrace,Portland,OR,21703,2,2.5,1962,0.68,2009,260051,Townhouse,45.409195,-122.682505,Alex Morgan,Hearthstone Realty,141
+HS0154,2024-02-23,8690 Forest Blvd,Seattle,WA,76088,2,1.0,3177,2.14,1993,802783,Single Family,47.557851,-122.334486,Casey Nguyen,Urban Homes,4
+HS0076,2023-06-10,8016 Cedar Ln,Phoenix,AZ,59986,2,3.0,2803,0.78,2025,336035,Single Family,33.477228,-112.058437,Casey Nguyen,Prime Realty,145
+HS0731,2023-04-25,2423 Maple Ln,Phoenix,AZ,13145,2,2.5,875,3.1,1928,104009,Condo,33.415789,-112.154255,Jamie Rivera,Lakeside Properties,44
+HS0447,2023-11-16,7902 Spruce Way,Phoenix,AZ,79798,1,2.0,1608,0.97,2011,197517,Single Family,33.41559,-112.110645,Alex Morgan,Hearthstone Realty,205
+HS0189,2024-05-16,5499 Ridge Terrace,Phoenix,AZ,66441,4,2.8,2374,2.12,1925,379383,Multi-Family,33.488545,-112.102022,Morgan Patel,Urban Homes,102
+HS0272,2024-08-11,7698 Cedar Way,Albany,NY,17035,3,2.4,2990,0.71,1924,368558,Single Family,42.692597,-73.837016,Jamie Rivera,Lakeside Properties,136
+HS0237,2022-02-19,667 View Ln,Madison,WI,94840,2,1.7,2157,0.41,1911,220832,Single Family,43.097103,-89.469473,Riley Smith,Urban Homes,108
+HS0488,2022-08-04,8945 Walnut Rd,Austin,TX,25923,2,2.0,4173,1.56,2018,859268,Multi-Family,30.290874,-97.756482,Taylor Brooks,Prime Realty,190
+HS0118,2019-12-17,9521 Birch Blvd,Seattle,WA,48177,2,1.4,539,2.87,1923,112349,Condo,47.630866,-122.322858,Dana Kim,Hearthstone Realty,18
+HS0944,2020-11-23,8481 Ridge Ct,Phoenix,AZ,26260,2,2.3,1517,0.41,1914,175868,Townhouse,33.491527,-112.158749,Morgan Patel,Lakeside Properties,169
+HS0513,2024-06-27,5934 Forest Ct,Phoenix,AZ,73508,1,2.5,3383,2.02,1932,533710,Single Family,33.448394,-112.019833,Sam Carter,Urban Homes,161
+HS0826,2020-10-25,6287 Elm Ln,Austin,TX,35653,1,1.1,2167,1.93,1994,466693,Single Family,30.348139,-97.722309,Riley Smith,Summit Brokers,208
+HS0592,2022-08-03,6772 Walnut St,Albany,NY,90540,2,1.2,2383,0.2,1912,243389,Single Family,42.607961,-73.730519,Taylor Brooks,Lakeside Properties,83
+HS0127,2023-05-05,6112 Park Terrace,Seattle,WA,95139,3,2.1,2245,2.84,1966,573967,Single Family,47.538727,-122.302825,Dana Kim,Prime Realty,68
+HS0117,2024-08-09,4820 Birch Rd,Riverside,CA,25970,3,2.3,1194,1.22,1914,149287,Single Family,33.877099,-117.436122,Logan Brown,Summit Brokers,5
+HS0474,2021-10-07,6845 River Way,Riverside,CA,38369,1,1.9,2058,1.17,1994,229843,Townhouse,33.98903,-117.498697,Jordan Lee,Hearthstone Realty,112
+HS0694,2021-07-13,9084 Sunset Ave,Riverside,CA,53169,4,2.3,1375,0.26,2002,175061,Single Family,34.01273,-117.303732,Casey Nguyen,Prime Realty,26
+HS0058,2023-08-01,3504 Willow Rd,Riverside,CA,96563,3,2.4,1187,1.49,1900,207004,Single Family,33.964505,-117.39557,Sam Carter,Summit Brokers,121
+HS0864,2020-03-10,4816 Chestnut Way,Riverside,CA,67529,2,1.6,631,0.52,1996,106908,Mobile Home,33.910483,-117.426782,Jordan Lee,Hearthstone Realty,37
+HS0913,2024-11-16,9561 Park St,Albany,NY,31499,2,2.2,960,1.95,2020,91859,Mobile Home,42.686231,-73.667665,Jordan Lee,Summit Brokers,193
+HS0370,2023-03-28,2161 Forest Ln,Riverside,CA,51515,3,2.3,1853,0.27,1902,210554,Townhouse,33.905112,-117.444058,Morgan Patel,Urban Homes,65
+HS0269,2025-06-01,2392 Maple Way,Columbus,OH,48745,2,2.1,1760,3.01,1974,263466,Townhouse,39.951823,-83.045928,Jordan Lee,Hearthstone Realty,186
+HS0047,2022-05-20,520 Spruce Ct,Portland,OR,61990,5,3.8,2075,0.9,1989,296986,Single Family,45.480778,-122.66462,Logan Brown,Prime Realty,204
+HS0350,2020-07-04,3963 Meadow Ct,Albany,NY,59923,2,1.9,1979,2.51,1963,244963,Single Family,42.580041,-73.756804,Dana Kim,Summit Brokers,185
+HS0196,2020-11-04,7512 Hill Ave,Austin,TX,49356,3,2.7,1412,2.3,1986,235935,Condo,30.328583,-97.803582,Jordan Lee,Summit Brokers,45
+HS1000,2021-09-04,8602 Park St,Portland,OR,88861,3,3.0,1407,2.13,1997,215788,Single Family,45.425593,-122.708233,Morgan Patel,Summit Brokers,173
+HS0835,2022-12-11,2151 Sunset Ct,Phoenix,AZ,82029,1,1.7,943,2.5,1947,125697,Mobile Home,33.498386,-112.118908,Jordan Lee,Hearthstone Realty,112
+HS0737,2020-03-27,1529 Birch Terrace,Burlington,VT,10375,3,1.3,1817,8.27,1917,193073,Single Family,44.477643,-73.112257,Alex Morgan,Hearthstone Realty,93
+HS0264,2020-01-06,7408 Walnut Way,Portland,OR,86923,3,3.1,1666,0.65,1988,360596,Townhouse,45.459915,-122.658782,Casey Nguyen,Prime Realty,99
+HS0444,2020-12-16,8383 Pine Rd,Madison,WI,43036,2,2.7,1437,0.6,1914,146955,Single Family,43.132086,-89.391495,Logan Brown,Urban Homes,169
+HS0676,2019-09-11,9802 Willow Ave,Columbus,OH,85083,4,3.3,1660,0.52,1939,172969,Townhouse,39.85803,-83.014668,Logan Brown,Summit Brokers,49
+HS0305,2021-06-13,2711 Sunset Ct,Seattle,WA,22051,3,2.6,2440,0.09,1937,537050,Single Family,47.665898,-122.348945,Logan Brown,Summit Brokers,122
+HS0342,2021-06-21,5665 Ridge Way,Burlington,VT,86916,3,2.8,1166,1.02,2000,131784,Single Family,44.566117,-73.221645,Jordan Lee,Hearthstone Realty,106
+HS0967,2020-07-28,7773 Birch Way,Columbus,OH,57474,3,1.7,1716,0.67,1902,165863,Townhouse,40.073118,-83.045748,Jamie Rivera,Lakeside Properties,110
+HS0150,2025-07-31,7949 Willow Ln,Albany,NY,80592,2,2.0,2486,3.06,1978,258270,Single Family,42.669736,-73.733362,Jordan Lee,Urban Homes,13
+HS0125,2023-11-30,1039 Pine Ct,Albany,NY,57619,4,2.7,1449,2.43,1986,135816,Townhouse,42.582342,-73.731148,Alex Morgan,Urban Homes,18
+HS0787,2023-02-19,3770 Oak St,Springfield,IL,28184,5,3.6,1412,2.46,1992,110705,Single Family,39.76884,-89.730771,Dana Kim,Prime Realty,177
+HS0051,2025-03-24,5676 Chestnut Rd,Albany,NY,82848,1,1.5,1214,2.54,1962,137292,Condo,42.640639,-73.713501,Jordan Lee,Lakeside Properties,166
+HS0354,2021-12-31,7011 View Ct,Columbus,OH,19351,1,0.8,1153,0.34,1937,99729,Single Family,39.995169,-83.05624,Logan Brown,Lakeside Properties,70
+HS0928,2024-10-06,3113 Chestnut Ave,Springfield,IL,66811,4,3.7,643,1.5,1978,58242,Mobile Home,39.786846,-89.765802,Dana Kim,Urban Homes,178
+HS0143,2024-04-29,2762 Park Rd,Columbus,OH,87820,3,2.7,1086,0.67,1938,161598,Condo,40.021649,-83.070875,Alex Morgan,Hearthstone Realty,85
+HS0471,2020-08-16,3984 Sunset Ln,Riverside,CA,59221,4,2.7,2115,0.27,1955,361307,Single Family,33.91369,-117.508016,Jordan Lee,Summit Brokers,117
+HS0400,2023-03-12,9870 Birch Ln,Burlington,VT,13418,0,1.2,2222,5.8,1960,361957,Townhouse,44.473244,-73.150922,Taylor Brooks,Lakeside Properties,126
+HS0626,2024-10-01,504 Walnut Way,Phoenix,AZ,40643,3,1.9,1717,1.22,1964,179920,Single Family,33.444447,-112.102956,Dana Kim,Prime Realty,202
+HS0321,2023-01-09,2399 Ridge Blvd,Seattle,WA,33480,2,1.9,2542,2.13,1961,416598,Townhouse,47.602923,-122.233015,Alex Morgan,Urban Homes,195
+HS0020,2021-08-21,8338 River Blvd,Austin,TX,17455,2,2.7,2816,2.12,2010,585176,Single Family,30.33734,-97.813193,Riley Smith,Prime Realty,146
+HS0810,2022-05-18,9339 Sunset Terrace,Madison,WI,85781,2,1.9,1295,1.02,1925,206488,Single Family,43.084033,-89.423516,Casey Nguyen,Prime Realty,77
+HS0791,2022-10-26,1378 Pine Way,Burlington,VT,17899,3,3.1,1784,0.68,1913,206687,Single Family,44.380797,-73.274594,Jordan Lee,Summit Brokers,195
+HS0809,2021-12-06,3685 Oak Way,Albany,NY,56482,2,1.3,801,1.29,1912,111239,Mobile Home,42.549578,-73.701652,Casey Nguyen,Summit Brokers,80
+HS0408,2021-01-10,2756 Elm Blvd,Madison,WI,16725,3,2.2,1431,0.62,1936,214647,Mobile Home,43.082965,-89.385635,Jamie Rivera,Urban Homes,52
+HS0538,2019-12-12,7497 Forest Blvd,Columbus,OH,44167,4,3.0,1849,0.31,1925,168279,Townhouse,40.045986,-82.903936,Riley Smith,Hearthstone Realty,47
+HS0621,2024-09-12,8873 Spruce Blvd,Burlington,VT,52949,3,2.4,4732,12.2,2008,596628,Multi-Family,44.405285,-73.207591,Logan Brown,Lakeside Properties,54
+HS0039,2022-10-07,4643 River Way,Burlington,VT,92149,3,3.3,2330,2.29,1934,325809,Single Family,44.528301,-73.243528,Morgan Patel,Summit Brokers,21
+HS0176,2024-06-02,1213 Elm St,Burlington,VT,38668,3,2.9,973,0.32,2019,145982,Condo,44.491032,-73.249814,Sam Carter,Prime Realty,2
+HS0246,2019-10-05,3999 Lake Terrace,Riverside,CA,32005,2,2.4,1084,0.75,1931,171458,Single Family,33.95665,-117.370403,Morgan Patel,Hearthstone Realty,202
+HS0829,2025-01-23,6262 Pine Ave,Phoenix,AZ,26671,1,2.0,3559,0.38,1976,589339,Single Family,33.407326,-112.082491,Morgan Patel,Prime Realty,58
+HS0668,2021-09-08,8061 Forest Terrace,Albany,NY,89216,3,3.2,820,2.65,2004,79752,Mobile Home,42.629718,-73.746916,Morgan Patel,Lakeside Properties,97
+HS0755,2019-09-22,7716 Cedar Ave,Seattle,WA,33628,3,2.0,1294,0.63,1942,254803,Single Family,47.618589,-122.252035,Morgan Patel,Hearthstone Realty,155
+HS0859,2025-03-31,2835 Pine Blvd,Springfield,IL,77488,3,1.7,3346,0.87,1951,268668,Single Family,39.8421,-89.762384,Jordan Lee,Hearthstone Realty,31
+HS0155,2023-06-30,4933 Highland Ln,Columbus,OH,33002,2,3.4,3847,0.98,1911,471893,Single Family,39.917384,-82.996917,Jamie Rivera,Urban Homes,36
+HS0288,2024-07-06,2535 Meadow St,Phoenix,AZ,11526,4,2.6,5678,1.44,1909,600863,Multi-Family,33.391214,-112.068572,Morgan Patel,Urban Homes,85
+HS0603,2019-09-25,9424 River Way,Albany,NY,32344,4,3.9,647,11.18,1922,66362,Condo,42.640288,-73.726415,Logan Brown,Urban Homes,191
+HS0570,2020-02-22,4482 Elm Ave,Seattle,WA,16608,3,2.3,3153,0.48,1913,797189,Single Family,47.665837,-122.394993,Dana Kim,Prime Realty,130
+HS0744,2021-09-08,7050 Willow Rd,Columbus,OH,24208,1,0.8,1855,0.78,1903,251490,Townhouse,39.961959,-83.04754,Casey Nguyen,Urban Homes,139
+HS0018,2023-05-19,2824 Sunset Way,Burlington,VT,73092,5,2.3,1710,0.97,1900,177136,Single Family,44.478912,-73.088938,Casey Nguyen,Lakeside Properties,74
+HS0128,2023-12-29,7411 Willow Rd,Albany,NY,74382,1,1.5,2106,2.9,2015,307132,Single Family,42.626736,-73.685733,Jamie Rivera,Hearthstone Realty,171
+HS0323,2025-08-04,1791 River Rd,Columbus,OH,44513,5,2.9,942,2.88,1946,129112,Condo,39.939295,-82.991811,Jamie Rivera,Summit Brokers,65
+HS0256,2021-11-22,3571 Willow Blvd,Madison,WI,15593,2,2.0,2405,2.35,1976,351381,Single Family,43.040923,-89.349702,Morgan Patel,Prime Realty,23
+HS0658,2024-07-05,2338 Forest Ln,Columbus,OH,30280,2,3.1,1058,0.62,1947,159655,Townhouse,39.977423,-83.088993,Riley Smith,Lakeside Properties,102
+HS0965,2022-09-04,5417 Sunset Blvd,Riverside,CA,29715,2,1.0,4064,1.11,1931,720753,Single Family,33.85633,-117.351699,Logan Brown,Summit Brokers,196
+HS0191,2020-09-23,3534 Ridge Rd,Austin,TX,19064,3,2.3,2287,1.57,1932,312822,Single Family,30.328429,-97.66193,Riley Smith,Lakeside Properties,19
+HS0116,2025-02-25,7840 Elm Way,Albany,NY,68799,0,1.2,3728,2.67,1919,509574,Single Family,42.560556,-73.820179,Logan Brown,Summit Brokers,109
+HS0617,2025-07-26,210 Lake St,Madison,WI,19664,1,1.9,2821,0.15,1924,406276,Single Family,43.102533,-89.405396,Morgan Patel,Prime Realty,8
+HS0607,2022-10-01,2794 Hill Rd,Burlington,VT,18237,3,2.2,3545,2.91,1903,584728,Single Family,44.535582,-73.239865,Casey Nguyen,Urban Homes,28
+HS0181,2025-05-10,3038 Hill St,Springfield,IL,37152,3,1.2,3949,0.51,1930,421354,Single Family,39.758988,-89.651097,Riley Smith,Summit Brokers,85
+HS0302,2024-10-05,9740 Meadow Ln,Columbus,OH,35362,1,3.1,1980,0.22,1922,294760,Single Family,39.973887,-82.975415,Jamie Rivera,Lakeside Properties,11
+HS0760,2022-07-20,6475 Maple Ln,Portland,OR,20198,2,2.1,942,0.96,2020,130097,Mobile Home,45.512447,-122.701107,Alex Morgan,Urban Homes,118
+HS0713,2022-01-07,3891 Birch Terrace,Albany,NY,65846,5,3.1,3191,0.43,1914,501742,Single Family,42.652897,-73.713266,Morgan Patel,Hearthstone Realty,90
+HS0724,2025-07-17,5924 Birch Rd,Springfield,IL,33165,2,2.3,1066,0.3,1999,143003,Mobile Home,39.680833,-89.791716,Jamie Rivera,Lakeside Properties,168
+HS0686,2025-05-29,9481 Forest Rd,Portland,OR,22393,1,1.4,593,2.33,1938,94115,Condo,45.532145,-122.631192,Taylor Brooks,Prime Realty,84
+HS0980,2019-04-16,2760 Maple Way,Riverside,CA,36748,3,2.3,908,0.11,1903,141981,Condo,33.903128,-117.412768,Morgan Patel,Prime Realty,121
+HS0518,2022-03-11,1013 Park Rd,Seattle,WA,74840,4,4.0,3306,1.78,2025,751914,Single Family,47.537909,-122.339548,Morgan Patel,Prime Realty,8
+HS0985,2023-04-27,9556 Chestnut Blvd,Seattle,WA,52984,2,2.4,3351,0.36,1904,684056,Multi-Family,47.639681,-122.298849,Alex Morgan,Urban Homes,47
+HS0046,2020-04-14,7858 Cedar Ln,Madison,WI,70952,3,2.6,1291,1.94,1995,183730,Condo,43.179752,-89.498804,Taylor Brooks,Hearthstone Realty,28
+HS0910,2022-10-02,9336 Park St,Columbus,OH,52253,3,3.2,1181,4.23,1960,148275,Single Family,39.839434,-82.964592,Morgan Patel,Prime Realty,48
+HS0158,2024-04-12,3718 Birch Blvd,Portland,OR,72676,4,3.5,951,1.89,2016,191215,Condo,45.57097,-122.66512,Dana Kim,Urban Homes,196
+HS0852,2022-07-06,2726 Lake St,Springfield,IL,48125,2,2.5,1570,0.8,2003,157829,Condo,39.797698,-89.720447,Dana Kim,Summit Brokers,201
+HS0172,2020-02-08,4737 Park Way,Columbus,OH,79946,2,2.5,2758,1.41,1959,330437,Multi-Family,40.065619,-83.005779,Sam Carter,Hearthstone Realty,53
+HS0017,2025-01-23,2396 Sunset Blvd,Austin,TX,46509,1,1.8,2736,0.85,1983,510795,Single Family,30.220047,-97.672902,Alex Morgan,Prime Realty,193
+HS0512,2025-07-11,3381 View Ct,Columbus,OH,26090,2,3.0,2080,0.39,1991,222201,Single Family,39.978128,-83.045696,Logan Brown,Hearthstone Realty,194
+HS0049,2022-01-04,2606 Sunset Blvd,Austin,TX,78386,3,2.1,1847,2.4,2005,387984,Single Family,30.177816,-97.804129,Morgan Patel,Urban Homes,23
+HS0972,2022-06-17,8822 Ridge Ln,Columbus,OH,85292,0,2.4,2313,6.47,1926,257855,Townhouse,39.941227,-82.992341,Taylor Brooks,Prime Realty,7
+HS0941,2024-03-04,606 Willow Way,Riverside,CA,70187,2,2.1,2370,7.08,2024,417269,Townhouse,33.998553,-117.402919,Dana Kim,Prime Realty,206
+HS0516,2025-03-30,7151 Cedar Ct,Springfield,IL,68997,3,2.6,2336,0.4,1922,210855,Single Family,39.836894,-89.626342,Casey Nguyen,Urban Homes,126
+HS0953,2021-04-30,4454 Meadow Rd,Springfield,IL,21974,1,1.4,2087,2.16,1907,226885,Single Family,39.801622,-89.63783,Jordan Lee,Urban Homes,150
+HS0481,2020-05-17,8350 Sunset Rd,Albany,NY,17138,3,2.9,1135,0.17,2006,106560,Single Family,42.727982,-73.790808,Sam Carter,Summit Brokers,174
+HS0284,2023-06-28,2893 Hill Terrace,Madison,WI,67372,2,0.9,4180,0.21,1951,616175,Single Family,42.99404,-89.356448,Sam Carter,Hearthstone Realty,99
+HS0719,2021-02-18,8355 Maple Blvd,Seattle,WA,88532,4,4.0,491,0.23,1907,99026,Mobile Home,47.569537,-122.36559,Riley Smith,Lakeside Properties,176
+HS0878,2022-05-19,323 Oak St,Burlington,VT,79016,2,2.5,1545,1.04,1936,163425,Single Family,44.508877,-73.123774,Alex Morgan,Urban Homes,162
+HS0226,2024-10-13,5341 Chestnut Ave,Phoenix,AZ,84912,2,2.3,2816,2.09,2002,423542,Single Family,33.457451,-112.138842,Alex Morgan,Lakeside Properties,18
+HS0027,2023-07-23,753 Lake Ln,Columbus,OH,99399,3,2.9,1116,0.39,2011,119954,Condo,39.999699,-82.935381,Logan Brown,Urban Homes,61
+HS0955,2021-03-08,9756 Willow Way,Seattle,WA,49316,0,1.4,475,1.26,1956,109363,Condo,47.615205,-122.368666,Logan Brown,Summit Brokers,194
+HS0438,2024-02-11,357 Elm Way,Riverside,CA,96235,3,3.6,1738,2.26,1953,302214,Condo,33.97299,-117.492584,Logan Brown,Lakeside Properties,160
+HS0952,2021-09-30,8910 Pine St,Seattle,WA,68541,3,3.2,1214,1.14,1923,237761,Townhouse,47.59068,-122.40949,Jordan Lee,Lakeside Properties,46
+HS0365,2021-10-21,5510 Pine Blvd,Springfield,IL,17345,3,1.9,2381,0.76,1924,204430,Single Family,39.725843,-89.700705,Riley Smith,Prime Realty,32
+HS0230,2020-06-19,7611 Pine Ave,Columbus,OH,76247,2,1.9,1347,0.43,1955,134190,Condo,40.044695,-82.979066,Jordan Lee,Hearthstone Realty,67
+HS0038,2024-04-28,8802 Meadow Terrace,Austin,TX,68008,3,2.1,3747,1.97,1920,535832,Single Family,30.269479,-97.77568,Sam Carter,Hearthstone Realty,193
+HS0966,2023-01-19,9220 River Rd,Albany,NY,12864,2,2.9,1329,0.54,1940,199084,Condo,42.644502,-73.734279,Sam Carter,Urban Homes,48
+HS0375,2021-06-23,621 Highland Ct,Riverside,CA,96235,3,1.6,2785,2.52,1946,425924,Single Family,33.942554,-117.38236,Logan Brown,Prime Realty,4
+HS0470,2021-07-31,1260 Birch Way,Riverside,CA,87687,2,1.2,976,0.25,1941,128433,Condo,33.877333,-117.537808,Jamie Rivera,Hearthstone Realty,59
+HS0968,2022-09-01,8068 Oak St,Phoenix,AZ,77143,3,3.1,465,0.74,2011,62322,Mobile Home,33.445345,-112.11144,Dana Kim,Lakeside Properties,73
+HS0851,2023-03-15,1269 Sunset Rd,Phoenix,AZ,28753,2,2.3,1044,1.43,1952,138074,Single Family,33.413519,-112.121703,Sam Carter,Hearthstone Realty,160
+HS0705,2020-09-29,7158 Forest Ln,Riverside,CA,21107,4,2.3,2562,1.72,1900,304402,Multi-Family,34.020632,-117.459261,Casey Nguyen,Urban Homes,121
+HS0842,2024-12-21,8215 Maple Ct,Phoenix,AZ,60418,2,1.5,3323,5.39,1955,357319,Single Family,33.490515,-112.07284,Alex Morgan,Hearthstone Realty,9
+HS0195,2024-06-01,4940 Sunset Ave,Riverside,CA,25213,2,1.6,1626,0.82,1966,180412,Townhouse,33.922209,-117.361131,Morgan Patel,Lakeside Properties,25
+HS0855,2023-08-07,5485 Birch Terrace,Burlington,VT,40263,3,3.1,3311,0.56,2022,502210,Single Family,44.480198,-73.241458,Morgan Patel,Prime Realty,91
+HS0865,2019-01-28,3488 Meadow Blvd,Riverside,CA,13584,3,2.3,2953,1.72,1924,395191,Single Family,33.969861,-117.31529,Sam Carter,Prime Realty,95
+HS0504,2024-10-04,7060 Cedar Ave,Riverside,CA,12464,3,1.5,3508,2.88,2001,483409,Single Family,33.975365,-117.432858,Logan Brown,Prime Realty,121
+HS0970,2025-06-14,3227 Pine Ct,Portland,OR,46289,2,0.5,2846,0.86,1982,416808,Single Family,45.490159,-122.692912,Morgan Patel,Lakeside Properties,136
+HS0831,2021-12-04,1028 Meadow Ave,Phoenix,AZ,86385,3,2.3,2506,0.52,1953,434772,Single Family,33.439391,-112.005426,Jordan Lee,Hearthstone Realty,196
+HS0580,2020-03-07,5839 Spruce Rd,Burlington,VT,97414,3,1.8,3092,0.1,1931,487484,Single Family,44.374976,-73.204847,Morgan Patel,Summit Brokers,150
+HS0969,2024-10-04,5568 Pine Ave,Portland,OR,84095,4,3.7,1337,1.47,2002,181682,Single Family,45.554169,-122.641529,Jamie Rivera,Summit Brokers,120
+HS0163,2024-12-06,6284 Park Ave,Austin,TX,99486,2,1.9,698,5.93,1950,157183,Mobile Home,30.185552,-97.771738,Taylor Brooks,Urban Homes,1
+HS0909,2020-07-26,4330 Willow Way,Burlington,VT,44189,3,3.6,1718,0.11,1960,235534,Condo,44.469674,-73.329009,Sam Carter,Summit Brokers,83
+HS0153,2020-03-15,2980 Oak Ct,Phoenix,AZ,74930,2,1.6,1716,2.71,1972,174480,Single Family,33.439748,-112.108408,Morgan Patel,Hearthstone Realty,117
+HS0802,2024-10-22,9040 Chestnut Way,Columbus,OH,43231,1,1.3,2114,0.99,1942,293284,Single Family,39.96868,-82.993909,Logan Brown,Lakeside Properties,29
+HS0994,2025-07-27,6506 Highland Ln,Phoenix,AZ,42580,2,1.3,2429,0.49,1915,346176,Multi-Family,33.380712,-112.037276,Taylor Brooks,Urban Homes,114
+HS0756,2022-08-04,3583 Forest Ave,Austin,TX,46487,1,1.9,3050,0.87,1927,656433,Single Family,30.158289,-97.769573,Logan Brown,Prime Realty,154
+HS0112,2025-05-25,4768 Ridge Ln,Portland,OR,79993,2,0.8,1818,5.45,2021,388279,Single Family,45.477854,-122.655043,Sam Carter,Lakeside Properties,197
+HS0227,2022-05-29,4725 Spruce Terrace,Austin,TX,21322,5,3.4,3609,0.92,2000,782549,Single Family,30.268724,-97.817697,Logan Brown,Urban Homes,119
+HS0689,2024-10-28,1486 Cedar Rd,Springfield,IL,57652,2,1.5,3480,0.69,1905,275241,Single Family,39.831768,-89.636871,Casey Nguyen,Summit Brokers,114
+HS0104,2019-08-22,7345 Spruce Rd,Austin,TX,87518,5,5.0,990,1.06,1904,207896,Single Family,30.277104,-97.750318,Morgan Patel,Hearthstone Realty,20
+HS0422,2020-02-07,8292 Elm Ln,Austin,TX,54579,4,3.2,2691,0.12,1998,631738,Single Family,30.298475,-97.698838,Dana Kim,Urban Homes,53
+HS0420,2023-08-23,2819 Highland Ct,Seattle,WA,34560,1,1.7,665,2.98,1934,149994,Condo,47.618665,-122.279846,Jamie Rivera,Lakeside Properties,61
+HS0751,2021-11-22,2745 Pine Rd,Albany,NY,85564,2,1.2,987,1.35,1958,93543,Condo,42.634844,-73.735459,Sam Carter,Hearthstone Realty,196
+HS0587,2023-05-06,2275 Elm Way,Portland,OR,68973,2,1.4,615,0.45,1952,80677,Condo,45.516869,-122.74129,Jordan Lee,Lakeside Properties,87
+HS0781,2022-07-11,3047 Hill Ct,Riverside,CA,34368,2,2.2,2491,5.94,1918,311014,Single Family,33.917955,-117.370125,Jamie Rivera,Prime Realty,82
+HS0673,2020-10-18,8958 Birch Ln,Austin,TX,37740,3,2.6,839,1.11,1903,170881,Mobile Home,30.24738,-97.751548,Morgan Patel,Lakeside Properties,197
+HS0120,2024-03-18,9633 Hill Blvd,Riverside,CA,15811,3,2.5,2636,5.88,1999,369141,Single Family,33.988688,-117.424323,Sam Carter,Urban Homes,208
+HS0054,2024-12-27,4630 Highland Rd,Austin,TX,23176,3,3.1,1678,0.86,1990,245324,Single Family,30.287847,-97.771286,Taylor Brooks,Hearthstone Realty,12
+HS0152,2021-08-09,7922 Willow Rd,Austin,TX,52096,2,1.6,1924,6.06,1973,353925,Single Family,30.273605,-97.777153,Dana Kim,Prime Realty,45
+HS0404,2024-03-04,9237 Park St,Springfield,IL,34884,5,2.4,1608,1.86,1936,155959,Townhouse,39.750483,-89.659326,Taylor Brooks,Lakeside Properties,76
+HS0946,2022-03-27,7385 Hill Way,Albany,NY,43806,3,2.6,3747,0.66,1966,469965,Single Family,42.585349,-73.799252,Alex Morgan,Urban Homes,95
+HS0208,2025-06-23,2178 Elm Ln,Albany,NY,29168,2,2.0,2276,0.14,1918,224020,Single Family,42.592115,-73.726204,Casey Nguyen,Lakeside Properties,97
+HS0659,2023-04-26,6392 Forest Rd,Columbus,OH,94023,3,1.8,544,0.72,1915,77082,Mobile Home,40.086777,-83.000828,Logan Brown,Urban Homes,50
+HS0844,2023-04-11,4809 Meadow Way,Phoenix,AZ,65552,2,1.6,3052,1.18,2022,522565,Single Family,33.453543,-112.066533,Sam Carter,Urban Homes,34
+HS0763,2022-12-13,365 Spruce Rd,Columbus,OH,75809,1,1.8,1561,0.45,1945,214047,Single Family,39.969775,-82.979253,Dana Kim,Lakeside Properties,134
+HS0009,2020-04-14,9871 Pine Ct,Phoenix,AZ,60019,1,1.8,2544,2.43,1901,404770,Multi-Family,33.438042,-112.105174,Dana Kim,Hearthstone Realty,197
+HS0808,2021-03-16,2356 Lake Rd,Albany,NY,75797,0,1.5,3184,2.65,1993,301909,Single Family,42.614294,-73.812603,Riley Smith,Summit Brokers,21
+HS0037,2020-05-12,2517 Maple Ave,Burlington,VT,65724,2,0.9,738,1.43,2017,76092,Condo,44.431244,-73.228841,Sam Carter,Urban Homes,206
+HS0453,2024-07-07,4643 Oak Ct,Riverside,CA,60933,3,3.0,2434,0.33,1908,436144,Single Family,33.9213,-117.404511,Jordan Lee,Summit Brokers,101
+HS0652,2021-04-23,748 River Ct,Columbus,OH,94940,2,1.7,2158,1.43,1931,271178,Single Family,39.940369,-83.001956,Dana Kim,Prime Realty,171
+HS0254,2025-01-02,1504 Lake Ct,Riverside,CA,87296,4,2.9,913,24.36,1953,143904,Townhouse,33.931982,-117.338778,Sam Carter,Summit Brokers,61
+HS0304,2021-01-23,933 View Rd,Portland,OR,74297,5,4.2,3522,0.95,1928,563276,Single Family,45.459813,-122.707688,Dana Kim,Prime Realty,202
+HS0747,2023-04-15,2222 Cedar Terrace,Columbus,OH,63383,3,1.6,3458,1.52,1975,407781,Single Family,39.924537,-83.014275,Sam Carter,Summit Brokers,10
+HS0572,2021-12-25,2114 Willow Way,Madison,WI,64493,2,2.0,806,1.08,1910,119011,Single Family,43.132685,-89.405386,Morgan Patel,Lakeside Properties,93
+HS0624,2019-12-11,5113 Sunset Ct,Burlington,VT,84890,2,3.0,1610,1.43,1996,172682,Single Family,44.476801,-73.188468,Casey Nguyen,Lakeside Properties,133
+HS0733,2022-03-21,7122 River Terrace,Madison,WI,88592,2,2.3,1310,0.6,1979,129991,Condo,42.998299,-89.353228,Morgan Patel,Prime Realty,70
+HS0892,2019-11-14,9675 Spruce Terrace,Phoenix,AZ,91854,3,3.5,1783,1.69,1925,302693,Condo,33.428405,-112.111258,Logan Brown,Urban Homes,27
+HS0263,2019-05-06,928 Lake Ln,Austin,TX,45910,3,2.2,1328,0.66,1915,238768,Condo,30.30538,-97.680247,Jordan Lee,Hearthstone Realty,126
+HS0611,2019-10-04,1759 Hill St,Phoenix,AZ,69516,5,3.0,3649,0.08,1976,512661,Single Family,33.39771,-112.031603,Logan Brown,Urban Homes,147
+HS0298,2022-03-17,5871 Meadow Way,Riverside,CA,86389,2,1.3,4244,1.15,1968,630246,Multi-Family,33.985203,-117.371158,Riley Smith,Prime Realty,134
+HS0415,2020-04-28,8614 Forest Way,Austin,TX,33580,2,1.7,3239,0.94,1959,446316,Single Family,30.250568,-97.718523,Jordan Lee,Summit Brokers,107
+HS0151,2025-03-04,3797 Birch St,Seattle,WA,23133,3,2.8,2054,1.84,1900,346549,Townhouse,47.66866,-122.30753,Taylor Brooks,Lakeside Properties,168
+HS0789,2020-05-16,7648 Cedar Blvd,Portland,OR,51855,3,2.5,1247,0.17,1985,207052,Condo,45.526559,-122.633418,Dana Kim,Summit Brokers,62
+HS0641,2020-07-13,7667 Park Terrace,Riverside,CA,62342,5,4.2,1736,0.61,2017,302874,Single Family,33.919488,-117.450918,Morgan Patel,Lakeside Properties,125
+HS0890,2020-01-20,260 Hill Ct,Austin,TX,33491,1,0.9,1200,1.05,1925,183485,Condo,30.23899,-97.817802,Dana Kim,Lakeside Properties,85
+HS0551,2022-01-08,6558 Lake Ave,Riverside,CA,52406,3,1.7,606,1.4,1958,65203,Condo,34.013534,-117.427405,Logan Brown,Prime Realty,85
+HS0887,2023-09-09,1962 Oak Ct,Austin,TX,74904,2,2.8,2286,0.64,1970,359799,Townhouse,30.275372,-97.705828,Riley Smith,Prime Realty,76
+HS0489,2023-12-16,8413 Hill Rd,Seattle,WA,72116,2,1.6,2116,1.07,1993,527917,Townhouse,47.576659,-122.299348,Morgan Patel,Prime Realty,188
+HS0148,2022-07-22,4671 Meadow Rd,Burlington,VT,39473,2,2.4,1312,0.91,1962,195583,Condo,44.399624,-73.246695,Sam Carter,Hearthstone Realty,144
+HS0147,2021-12-18,9289 Hill Way,Burlington,VT,78875,2,2.4,2292,2.68,1945,245308,Single Family,44.531993,-73.146573,Logan Brown,Lakeside Properties,50
+HS0721,2022-01-04,3668 Highland St,Portland,OR,77213,2,1.3,2389,9.72,1937,299816,Multi-Family,45.587838,-122.704334,Dana Kim,Prime Realty,44
+HS0932,2021-05-12,305 Hill Terrace,Seattle,WA,51896,3,2.4,2030,1.83,1963,420517,Multi-Family,47.565573,-122.226835,Dana Kim,Urban Homes,173
+HS0740,2024-04-09,1362 Maple Ct,Burlington,VT,29623,4,3.0,1012,1.51,1938,159655,Condo,44.482832,-73.266406,Riley Smith,Hearthstone Realty,114
+HS0660,2021-10-07,4282 Lake Way,Phoenix,AZ,93228,2,3.1,4082,1.52,1994,717066,Multi-Family,33.369856,-112.006221,Jordan Lee,Lakeside Properties,9
+HS0349,2025-06-16,8271 Sunset Ln,Madison,WI,64931,5,2.6,2622,7.27,1916,349256,Single Family,43.032845,-89.353306,Jordan Lee,Prime Realty,185
+HS0464,2023-03-21,2414 Sunset Blvd,Albany,NY,58487,4,3.8,3525,0.43,1912,546087,Single Family,42.665801,-73.692582,Taylor Brooks,Prime Realty,125
+HS0326,2020-10-21,7989 Forest Way,Riverside,CA,37617,4,3.4,3628,0.34,1973,467968,Single Family,33.97212,-117.441303,Taylor Brooks,Summit Brokers,11
+HS0187,2023-09-21,6337 Walnut Blvd,Madison,WI,45247,5,4.3,2282,0.93,1935,226204,Single Family,43.096698,-89.394239,Casey Nguyen,Lakeside Properties,201
+HS0124,2019-06-23,1411 Hill Rd,Riverside,CA,50173,1,0.9,3325,2.87,1957,606838,Single Family,33.951322,-117.362125,Morgan Patel,Summit Brokers,112
+HS0854,2022-01-07,9082 Sunset Ave,Portland,OR,79174,1,0.9,1364,0.82,1940,230892,Single Family,45.559609,-122.712405,Jordan Lee,Summit Brokers,76
+HS0609,2023-11-04,1094 Oak Ct,Riverside,CA,51062,2,1.7,1340,6.96,1978,179389,Single Family,33.896527,-117.371805,Jamie Rivera,Prime Realty,174
+HS0144,2025-06-27,6924 Highland Rd,Riverside,CA,92478,4,2.7,1815,1.21,1999,293462,Townhouse,33.959948,-117.431206,Logan Brown,Urban Homes,185
+HS0959,2020-10-02,5343 River Way,Albany,NY,23489,2,2.6,1593,3.57,1941,176067,Condo,42.611435,-73.768846,Jordan Lee,Lakeside Properties,202
+HS0198,2019-09-14,3332 Ridge Ct,Portland,OR,60965,5,3.8,1245,0.4,2003,217817,Townhouse,45.499539,-122.720195,Logan Brown,Prime Realty,205
+HS0610,2019-02-13,9262 Oak Rd,Springfield,IL,59998,3,1.7,2460,1.24,1976,295002,Single Family,39.706749,-89.654692,Sam Carter,Lakeside Properties,119
+HS0280,2024-07-31,8624 Chestnut Blvd,Riverside,CA,64896,2,1.6,1204,0.96,1913,153538,Single Family,33.882984,-117.400355,Jordan Lee,Summit Brokers,52
+HS0294,2019-07-18,2118 Ridge Way,Portland,OR,96305,1,0.5,3713,0.45,1994,673912,Single Family,45.443383,-122.704623,Dana Kim,Lakeside Properties,150
+HS0401,2021-04-10,2353 Walnut Ln,Austin,TX,39658,2,1.9,624,4.18,1928,137642,Mobile Home,30.262694,-97.691931,Jordan Lee,Prime Realty,46
+HS0123,2021-01-09,8229 Forest Terrace,Madison,WI,78062,2,1.1,2480,0.94,1977,406651,Single Family,43.114024,-89.394508,Dana Kim,Hearthstone Realty,83
+HS0184,2020-03-12,1304 Pine Rd,Burlington,VT,30214,1,0.5,2367,0.91,1946,293581,Single Family,44.484895,-73.1425,Jamie Rivera,Prime Realty,79
+HS0203,2021-06-22,6390 Meadow Way,Burlington,VT,63626,4,3.2,3469,1.0,1903,404358,Single Family,44.453971,-73.153785,Casey Nguyen,Prime Realty,71
+HS0439,2025-06-25,7544 River Ct,Madison,WI,82358,4,2.3,2868,0.61,1900,428473,Single Family,42.906862,-89.474646,Sam Carter,Urban Homes,183
+HS0247,2022-12-09,120 Oak Ct,Riverside,CA,67438,4,2.9,2497,0.55,1948,408212,Single Family,33.89778,-117.367847,Dana Kim,Lakeside Properties,26
+HS0416,2022-06-14,845 Hill Terrace,Phoenix,AZ,83454,3,2.6,1732,0.77,1908,292158,Single Family,33.431928,-112.037406,Casey Nguyen,Summit Brokers,141
+HS0933,2019-12-07,4289 Park St,Phoenix,AZ,96599,2,3.9,1749,2.45,1944,273552,Condo,33.40992,-112.057698,Jordan Lee,Summit Brokers,95
+HS0766,2024-04-07,634 Spruce Ct,Portland,OR,37770,1,0.9,1830,0.99,2009,288456,Single Family,45.538646,-122.64481,Jamie Rivera,Hearthstone Realty,204
+HS0907,2020-11-29,4434 Pine Way,Austin,TX,56550,3,2.3,3395,0.18,2006,698112,Single Family,30.258616,-97.720938,Alex Morgan,Summit Brokers,99
+HS0836,2025-01-05,4002 Birch Ave,Springfield,IL,87151,2,1.8,4479,0.11,2001,425495,Multi-Family,39.812389,-89.631327,Logan Brown,Prime Realty,206
+HS0888,2024-11-13,7234 Spruce Rd,Riverside,CA,78482,2,3.5,2384,1.05,1937,343589,Single Family,33.887352,-117.395195,Jordan Lee,Summit Brokers,183
+HS0130,2024-05-14,530 Lake Terrace,Austin,TX,71263,3,2.2,3133,0.75,1950,511787,Single Family,30.216993,-97.78149,Dana Kim,Lakeside Properties,197
+HS0638,2023-11-05,4817 Ridge Terrace,Riverside,CA,48987,4,3.7,2259,0.68,1979,405904,Single Family,33.898369,-117.325175,Sam Carter,Lakeside Properties,169
+HS0403,2024-10-25,9828 Meadow St,Portland,OR,78242,5,3.6,4034,0.57,1931,645213,Multi-Family,45.490361,-122.607691,Dana Kim,Lakeside Properties,189
+HS0785,2023-08-28,2247 Park St,Albany,NY,79922,2,0.5,3313,0.19,1912,382993,Single Family,42.653299,-73.819302,Casey Nguyen,Hearthstone Realty,82
+HS0771,2021-06-27,9007 Pine Ct,Portland,OR,13314,3,2.5,1318,0.42,1930,206119,Single Family,45.502547,-122.687344,Casey Nguyen,Urban Homes,138
+HS0736,2023-09-24,6378 Sunset Way,Burlington,VT,80614,5,4.9,3419,3.27,1974,349021,Single Family,44.512041,-73.20651,Dana Kim,Summit Brokers,199
+HS0914,2024-03-01,2228 Hill St,Madison,WI,21848,2,1.3,2421,0.55,1921,401615,Single Family,43.091017,-89.461028,Alex Morgan,Urban Homes,52
+HS0220,2024-09-25,6906 Sunset Ct,Seattle,WA,20803,1,0.7,3065,0.38,1910,744304,Single Family,47.553854,-122.305267,Jordan Lee,Urban Homes,138
+HS0642,2020-02-16,1217 Pine Ln,Austin,TX,67373,3,3.4,1515,0.22,1902,316984,Single Family,30.255065,-97.837601,Taylor Brooks,Hearthstone Realty,32
+HS0916,2024-03-13,5747 Cedar Way,Madison,WI,82067,2,2.1,1128,0.62,2006,164333,Condo,43.00402,-89.491111,Jordan Lee,Prime Realty,100
+HS0753,2019-08-22,5238 Lake Ave,Portland,OR,99417,3,2.9,2768,0.82,2025,415332,Single Family,45.55543,-122.610893,Jordan Lee,Summit Brokers,3
+HS0807,2023-10-29,4928 Maple Way,Riverside,CA,15367,3,1.8,1838,1.01,1900,242728,Single Family,34.080859,-117.363689,Morgan Patel,Prime Realty,13
+HS0920,2020-02-20,7009 Walnut Blvd,Albany,NY,62194,3,1.5,3352,1.46,1993,332361,Single Family,42.532417,-73.686577,Riley Smith,Prime Realty,42
+HS0625,2023-02-14,3871 Highland St,Columbus,OH,70981,3,2.4,3062,0.2,1952,279417,Single Family,39.925447,-83.029295,Sam Carter,Hearthstone Realty,70
+HS0875,2020-03-27,5667 Oak Rd,Burlington,VT,68672,2,2.1,2322,1.65,1999,296677,Single Family,44.533917,-73.196111,Logan Brown,Summit Brokers,85
+HS0761,2020-05-29,8282 Hill Ave,Madison,WI,98335,1,1.5,427,3.52,2020,58257,Mobile Home,43.050445,-89.42587,Sam Carter,Summit Brokers,25
+HS0387,2021-03-14,1493 Park Ct,Albany,NY,27088,3,2.1,1327,0.61,1973,127420,Single Family,42.679735,-73.808143,Dana Kim,Summit Brokers,189
+HS0973,2021-05-05,9961 Oak Blvd,Seattle,WA,80788,1,2.8,3062,0.16,1984,507241,Multi-Family,47.581008,-122.304067,Jordan Lee,Hearthstone Realty,42
+HS0510,2021-01-04,7373 Birch Ct,Albany,NY,48088,1,0.5,5315,2.4,1947,626047,Multi-Family,42.636094,-73.766783,Alex Morgan,Lakeside Properties,173
+HS0268,2019-08-21,5609 Chestnut Terrace,Riverside,CA,46291,3,2.7,2201,0.79,1930,330121,Single Family,33.946668,-117.444926,Logan Brown,Lakeside Properties,170
+HS0820,2023-12-26,2068 Highland Ct,Austin,TX,11444,4,3.6,3677,0.99,1979,646373,Multi-Family,30.308169,-97.721906,Alex Morgan,Hearthstone Realty,36
+HS0442,2022-04-21,964 Hill St,Portland,OR,71455,3,3.4,2501,0.31,1945,445763,Single Family,45.475657,-122.716863,Casey Nguyen,Urban Homes,10
+HS0497,2025-05-05,4109 Maple Ave,Austin,TX,46335,2,0.9,3139,0.46,1961,691012,Single Family,30.313602,-97.715959,Riley Smith,Hearthstone Realty,161
+HS0113,2023-03-01,6356 River Ct,Albany,NY,31241,4,3.6,2008,0.97,1961,241531,Single Family,42.760362,-73.722587,Dana Kim,Prime Realty,183
+HS0692,2025-01-04,6355 Walnut Ct,Albany,NY,69777,2,1.5,4577,1.11,1918,599763,Multi-Family,42.627852,-73.781079,Jordan Lee,Prime Realty,162
+HS0233,2022-05-09,9984 Oak Ln,Albany,NY,52964,4,2.0,1529,4.29,1986,212195,Single Family,42.710927,-73.78485,Casey Nguyen,Urban Homes,8
+HS0870,2023-09-09,8559 Willow St,Riverside,CA,66927,3,2.5,1048,2.17,1904,120607,Condo,33.922074,-117.358851,Casey Nguyen,Summit Brokers,98
+HS0608,2020-01-27,4005 Hill St,Austin,TX,53724,5,4.3,1538,2.04,1956,337714,Condo,30.239394,-97.749603,Sam Carter,Summit Brokers,32
+HS0672,2024-03-27,8620 Highland St,Madison,WI,26759,5,3.1,955,2.08,2011,113470,Mobile Home,43.075318,-89.488485,Taylor Brooks,Lakeside Properties,30
+HS0374,2021-04-07,5385 Sunset Terrace,Albany,NY,24478,1,2.5,1435,3.82,1904,157118,Single Family,42.69317,-73.813613,Jamie Rivera,Lakeside Properties,50
+HS0982,2019-01-03,1186 Cedar Way,Phoenix,AZ,70874,1,1.5,3356,2.63,2003,549266,Multi-Family,33.430283,-112.036909,Casey Nguyen,Lakeside Properties,121
+HS0843,2023-10-18,5798 Maple Terrace,Seattle,WA,44410,4,2.8,1049,0.36,1955,180388,Townhouse,47.588444,-122.397082,Alex Morgan,Prime Realty,142
+HS0234,2021-06-29,7508 Meadow Ln,Phoenix,AZ,22415,1,1.2,3090,12.91,1999,326622,Single Family,33.525505,-111.973695,Taylor Brooks,Urban Homes,103
+HS0786,2020-05-12,6659 Pine Terrace,Columbus,OH,74725,4,2.3,1362,3.51,1963,198186,Mobile Home,39.99775,-82.971878,Morgan Patel,Summit Brokers,27
+HS0677,2025-01-13,7041 Hill Terrace,Phoenix,AZ,99037,3,2.6,1562,2.6,1901,218707,Single Family,33.350104,-112.078143,Sam Carter,Hearthstone Realty,38
+HS0318,2021-12-14,8078 Meadow Ave,Albany,NY,33038,3,2.1,5197,0.66,1925,493280,Multi-Family,42.611479,-73.700148,Jamie Rivera,Prime Realty,5
+HS0649,2019-03-14,5414 Park Blvd,Portland,OR,53522,4,2.4,1458,0.55,1942,222606,Single Family,45.497459,-122.599588,Logan Brown,Summit Brokers,115
+HS0411,2020-03-22,701 Elm St,Columbus,OH,97424,4,2.2,2133,1.03,1906,280512,Multi-Family,40.018994,-83.019847,Riley Smith,Urban Homes,42
+HS0899,2021-11-02,6143 Chestnut St,Riverside,CA,89531,2,2.1,2204,0.72,1989,332294,Single Family,33.891013,-117.370074,Casey Nguyen,Prime Realty,147
+HS0710,2021-02-04,7216 Forest Rd,Springfield,IL,46991,3,2.4,2766,0.94,1965,357763,Single Family,39.851359,-89.608133,Jordan Lee,Hearthstone Realty,197
+HS0359,2020-09-29,5173 Lake Way,Seattle,WA,80735,3,1.1,2238,1.17,1933,557102,Single Family,47.660297,-122.282323,Casey Nguyen,Prime Realty,1
+HS0259,2023-07-04,9472 View Way,Austin,TX,14910,5,3.7,873,0.96,1988,173181,Condo,30.207749,-97.755863,Alex Morgan,Lakeside Properties,85
+HS0745,2025-05-24,1170 Willow St,Riverside,CA,50516,4,3.0,2051,2.09,1910,303602,Single Family,34.007227,-117.412587,Logan Brown,Prime Realty,145
+HS0628,2025-07-03,2358 Meadow Rd,Portland,OR,11118,2,1.6,4392,0.73,2005,589022,Multi-Family,45.585027,-122.634894,Alex Morgan,Lakeside Properties,168
+HS0633,2025-03-14,6431 Willow Way,Seattle,WA,24239,2,2.2,2716,2.32,1913,612261,Single Family,47.586393,-122.370476,Taylor Brooks,Prime Realty,177
+HS0283,2020-04-19,7706 Oak Ave,Albany,NY,32898,1,1.6,1272,0.12,1994,158947,Single Family,42.632644,-73.788845,Jamie Rivera,Prime Realty,3
+HS0377,2021-03-02,1253 Spruce Ave,Springfield,IL,38298,2,1.9,3589,1.64,1924,314611,Single Family,39.73848,-89.657146,Dana Kim,Urban Homes,146
+HS0385,2019-07-26,986 Spruce St,Phoenix,AZ,51853,3,1.5,1196,0.13,1919,205213,Condo,33.424447,-112.162675,Riley Smith,Lakeside Properties,193
+HS0225,2023-09-14,4106 Oak Way,Springfield,IL,57707,4,2.2,1696,2.49,2016,214399,Condo,39.823578,-89.690782,Jordan Lee,Hearthstone Realty,64
+HS0954,2019-12-08,7919 Ridge Ave,Portland,OR,80376,1,1.4,1356,0.42,1956,238069,Single Family,45.447933,-122.670626,Sam Carter,Urban Homes,26
+HS0815,2022-05-17,968 Willow Blvd,Seattle,WA,83668,1,1.9,621,1.06,1919,157591,Condo,47.567485,-122.291557,Casey Nguyen,Prime Realty,207
+HS0473,2020-11-27,7727 Ridge Ct,Riverside,CA,32439,2,2.1,1616,1.05,1981,262128,Townhouse,33.94656,-117.431528,Logan Brown,Summit Brokers,59
+HS0348,2024-04-14,6316 Highland Ave,Burlington,VT,52655,4,3.0,2234,0.39,1934,231762,Single Family,44.455548,-73.177784,Logan Brown,Hearthstone Realty,94
+HS0506,2021-09-17,579 Pine Blvd,Columbus,OH,46356,5,3.0,1806,0.49,1978,230200,Townhouse,39.949294,-82.9965,Dana Kim,Summit Brokers,18
+HS0640,2024-09-03,2086 Lake Ave,Seattle,WA,23791,1,0.6,2882,0.46,1926,769019,Single Family,47.673754,-122.28779,Alex Morgan,Lakeside Properties,7
+HS0988,2019-04-15,9093 Ridge Ave,Austin,TX,97557,3,1.3,2262,2.66,1954,362694,Townhouse,30.263778,-97.741661,Dana Kim,Urban Homes,25
+HS0929,2023-06-21,6231 Highland Way,Springfield,IL,38207,3,2.0,855,3.75,1977,94492,Condo,39.8861,-89.614714,Taylor Brooks,Hearthstone Realty,70
+HS0906,2020-12-26,4803 Walnut Rd,Phoenix,AZ,28405,2,2.3,3945,8.15,1925,515842,Single Family,33.443051,-111.976888,Casey Nguyen,Hearthstone Realty,179
+HS0620,2021-09-28,2041 Elm Blvd,Riverside,CA,34856,5,3.7,1945,1.21,1954,296542,Single Family,33.981705,-117.448683,Alex Morgan,Summit Brokers,151
+HS0856,2020-05-28,8384 Pine Terrace,Seattle,WA,95633,3,2.3,3468,0.61,2005,540723,Single Family,47.597707,-122.250263,Dana Kim,Urban Homes,199
+HS0804,2024-11-28,3275 Park Ave,Riverside,CA,45903,2,2.3,1068,2.07,2012,125950,Mobile Home,33.918682,-117.429152,Taylor Brooks,Hearthstone Realty,174
+HS0646,2023-10-19,8496 Cedar Terrace,Phoenix,AZ,52294,3,2.7,3881,1.37,1950,530603,Multi-Family,33.467819,-112.078741,Jamie Rivera,Urban Homes,55
+HS0847,2019-09-20,7967 Meadow Ln,Columbus,OH,63557,3,2.6,1077,0.49,2022,152787,Condo,39.894492,-83.012986,Sam Carter,Urban Homes,67
+HS0557,2020-01-23,4941 Highland St,Phoenix,AZ,82219,3,2.6,1118,2.29,1952,135413,Single Family,33.416932,-112.111461,Sam Carter,Summit Brokers,209
+HS0958,2021-08-07,1174 Sunset Rd,Madison,WI,22395,3,2.8,3276,0.71,1913,360831,Single Family,43.035009,-89.390682,Jordan Lee,Hearthstone Realty,129
+HS0578,2023-03-08,8946 Highland Rd,Springfield,IL,41632,3,3.1,1857,0.85,2007,196929,Townhouse,39.772628,-89.655417,Casey Nguyen,Summit Brokers,91
+HS0796,2021-10-16,6697 Walnut Rd,Burlington,VT,79410,2,1.2,870,5.5,1982,110537,Condo,44.520358,-73.268188,Jamie Rivera,Urban Homes,30
+HS0086,2020-12-14,4206 Walnut Ave,Seattle,WA,96646,2,1.6,624,1.05,1902,105508,Condo,47.656515,-122.360945,Casey Nguyen,Prime Realty,33
+HS0243,2020-07-12,2420 Cedar Terrace,Portland,OR,19506,3,2.7,2704,0.56,1941,579573,Single Family,45.456281,-122.719623,Taylor Brooks,Lakeside Properties,203
+HS0699,2025-06-14,5107 Sunset Terrace,Riverside,CA,21814,3,2.2,4389,0.52,1921,781483,Multi-Family,33.930258,-117.414871,Alex Morgan,Prime Realty,191
+HS0160,2019-08-16,2795 Hill Way,Madison,WI,25235,3,2.5,3433,8.52,1957,507337,Multi-Family,43.075,-89.395198,Sam Carter,Urban Homes,132
+HS0525,2025-06-20,6691 Chestnut Way,Phoenix,AZ,98022,2,1.5,3163,0.7,1923,357726,Single Family,33.40638,-112.040178,Sam Carter,Urban Homes,170
+HS0036,2021-03-07,2514 Maple St,Burlington,VT,42092,4,2.8,3065,2.14,1973,330728,Multi-Family,44.451632,-73.208006,Riley Smith,Lakeside Properties,103
+HS0541,2023-11-02,8196 Cedar Ln,Austin,TX,36626,2,2.2,1523,1.14,1916,263356,Single Family,30.227733,-97.737996,Jordan Lee,Summit Brokers,56
+HS0171,2021-04-17,5555 Spruce St,Burlington,VT,37762,1,1.4,2053,0.36,1931,256011,Single Family,44.446462,-73.211635,Riley Smith,Urban Homes,142
+HS0655,2022-01-18,4112 Sunset Blvd,Burlington,VT,89410,2,1.0,826,1.83,1925,108549,Mobile Home,44.436211,-73.204632,Sam Carter,Prime Realty,93
+HS0891,2019-02-27,1101 View Way,Riverside,CA,87916,2,1.9,3495,4.15,1944,443036,Multi-Family,33.894236,-117.394673,Jordan Lee,Hearthstone Realty,73
+HS0858,2020-02-18,3047 Ridge St,Burlington,VT,31859,2,2.1,899,1.53,1960,99214,Condo,44.455349,-73.161019,Taylor Brooks,Prime Realty,111
+HS0848,2020-04-13,4352 Forest Blvd,Albany,NY,39808,2,1.5,784,2.4,1929,82541,Condo,42.633477,-73.854998,Alex Morgan,Urban Homes,176
+HS0945,2024-07-06,2425 Birch Way,Columbus,OH,37536,1,1.9,2283,2.07,2015,303223,Single Family,39.947256,-82.896143,Jordan Lee,Hearthstone Realty,88
+HS0734,2024-05-13,6147 Chestnut Ave,Austin,TX,10285,2,2.4,1523,1.78,1992,350096,Single Family,30.337547,-97.767306,Jamie Rivera,Prime Realty,148
+HS0096,2023-10-03,5205 Hill Ave,Columbus,OH,16895,3,2.7,1461,6.53,1956,158958,Single Family,39.872264,-82.923998,Sam Carter,Summit Brokers,114
+HS0564,2024-06-21,9862 Meadow Rd,Portland,OR,14851,5,2.9,1016,0.75,2019,196152,Condo,45.436457,-122.657426,Jordan Lee,Prime Realty,136
+HS0241,2020-01-05,9400 Highland Blvd,Columbus,OH,83807,4,2.8,1956,1.49,1904,227073,Single Family,39.905629,-83.001382,Alex Morgan,Urban Homes,155
+HS0743,2023-07-18,3686 Park Blvd,Springfield,IL,83307,3,3.0,4051,0.38,1940,340704,Single Family,39.794759,-89.59894,Riley Smith,Urban Homes,14
+HS0575,2019-02-02,4945 Sunset Ct,Seattle,WA,99243,2,2.2,2834,1.84,1944,568432,Single Family,47.609836,-122.322735,Casey Nguyen,Summit Brokers,157
+HS0691,2023-09-25,5010 Willow Blvd,Madison,WI,88924,2,2.2,2930,0.21,1979,302772,Single Family,43.062475,-89.342253,Jamie Rivera,Summit Brokers,66
+HS0461,2020-06-18,3917 Pine St,Portland,OR,28558,2,1.8,3268,1.81,1989,490934,Single Family,45.479986,-122.699638,Alex Morgan,Urban Homes,162
+HS0554,2023-05-09,5180 View Blvd,Phoenix,AZ,57060,0,0.5,1478,0.97,2013,151658,Single Family,33.480427,-112.067846,Sam Carter,Hearthstone Realty,145
+HS0889,2020-07-08,8609 View Rd,Columbus,OH,71880,4,2.3,826,1.13,2009,121275,Condo,39.953753,-82.973367,Taylor Brooks,Summit Brokers,184
+HS0207,2020-01-26,4705 View Blvd,Seattle,WA,52421,2,1.8,812,0.37,1986,127137,Mobile Home,47.631588,-122.329401,Taylor Brooks,Lakeside Properties,16
+HS0393,2024-06-08,6001 Cedar St,Albany,NY,48337,2,2.1,2270,5.72,1940,219997,Single Family,42.638549,-73.734952,Logan Brown,Summit Brokers,23
+HS0795,2023-04-16,2567 Park Ct,Burlington,VT,76574,5,3.1,2426,0.97,1983,398802,Single Family,44.507248,-73.225953,Riley Smith,Urban Homes,76
+HS0398,2019-05-01,9354 Walnut Terrace,Madison,WI,18888,2,2.5,1064,0.79,1918,141045,Townhouse,43.058116,-89.40371,Morgan Patel,Lakeside Properties,106
+HS0767,2023-08-26,6865 Park St,Austin,TX,59105,2,1.2,1654,0.23,2007,355418,Single Family,30.222125,-97.712931,Jordan Lee,Prime Realty,107
+HS0849,2021-11-20,7314 Highland Terrace,Seattle,WA,15499,5,2.9,1192,0.67,2024,246337,Mobile Home,47.597663,-122.452412,Alex Morgan,Hearthstone Realty,139
+HS0218,2022-07-20,1947 Birch Way,Phoenix,AZ,93634,3,2.9,455,1.35,2019,66982,Mobile Home,33.45,-112.111671,Taylor Brooks,Lakeside Properties,146
+HS0005,2019-10-20,6327 Chestnut Way,Riverside,CA,93320,1,1.1,592,2.58,1989,94596,Condo,33.902222,-117.404288,Logan Brown,Urban Homes,137
+HS0769,2021-08-04,6544 Oak Ct,Burlington,VT,26891,3,2.6,2298,2.36,1955,297430,Single Family,44.496948,-73.162017,Jamie Rivera,Urban Homes,130
+HS0643,2019-05-22,6503 Walnut Ave,Seattle,WA,98000,2,1.3,824,0.19,1927,181936,Single Family,47.690417,-122.282099,Dana Kim,Urban Homes,114
+HS0930,2022-07-27,6771 Willow St,Springfield,IL,64306,2,2.0,1715,0.21,1981,200988,Townhouse,39.751644,-89.591804,Jamie Rivera,Urban Homes,58
+HS0613,2022-11-05,7240 River Terrace,Portland,OR,50788,3,2.8,3586,0.49,1939,692976,Single Family,45.412078,-122.631788,Casey Nguyen,Hearthstone Realty,3
+HS0739,2020-08-24,7058 Lake St,Springfield,IL,23894,2,2.0,4070,1.74,1903,459525,Multi-Family,39.820117,-89.68132,Morgan Patel,Urban Homes,21
+HS0547,2023-12-08,4421 River Terrace,Albany,NY,67117,2,1.7,889,4.95,2018,131705,Condo,42.669586,-73.7421,Alex Morgan,Urban Homes,39
+HS0726,2021-01-08,6139 Elm Way,Phoenix,AZ,22280,2,1.9,3607,1.87,1962,508944,Single Family,33.483572,-111.966254,Casey Nguyen,Prime Realty,80
+HS0684,2023-03-18,4114 Oak Ave,Phoenix,AZ,41569,3,2.7,969,0.59,1983,144493,Mobile Home,33.403366,-112.12221,Jamie Rivera,Lakeside Properties,210
+HS0099,2023-11-22,6329 Meadow Ln,Madison,WI,75570,4,2.9,1338,2.18,1905,223323,Multi-Family,43.200035,-89.375002,Alex Morgan,Lakeside Properties,20
+HS0805,2020-05-18,5526 Park Ct,Columbus,OH,46208,4,2.7,824,2.88,2006,100807,Condo,40.001103,-83.057634,Riley Smith,Lakeside Properties,146
+HS0728,2021-10-14,9984 Cedar Ct,Springfield,IL,60330,2,2.4,4907,0.85,1916,495263,Multi-Family,39.738892,-89.648322,Jamie Rivera,Hearthstone Realty,37
+HS0574,2019-06-01,262 River Ave,Madison,WI,21112,3,3.3,2700,0.86,1950,397105,Single Family,43.13401,-89.348332,Taylor Brooks,Summit Brokers,15
+HS0407,2020-11-30,6046 Pine Ct,Austin,TX,77065,3,3.0,3601,1.87,1998,534909,Single Family,30.320912,-97.666791,Morgan Patel,Summit Brokers,169
+HS0503,2022-06-13,5704 Walnut Rd,Seattle,WA,13769,3,2.2,1545,0.42,1929,409120,Single Family,47.68731,-122.234543,Taylor Brooks,Urban Homes,34
+HS0048,2024-06-30,772 Lake Ct,Portland,OR,96706,2,1.6,2168,2.34,1953,411951,Single Family,45.55008,-122.659635,Jamie Rivera,Lakeside Properties,93
+HS0033,2020-06-05,5243 Cedar Rd,Columbus,OH,76469,3,2.6,1472,0.45,1970,140542,Condo,40.014071,-82.996232,Jordan Lee,Lakeside Properties,171
+HS0780,2024-12-12,7463 Walnut St,Riverside,CA,77024,1,1.6,1857,10.94,1982,248961,Townhouse,33.94756,-117.367861,Morgan Patel,Lakeside Properties,8
+HS0840,2020-05-17,8066 Chestnut Ave,Portland,OR,36680,2,1.3,2279,0.32,1926,295526,Townhouse,45.450289,-122.678394,Morgan Patel,Urban Homes,10
+HS0201,2023-09-29,5103 Cedar Blvd,Burlington,VT,58929,1,1.8,1676,1.79,1949,173522,Single Family,44.42237,-73.256587,Taylor Brooks,Lakeside Properties,163
+HS0135,2023-08-30,4845 Spruce Way,Seattle,WA,42096,2,3.4,2773,2.55,1956,455158,Single Family,47.588073,-122.30291,Sam Carter,Lakeside Properties,53
+HS0028,2021-10-13,3000 Sunset St,Madison,WI,33509,4,3.5,3980,6.66,2003,487452,Multi-Family,43.028624,-89.441991,Casey Nguyen,Urban Homes,202
+HS0881,2022-03-10,1733 Chestnut Way,Burlington,VT,59359,2,2.4,1033,1.49,1961,156376,Condo,44.49347,-73.235604,Dana Kim,Summit Brokers,63
+HS0231,2020-03-22,6538 Hill Terrace,Columbus,OH,69343,3,2.2,1224,0.33,1974,149712,Townhouse,39.888707,-83.054115,Taylor Brooks,Prime Realty,43
+HS0490,2022-08-29,756 Elm Ave,Austin,TX,50380,2,1.9,985,0.41,1911,218832,Single Family,30.121851,-97.761841,Alex Morgan,Summit Brokers,165
+HS0773,2023-05-20,1854 Elm Rd,Riverside,CA,44340,5,3.3,3563,0.55,1926,475021,Multi-Family,34.063576,-117.336233,Jamie Rivera,Lakeside Properties,204
+HS0379,2023-10-30,5629 Walnut Way,Seattle,WA,56179,3,3.0,1941,0.38,1981,342695,Single Family,47.624159,-122.303703,Morgan Patel,Summit Brokers,62
+HS0289,2024-01-10,924 River Ln,Albany,NY,82154,0,0.5,2558,0.52,1973,334280,Single Family,42.55463,-73.719568,Jamie Rivera,Lakeside Properties,115
+HS0419,2022-02-22,5269 Meadow St,Portland,OR,37297,2,1.3,2794,2.0,1919,548583,Single Family,45.571845,-122.643513,Alex Morgan,Hearthstone Realty,97
+HS0675,2022-04-06,1159 Hill Ct,Portland,OR,60023,4,2.7,3651,0.17,1914,692438,Single Family,45.559296,-122.594795,Jamie Rivera,Prime Realty,23
+HS0392,2019-02-04,812 Chestnut Blvd,Seattle,WA,17878,3,3.7,1885,0.32,2020,435819,Single Family,47.633976,-122.378034,Jamie Rivera,Lakeside Properties,170
+HS0593,2024-08-28,6252 Cedar St,Albany,NY,36549,2,2.9,2155,1.02,1996,291689,Single Family,42.66077,-73.815981,Riley Smith,Prime Realty,69
+HS0499,2021-01-20,6017 Sunset Terrace,Albany,NY,16385,2,2.5,2277,5.41,1998,313964,Single Family,42.566578,-73.664816,Jamie Rivera,Summit Brokers,193
+HS0139,2023-11-01,5881 Oak St,Portland,OR,46877,3,1.5,3516,1.59,1913,701227,Single Family,45.55175,-122.653916,Taylor Brooks,Hearthstone Realty,187
+HS0063,2024-07-22,1594 Forest Terrace,Austin,TX,63523,4,3.0,2659,0.75,1988,621986,Single Family,30.281974,-97.797967,Casey Nguyen,Lakeside Properties,209
+HS0472,2025-05-18,6446 Lake Blvd,Madison,WI,69996,2,2.1,1801,1.57,1904,177130,Single Family,42.948684,-89.434112,Alex Morgan,Hearthstone Realty,35
+HS0648,2025-05-20,1203 Willow Ct,Springfield,IL,49522,4,2.6,1372,1.09,2018,145880,Townhouse,39.768268,-89.741918,Taylor Brooks,Hearthstone Realty,25
+HS0129,2021-04-03,1163 Meadow Rd,Columbus,OH,49315,2,2.6,1921,1.37,1915,261609,Single Family,39.877109,-83.08673,Taylor Brooks,Urban Homes,203
+HS0977,2022-05-16,6326 Sunset Ct,Springfield,IL,23115,2,2.6,2387,0.98,2008,257222,Single Family,39.821283,-89.706038,Jordan Lee,Prime Realty,167
+HS0521,2025-05-25,7021 Highland Ct,Austin,TX,44946,2,2.1,522,0.38,1948,90037,Mobile Home,30.258131,-97.767818,Riley Smith,Hearthstone Realty,147
+HS0839,2019-08-10,6111 Meadow Rd,Albany,NY,95674,1,1.4,1967,0.72,1913,237681,Single Family,42.684733,-73.715987,Morgan Patel,Lakeside Properties,181
+HS0963,2024-04-08,3622 View Way,Burlington,VT,45908,3,2.2,550,0.54,2020,57012,Condo,44.44003,-73.229329,Alex Morgan,Lakeside Properties,177
+HS0065,2020-06-20,3173 River Terrace,Springfield,IL,91609,3,2.3,2651,0.2,1970,349278,Single Family,39.71327,-89.623325,Casey Nguyen,Lakeside Properties,179
+HS0813,2024-10-22,2185 View Rd,Columbus,OH,17017,2,2.3,2404,1.86,1997,226009,Single Family,39.974395,-83.006577,Sam Carter,Prime Realty,22
+HS0015,2020-01-22,8053 Willow Blvd,Albany,NY,84847,4,3.8,1688,1.19,1924,190662,Townhouse,42.639768,-73.774591,Jamie Rivera,Lakeside Properties,91
+HS0157,2022-06-27,3971 Oak Ave,Columbus,OH,71000,2,2.2,4541,0.45,2013,401636,Multi-Family,40.051799,-82.980904,Jamie Rivera,Hearthstone Realty,95
+HS0041,2023-09-13,420 Highland Ct,Portland,OR,72518,2,1.8,877,0.73,2014,154534,Single Family,45.552369,-122.61168,Dana Kim,Summit Brokers,205
+HS0493,2023-10-03,7400 Meadow Ave,Albany,NY,38271,1,2.4,2521,0.42,2003,340533,Single Family,42.67877,-73.772479,Riley Smith,Urban Homes,151
+HS0380,2022-03-11,9039 Willow Ct,Portland,OR,82120,0,0.5,1859,0.5,1904,275079,Single Family,45.501741,-122.710788,Logan Brown,Prime Realty,133
+HS0188,2019-01-28,6016 Chestnut Ln,Riverside,CA,91924,3,2.5,2757,1.04,1938,337440,Single Family,33.88317,-117.308721,Riley Smith,Hearthstone Realty,159
+HS0764,2022-03-13,1957 Walnut Way,Columbus,OH,66149,2,2.4,2267,0.62,1948,206522,Single Family,39.922611,-82.918324,Riley Smith,Hearthstone Realty,180
+HS0217,2022-04-25,9946 View Rd,Seattle,WA,13515,4,3.7,2188,0.33,1950,400268,Single Family,47.601783,-122.286033,Alex Morgan,Urban Homes,127
+HS0792,2023-04-29,8520 Hill Rd,Seattle,WA,69509,4,3.0,1905,4.99,1946,394715,Single Family,47.547254,-122.343083,Sam Carter,Summit Brokers,132
+HS0053,2025-01-03,5519 Lake Way,Seattle,WA,45509,2,2.7,2480,0.3,1915,607078,Single Family,47.571243,-122.332541,Taylor Brooks,Urban Homes,56
+HS0879,2023-08-29,653 Chestnut Ave,Burlington,VT,59526,4,3.1,3053,0.35,1964,402378,Single Family,44.437073,-73.213728,Alex Morgan,Prime Realty,191
+HS0338,2020-10-06,8464 River Ln,Portland,OR,90634,1,1.0,1075,8.08,2024,230547,Condo,45.424717,-122.665763,Jamie Rivera,Hearthstone Realty,200
+HS0749,2023-05-07,8673 Hill Way,Portland,OR,27196,3,2.0,2828,0.13,1991,452818,Single Family,45.462076,-122.715549,Jordan Lee,Urban Homes,157
+HS0720,2021-04-27,8512 Pine Blvd,Seattle,WA,67376,3,2.5,2732,0.13,1934,721692,Single Family,47.678297,-122.357719,Taylor Brooks,Prime Realty,41
+HS0725,2023-06-08,9125 Willow Way,Albany,NY,38919,3,3.5,1428,0.68,1996,178325,Townhouse,42.644545,-73.824919,Taylor Brooks,Lakeside Properties,60
+HS0296,2025-02-21,5717 Spruce Way,Phoenix,AZ,27481,5,3.2,1263,0.9,2007,164356,Single Family,33.43546,-111.994068,Morgan Patel,Summit Brokers,162
+HS0702,2021-10-20,6113 Elm Terrace,Riverside,CA,16672,2,1.4,841,0.26,1943,105616,Mobile Home,33.942597,-117.37723,Dana Kim,Prime Realty,75
+HS0252,2020-01-09,2898 Spruce Ave,Burlington,VT,72071,2,1.6,2864,0.45,1933,360188,Multi-Family,44.482034,-73.130866,Dana Kim,Lakeside Properties,48
+HS0727,2023-07-07,3011 Park Ln,Madison,WI,19103,1,1.0,2422,0.78,2024,310439,Multi-Family,43.038531,-89.366822,Jamie Rivera,Summit Brokers,36
+HS0462,2021-06-22,5135 Cedar Way,Springfield,IL,90114,2,2.7,1435,0.77,1976,170954,Single Family,39.69067,-89.636597,Jamie Rivera,Urban Homes,110
+HS0456,2024-05-28,8139 Forest Ct,Seattle,WA,62941,4,2.5,763,2.6,2004,201873,Mobile Home,47.650002,-122.258466,Jamie Rivera,Summit Brokers,138
+HS0997,2023-01-25,7078 Highland Blvd,Austin,TX,73871,2,0.8,444,0.86,1977,69242,Mobile Home,30.282923,-97.77698,Jordan Lee,Lakeside Properties,180
+HS0816,2024-04-24,3388 Cedar Ave,Austin,TX,10004,1,1.7,1418,0.6,1913,243646,Single Family,30.356439,-97.742427,Alex Morgan,Summit Brokers,114
+HS0863,2020-02-12,5319 Walnut Blvd,Phoenix,AZ,15496,2,1.7,2162,1.12,1940,353794,Multi-Family,33.414137,-112.012803,Morgan Patel,Hearthstone Realty,43
+HS0270,2022-04-18,8859 Forest Terrace,Burlington,VT,76494,1,1.7,4466,1.21,1923,739974,Multi-Family,44.501555,-73.225077,Jamie Rivera,Lakeside Properties,33
+HS0202,2023-01-10,2938 Meadow Blvd,Seattle,WA,74178,2,0.9,648,1.66,2010,132916,Condo,47.625629,-122.20745,Alex Morgan,Lakeside Properties,35
+HS0162,2020-07-08,7041 Lake Ave,Springfield,IL,80931,3,2.2,1132,4.83,1923,111130,Single Family,39.792923,-89.597745,Riley Smith,Hearthstone Realty,98
+HS0556,2020-06-07,8215 River Ave,Madison,WI,48103,4,3.1,3398,2.93,2025,472254,Single Family,43.058226,-89.335601,Casey Nguyen,Urban Homes,134
+HS0730,2025-02-08,2631 Birch St,Austin,TX,81241,3,2.9,2205,3.02,1913,494715,Townhouse,30.255635,-97.771921,Casey Nguyen,Prime Realty,131
+HS0402,2022-07-05,8127 Hill Way,Austin,TX,42346,1,2.2,1192,0.63,1992,184652,Townhouse,30.309622,-97.855444,Riley Smith,Summit Brokers,191
+HS0703,2024-10-12,8015 Spruce Rd,Albany,NY,37926,4,3.2,1102,0.48,1939,113222,Single Family,42.65014,-73.731746,Alex Morgan,Lakeside Properties,159
+HS0477,2024-03-14,360 Forest Rd,Riverside,CA,31207,2,1.3,3342,0.75,1958,500356,Single Family,33.954012,-117.475018,Taylor Brooks,Lakeside Properties,48
+HS0822,2024-06-04,5864 Highland Terrace,Madison,WI,70225,2,1.8,1589,0.48,2007,203095,Single Family,43.135727,-89.440151,Riley Smith,Lakeside Properties,156
+HS0772,2020-02-28,6294 Chestnut St,Burlington,VT,46040,3,3.4,1725,3.07,1974,201978,Condo,44.476057,-73.1506,Jamie Rivera,Lakeside Properties,153
+HS0106,2024-11-11,1795 Hill Ave,Austin,TX,76132,2,2.7,773,0.13,1967,118066,Mobile Home,30.196824,-97.781991,Logan Brown,Urban Homes,94
+HS0566,2024-04-02,4818 Willow Way,Madison,WI,55068,2,2.4,2547,0.53,1943,312406,Multi-Family,43.094177,-89.387859,Taylor Brooks,Hearthstone Realty,186
+HS0390,2022-06-03,1941 Oak Ln,Riverside,CA,91396,4,2.9,1377,1.39,1914,200554,Condo,33.94181,-117.43877,Sam Carter,Lakeside Properties,6
+HS0002,2019-01-27,3911 River St,Burlington,VT,83563,3,2.2,1581,1.72,1935,181285,Single Family,44.487998,-73.307764,Taylor Brooks,Lakeside Properties,88
+HS0938,2021-02-12,5573 Ridge Blvd,Seattle,WA,99568,2,2.5,809,1.19,1952,186727,Mobile Home,47.629598,-122.390614,Alex Morgan,Summit Brokers,58
+HS0983,2024-10-09,2200 Hill Terrace,Albany,NY,90427,1,2.9,1115,0.46,1928,122653,Single Family,42.648711,-73.779005,Taylor Brooks,Urban Homes,58
+HS0562,2020-11-11,4061 Sunset Ln,Madison,WI,21284,3,3.0,2460,0.45,1914,291527,Single Family,43.005621,-89.421961,Taylor Brooks,Lakeside Properties,125
+HS0081,2024-03-16,1875 Birch Way,Columbus,OH,13280,1,1.2,3142,0.53,1908,309454,Single Family,39.919771,-83.026058,Casey Nguyen,Lakeside Properties,30
+HS0206,2021-04-27,3538 Highland Terrace,Burlington,VT,89988,4,3.0,1353,2.27,2004,214612,Townhouse,44.476418,-73.277692,Alex Morgan,Summit Brokers,90
+HS0035,2021-08-20,7344 Willow Way,Austin,TX,32241,4,3.0,829,2.39,1911,178125,Condo,30.333744,-97.69369,Casey Nguyen,Urban Homes,207
+HS0776,2019-05-01,584 Meadow St,Portland,OR,77894,2,1.8,3687,0.36,1927,570474,Single Family,45.472316,-122.686786,Morgan Patel,Urban Homes,57
+HS0509,2022-03-07,2326 Forest Terrace,Seattle,WA,47784,2,2.0,3788,0.74,1949,999725,Single Family,47.63662,-122.193801,Sam Carter,Summit Brokers,189
+HS0428,2024-04-11,9402 Elm Ave,Austin,TX,71377,3,2.2,833,0.86,1959,147501,Condo,30.276951,-97.781014,Jordan Lee,Urban Homes,37
+HS0455,2022-09-12,9460 Chestnut Way,Riverside,CA,12459,5,3.8,2809,1.22,1919,432664,Single Family,33.894687,-117.338856,Riley Smith,Summit Brokers,1
+HS0367,2021-06-11,9104 River Ave,Springfield,IL,43202,4,3.0,1942,0.53,2010,183461,Multi-Family,39.844189,-89.725855,Jamie Rivera,Urban Homes,163
+HS0092,2023-09-29,2231 Meadow St,Columbus,OH,86869,4,3.5,3880,0.11,2011,492180,Single Family,39.887271,-82.941612,Alex Morgan,Hearthstone Realty,154
+HS0340,2024-09-04,5793 Chestnut Ln,Columbus,OH,89477,2,1.1,1475,0.77,1952,208076,Single Family,39.939738,-82.969372,Jamie Rivera,Summit Brokers,19
+HS0898,2019-01-23,9271 Willow Ct,Portland,OR,59047,2,2.1,1807,0.95,1924,229476,Single Family,45.556242,-122.684522,Logan Brown,Hearthstone Realty,85
+HS0565,2022-11-21,7014 Highland Terrace,Springfield,IL,82516,3,2.1,1285,0.17,1979,153845,Single Family,39.756632,-89.721003,Sam Carter,Lakeside Properties,6
+HS0346,2020-06-09,8166 Highland Rd,Columbus,OH,74330,4,2.6,1660,3.75,1973,224558,Single Family,39.867873,-82.948424,Alex Morgan,Summit Brokers,205
+HS0777,2024-03-28,2173 Chestnut Rd,Riverside,CA,73120,3,3.1,1515,0.5,1937,218210,Condo,33.925602,-117.330764,Sam Carter,Lakeside Properties,132
+HS0242,2022-08-18,426 River Way,Burlington,VT,10089,1,1.5,2313,5.88,1922,360714,Single Family,44.445789,-73.188661,Alex Morgan,Prime Realty,38
+HS0014,2022-09-15,9175 Birch Ln,Portland,OR,10942,1,1.0,1454,0.61,1904,291439,Single Family,45.55087,-122.658562,Jamie Rivera,Summit Brokers,61
+HS0316,2023-02-01,3270 Hill Way,Riverside,CA,69067,2,3.1,1971,3.45,1972,314696,Single Family,33.993656,-117.444877,Morgan Patel,Lakeside Properties,44
+HS0601,2019-03-23,9951 Lake Ct,Phoenix,AZ,33224,3,2.1,824,0.25,1928,92226,Single Family,33.421591,-112.087202,Casey Nguyen,Hearthstone Realty,50
+HS0388,2023-02-05,4134 Birch Ave,Seattle,WA,44898,4,3.3,743,2.63,1954,138877,Condo,47.551942,-122.373371,Morgan Patel,Urban Homes,83
+HS0274,2019-12-27,5234 Oak St,Madison,WI,69251,3,2.4,2359,0.84,2000,232352,Single Family,43.076603,-89.343106,Taylor Brooks,Summit Brokers,112
+HS0167,2023-10-16,3721 Sunset Rd,Seattle,WA,46064,3,1.6,4223,0.76,1980,731238,Multi-Family,47.501442,-122.319391,Dana Kim,Lakeside Properties,13
+HS0841,2019-12-13,7313 Ridge Ave,Burlington,VT,12790,2,1.9,1434,6.38,1938,250273,Condo,44.449682,-73.185159,Alex Morgan,Hearthstone Realty,157
+HS0993,2021-09-20,5205 Willow Ave,Seattle,WA,17762,2,1.7,1063,6.1,2003,249918,Townhouse,47.654868,-122.300905,Riley Smith,Urban Homes,166
+HS0647,2019-09-28,5942 Hill Blvd,Riverside,CA,11965,3,2.0,2725,0.97,1928,377792,Single Family,33.94081,-117.38026,Casey Nguyen,Summit Brokers,95
+HS0819,2023-10-07,9746 Forest Terrace,Riverside,CA,97516,3,2.9,2199,0.76,2004,247088,Single Family,34.032373,-117.411683,Taylor Brooks,Prime Realty,73
+HS0485,2021-07-17,8786 Meadow Way,Portland,OR,70031,3,2.0,1837,0.8,1933,343035,Single Family,45.448467,-122.657782,Sam Carter,Hearthstone Realty,74
+HS0981,2019-03-03,2464 Sunset St,Springfield,IL,80710,3,2.7,2350,1.15,1912,309100,Single Family,39.789252,-89.682116,Morgan Patel,Urban Homes,24
+HS0505,2025-08-03,4245 Oak Ave,Riverside,CA,49537,2,3.1,5329,1.28,1926,897092,Multi-Family,34.012412,-117.338165,Jordan Lee,Urban Homes,172
+HS0832,2019-05-25,2382 Willow Terrace,Springfield,IL,96944,2,1.9,1369,1.72,1989,149547,Multi-Family,39.83591,-89.639585,Morgan Patel,Prime Realty,107
+HS0244,2020-06-05,5298 Walnut Terrace,Austin,TX,39260,2,1.9,1207,1.44,1937,254613,Townhouse,30.341834,-97.756656,Taylor Brooks,Prime Realty,180
+HS0567,2020-06-12,6929 Lake Way,Phoenix,AZ,31237,4,2.1,3016,0.31,1961,414865,Single Family,33.4338,-112.096702,Taylor Brooks,Urban Homes,41
+HS0876,2019-09-17,8943 Maple St,Madison,WI,59700,1,1.7,1350,0.76,1970,149175,Townhouse,43.07877,-89.37825,Alex Morgan,Summit Brokers,54
+HS0563,2023-11-04,421 Ridge Ln,Austin,TX,36389,5,3.8,2046,1.21,1980,436237,Single Family,30.305206,-97.690379,Riley Smith,Lakeside Properties,189
+HS0687,2025-07-23,8906 Walnut Ct,Riverside,CA,12588,2,1.9,2606,0.53,1966,466843,Single Family,33.88382,-117.344154,Dana Kim,Prime Realty,193
+HS0190,2025-02-12,4875 Forest Ln,Columbus,OH,52714,2,1.6,2963,1.32,1925,342743,Multi-Family,39.90182,-82.983309,Taylor Brooks,Summit Brokers,7
+HS0783,2024-07-16,4655 View Ave,Seattle,WA,85228,2,1.9,3262,0.72,1906,725106,Single Family,47.578428,-122.331007,Sam Carter,Prime Realty,71
+HS0700,2024-12-20,9179 Forest St,Albany,NY,65572,3,3.0,2710,1.0,1986,366883,Single Family,42.623133,-73.779132,Jamie Rivera,Lakeside Properties,4
+HS0476,2020-06-27,1705 Ridge Way,Austin,TX,41524,2,3.0,1380,0.42,1927,195224,Single Family,30.207093,-97.762884,Morgan Patel,Hearthstone Realty,62
+HS0682,2019-02-07,9556 Elm Way,Madison,WI,73234,1,0.5,1067,7.71,1925,152333,Townhouse,43.080956,-89.392391,Morgan Patel,Summit Brokers,27
+HS0511,2020-11-22,6594 Ridge Ave,Riverside,CA,25626,2,2.0,1066,1.32,1994,186326,Mobile Home,33.925203,-117.345468,Jamie Rivera,Hearthstone Realty,51
+HS0059,2021-03-21,634 Birch Rd,Albany,NY,47056,1,1.8,1459,1.06,1980,195872,Townhouse,42.631003,-73.663202,Riley Smith,Prime Realty,140
+HS0475,2019-05-18,3743 Highland Blvd,Portland,OR,85196,2,2.2,1083,1.53,1964,173015,Townhouse,45.481839,-122.68944,Riley Smith,Summit Brokers,101
+HS0561,2021-02-09,6010 Park Rd,Portland,OR,21486,4,2.8,870,1.57,1989,119823,Townhouse,45.505109,-122.61747,Alex Morgan,Urban Homes,124
+HS0857,2020-08-30,9680 Elm Rd,Phoenix,AZ,47602,2,2.4,2576,0.12,2025,396494,Single Family,33.450455,-112.044103,Logan Brown,Lakeside Properties,162
+HS0748,2020-07-30,2741 Elm Way,Albany,NY,20322,2,1.9,1260,1.3,1983,154614,Townhouse,42.676909,-73.853669,Taylor Brooks,Summit Brokers,133
+HS0253,2025-04-30,6349 Lake Blvd,Columbus,OH,68428,2,1.8,1114,1.67,1934,167353,Single Family,39.958148,-83.035593,Alex Morgan,Urban Homes,193
+HS0022,2025-01-11,2244 Spruce Way,Phoenix,AZ,51441,0,0.5,1081,1.07,1909,123214,Mobile Home,33.402429,-111.996503,Jordan Lee,Summit Brokers,68
+HS0314,2025-05-12,2433 Walnut Blvd,Seattle,WA,38939,4,3.5,3352,0.82,2002,698843,Single Family,47.637971,-122.394063,Alex Morgan,Summit Brokers,119
+HS0460,2024-11-12,368 Oak Terrace,Austin,TX,17347,3,2.8,2766,4.58,1983,599654,Single Family,30.219754,-97.655732,Sam Carter,Summit Brokers,39
+HS0161,2019-01-13,7584 Highland St,Phoenix,AZ,83242,2,1.7,2408,1.24,2004,289636,Single Family,33.502952,-112.079537,Jordan Lee,Summit Brokers,19
+HS0277,2023-07-11,9870 River Terrace,Seattle,WA,66841,3,3.0,1487,1.26,2021,332399,Single Family,47.66729,-122.244621,Alex Morgan,Urban Homes,58
+HS0956,2022-03-08,108 Chestnut Ct,Austin,TX,88820,2,1.5,2078,2.89,1965,404841,Single Family,30.29391,-97.779437,Casey Nguyen,Hearthstone Realty,137
+HS0192,2025-01-08,9896 Forest Ct,Austin,TX,80040,3,2.2,1910,0.25,1946,352345,Townhouse,30.227016,-97.661144,Logan Brown,Prime Realty,28
+HS0386,2025-05-29,9524 River Ave,Portland,OR,39109,1,1.5,2328,0.15,1960,397544,Single Family,45.480444,-122.602818,Alex Morgan,Summit Brokers,103
+HS0806,2020-10-28,4825 Cedar St,Columbus,OH,75395,4,4.4,904,0.43,1985,125259,Condo,39.917736,-82.999343,Casey Nguyen,Lakeside Properties,74
+HS0414,2022-12-20,1536 Forest Rd,Seattle,WA,65974,3,2.8,1579,1.87,1979,276681,Condo,47.619222,-122.359042,Taylor Brooks,Summit Brokers,145
+HS0492,2019-02-19,5306 View St,Austin,TX,97394,2,1.7,2364,0.5,1947,415052,Single Family,30.247704,-97.735197,Casey Nguyen,Hearthstone Realty,90
+HS0344,2021-04-26,5892 Willow Rd,Columbus,OH,33957,0,0.5,1642,1.83,1933,232101,Single Family,39.937698,-82.985506,Jordan Lee,Urban Homes,64
+HS0770,2019-02-17,9552 Park Rd,Riverside,CA,82470,3,3.5,1787,1.36,1955,274575,Single Family,33.97567,-117.421262,Logan Brown,Urban Homes,8
+HS0309,2025-04-04,1281 Elm St,Phoenix,AZ,70191,2,1.7,1932,2.36,1932,302518,Single Family,33.474152,-112.038217,Jamie Rivera,Summit Brokers,59
+HS0662,2024-08-12,6397 Park Ave,Riverside,CA,77965,4,1.9,1964,2.44,1938,244464,Single Family,33.954561,-117.473356,Dana Kim,Lakeside Properties,151
+HS0131,2025-03-08,9519 Pine Blvd,Phoenix,AZ,51553,1,0.5,1349,0.3,2012,158237,Single Family,33.440114,-112.115279,Logan Brown,Urban Homes,197
+HS0664,2021-02-02,125 Cedar Ave,Austin,TX,64767,3,2.0,2705,4.16,1947,488404,Single Family,30.317082,-97.75744,Taylor Brooks,Urban Homes,125
+HS0872,2023-10-07,9003 Forest Rd,Columbus,OH,22652,3,2.3,1788,0.69,1984,204586,Single Family,39.927793,-82.989131,Jamie Rivera,Urban Homes,119
+HS0100,2024-02-28,9533 Sunset Ct,Columbus,OH,93904,2,1.9,493,0.65,1921,42743,Mobile Home,39.910595,-83.081543,Morgan Patel,Prime Realty,112
+HS0373,2024-07-30,6065 View Ln,Portland,OR,52034,2,2.6,1434,0.28,1987,259984,Single Family,45.500931,-122.665715,Dana Kim,Urban Homes,157
+HS0088,2023-12-22,5041 Ridge St,Seattle,WA,17972,4,3.2,3505,0.55,1991,611545,Single Family,47.610529,-122.339884,Jamie Rivera,Prime Realty,83
+HS0459,2022-06-14,2392 Oak Ln,Burlington,VT,13324,2,2.0,1997,1.62,1982,238536,Townhouse,44.579682,-73.230714,Sam Carter,Summit Brokers,208
+HS0331,2025-06-17,6168 Oak Ct,Phoenix,AZ,40079,3,3.1,1947,0.49,2016,272988,Townhouse,33.436515,-112.064388,Jamie Rivera,Lakeside Properties,35
+HS0215,2021-05-22,2281 Elm Ave,Phoenix,AZ,79534,1,0.5,3809,7.85,1992,412191,Single Family,33.388747,-112.076004,Taylor Brooks,Lakeside Properties,158
+HS0467,2024-09-09,9237 Birch Ln,Springfield,IL,25401,1,1.8,3329,8.01,1969,288748,Multi-Family,39.694483,-89.620988,Jordan Lee,Lakeside Properties,198
+HS0122,2023-06-27,699 Willow Rd,Albany,NY,56789,3,2.7,1851,1.84,1955,252218,Townhouse,42.694296,-73.733241,Sam Carter,Lakeside Properties,87
+HS0615,2020-03-05,7894 Ridge Terrace,Burlington,VT,85813,4,3.5,2848,0.69,1920,454329,Single Family,44.459453,-73.194135,Sam Carter,Prime Realty,127
+HS0021,2021-04-16,9585 View St,Burlington,VT,91183,3,2.0,1462,1.08,1933,182824,Single Family,44.56123,-73.168421,Morgan Patel,Urban Homes,68
+HS0701,2020-11-21,3215 Maple Ct,Portland,OR,80035,3,3.4,2252,1.71,1957,375476,Single Family,45.516557,-122.677237,Dana Kim,Urban Homes,45
+HS0072,2020-01-06,8094 Meadow St,Columbus,OH,90931,2,2.0,775,2.6,1995,75613,Mobile Home,39.934687,-83.038444,Riley Smith,Prime Realty,195
+HS0107,2025-04-04,4734 Park Ct,Columbus,OH,54350,3,2.3,3054,0.93,1912,405555,Single Family,39.956739,-82.997301,Riley Smith,Hearthstone Realty,65
+HS0271,2022-09-19,9259 Walnut Terrace,Albany,NY,95778,3,3.0,2034,0.59,1953,306923,Multi-Family,42.669576,-73.788489,Morgan Patel,Hearthstone Realty,150
+HS0861,2022-08-05,3105 Highland Ave,Madison,WI,29956,4,3.2,1075,1.34,1948,136439,Condo,43.012141,-89.406412,Sam Carter,Urban Homes,131
+HS0436,2022-07-27,113 Meadow Terrace,Springfield,IL,24378,3,2.3,1500,1.35,1950,158875,Condo,39.79919,-89.700303,Riley Smith,Lakeside Properties,98
+HS0103,2022-07-18,3002 Forest Way,Riverside,CA,83889,3,1.9,1296,1.68,1941,152116,Mobile Home,33.913344,-117.404427,Taylor Brooks,Lakeside Properties,18
